@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+python-dotenv==1.0.1
+chromadb==0.5.5
+numpy==1.26.4
+google-genai>=2.3.0        # Gemini Interactions API (GA June 2026)
+python-multipart==0.0.9
+# --- swap in real providers for production ---
+# anthropic                  # if using Claude for the LLM instead
+# google-cloud-speech        # Khmer STT
+# google-cloud-texttospeech  # Khmer TTS

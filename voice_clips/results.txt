@@ -1,0 +1,28 @@
+Khmer STT Test Results
+==================================================
+
+File: Endokrin Clinic.m4a
+Transcribed: ចូលរៀបរាប់ពីរបៀបដាំដំឡូងមី
+What I actually said: [fill this in manually]
+--------------------------------------------------
+
+File: Street 608 2.m4a
+Transcribed: តើត្រូវធ្វើយ៉ាងពេញម្ដេចដើម្បីកំចាត់សត្វល្អិតចេញពីដំណាំស្វាយចន្ទី
+What I actually said: [fill this in manually]
+--------------------------------------------------
+
+File: Street 608 3.m4a
+Transcribed: តើសត្វល្អិតអ្វីខ្លះដែលបំផ្លាញដំណាំស្វាយចន្ទី
+What I actually said: [fill this in manually]
+--------------------------------------------------
+
+File: Street 608 4.m4a
+Transcribed: តើអ្នកលឿងខ្ញុំនិយាយដែរឬទេ
+What I actually said: [fill this in manually]
+--------------------------------------------------
+
+File: Street 608.m4a
+Transcribed: តើយើងត្រូវមើលថែកគោដោយរបៀបម៉េច
+What I actually said: [fill this in manually]
+--------------------------------------------------
+
