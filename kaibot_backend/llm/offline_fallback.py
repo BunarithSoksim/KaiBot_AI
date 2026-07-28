@@ -40,12 +40,16 @@ def _score(query: str, entry: dict) -> float:
 
     keywords = entry.get("keywords", [])
     keyword_hits = sum(1 for kw in keywords if kw.lower() in query_lower)
-    keyword_score = keyword_hits / len(keywords) if keywords else 0.0
+    # Cap the "expected" keyword count at 3: a farmer only needs to hit a
+    # couple of the right words, not exhaust a long keyword list. Without
+    # this cap, entries with more thorough keyword coverage were unfairly
+    # penalized for short/terse real-world phrasing.
+    effective_count = min(len(keywords), 3) if keywords else 0
+    keyword_score = min(keyword_hits / effective_count, 1.0) if effective_count else 0.0
 
     # Keyword hits are a stronger signal than raw text similarity for
     # short farmer questions, so weight them higher.
     return (0.4 * text_sim) + (0.6 * keyword_score)
-
 
 def find_offline_answer(question: str) -> str | None:
     """
