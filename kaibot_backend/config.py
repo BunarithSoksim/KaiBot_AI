@@ -50,7 +50,7 @@ class Settings:
     # (KAIBOT_EMBEDDING_PROVIDER=mock) produces much lower absolute scores,
     # so for local testing with mock, override via env, e.g.:
     #   KAIBOT_MIN_SIMILARITY_SCORE=0.1
-    min_similarity_score: float = float(os.getenv("KAIBOT_MIN_SIMILARITY_SCORE", "0.65"))
+    min_similarity_score: float = float(os.getenv("KAIBOT_MIN_SIMILARITY_SCORE", "0.665"))
 
     # --- Confidence / safety ---
     low_confidence_message_km: str = (

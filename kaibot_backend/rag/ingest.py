@@ -58,12 +58,6 @@ def load_sample_documents() -> list[dict]:
       "topic": "animal_health",
       "text": "..."
     }
-    The category/lifecycle_stage fields cover the full farming cycle this
-    knowledge base is meant to answer questions about -- not just crops:
-    Plant -> Grow -> Raise (livestock) -> Harvest -> Process -> Sell
-    (market access) -> Consume -> Plan -> back to Plant.
-    Swap this loader for real ingestion of CARDI/GDA/GDAHP/FAO/NGO material
-    once sourced -- the chunking/embedding/storage logic below doesn't change.
     """
     docs = []
     for path in sorted(SAMPLE_DOCS_DIR.glob("*.json")):
@@ -73,23 +67,22 @@ def load_sample_documents() -> list[dict]:
 
 
 def build_index(reset: bool = True) -> chromadb.Collection:
+    """
+    Builds the ChromaDB index from data/sample_docs/.
+
+    Order matters here: chunking and embedding happen FIRST, and the old
+    collection is only deleted/replaced AFTER embedding succeeds. This way,
+    if the embedding API call fails (rate limit, network, etc.), the
+    existing working collection is left untouched instead of being wiped
+    out and left empty -- learned this the hard way on Jul 27 when a 429
+    mid-rebuild deleted the collection before the replacement data arrived.
+    """
     client = chromadb.PersistentClient(path=str(CHROMA_PERSIST_DIR))
-
-    if reset:
-        try:
-            client.delete_collection(COLLECTION_NAME)
-        except Exception:
-            pass
-
-    collection = client.get_or_create_collection(
-        name=COLLECTION_NAME,
-        metadata={"hnsw:space": "cosine"},
-    )
 
     embedder = get_embedder()
     documents = load_sample_documents()
 
-    ids, texts, metadatas, embeddings = [], [], [], []
+    ids, texts, metadatas = [], [], []
 
     for doc in documents:
         for chunk in chunk_text(doc["text"]):
@@ -108,9 +101,20 @@ def build_index(reset: bool = True) -> chromadb.Collection:
 
     if not texts:
         print("No sample documents found in data/sample_docs/. Nothing to index.")
-        return collection
+        return client.get_or_create_collection(COLLECTION_NAME)
 
-    embeddings = embedder.embed(texts)
+    embeddings = embedder.embed(texts)  # if this raises, nothing below has run yet -- old collection is safe
+
+    if reset:
+        try:
+            client.delete_collection(COLLECTION_NAME)
+        except Exception:
+            pass
+
+    collection = client.get_or_create_collection(
+        name=COLLECTION_NAME,
+        metadata={"hnsw:space": "cosine"},
+    )
 
     collection.add(
         ids=ids,
