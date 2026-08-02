@@ -8,5 +8,5 @@ google-genai>=2.3.0        # Gemini Interactions API (GA June 2026)
 python-multipart==0.0.9
 # --- swap in real providers for production ---
 # anthropic                  # if using Claude for the LLM instead
-# google-cloud-speech        # Khmer STT
-# google-cloud-texttospeech  # Khmer TTS
+google-cloud-speech        # Khmer STT
+google-cloud-texttospeech  # Khmer TTS

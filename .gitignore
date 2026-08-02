@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .env
 kaibot_backend/chroma_store/
+gcp_service_account.json
+chroma_store/
