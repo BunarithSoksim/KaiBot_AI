@@ -27,7 +27,7 @@ class Settings:
     # Check ai.google.dev/gemini-api/docs for the current model name/SDK
     # before wiring this up -- gemini-1.5-pro may be deprecated by the time
     # you get to this step.
-    llm_model: str = os.getenv("KAIBOT_LLM_MODEL", "gemini-3.5-flash")
+    llm_model: str = os.getenv("KAIBOT_LLM_MODEL", "gemini-3.6-flash")
     max_output_tokens: int = 1000
 
     # --- Embeddings ---

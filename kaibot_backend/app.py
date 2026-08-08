@@ -10,6 +10,8 @@ Kept deliberately thin: this file should only ever orchestrate calls to
 rag/retriever.py, llm/client.py, and voice/stt_tts.py -- no business logic
 lives here, so any of those layers can be swapped or unit-tested alone.
 """
+import traceback
+
 from fastapi import FastAPI, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -69,6 +71,7 @@ def chat(req: ChatRequest) -> ChatResponse:
         )
     except Exception as e:  # noqa: BLE001 -- Gemini unreachable (network/quota/etc), degrade to offline cache
         print(f"[chat] pipeline unreachable, falling back to offline cache: {e}")
+        traceback.print_exc()
         cached = find_offline_answer(req.question)
         if cached:
             return ChatResponse(answer=cached, low_confidence=False, sources=["(offline cache)"])
@@ -111,6 +114,7 @@ async def chat_voice(audio: UploadFile, province: str | None = None,
             transcript=transcription.text,
         )
     except Exception as e:  # noqa: BLE001 -- Gemini unreachable (network/quota/etc), degrade to offline cache
+        traceback.print_exc()
         print(f"[chat_voice] pipeline unreachable, falling back to offline cache: {e}")
         cached = find_offline_answer(transcription.text)
         if cached:
