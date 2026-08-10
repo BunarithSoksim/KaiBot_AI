@@ -623,6 +623,59 @@
       micBtn.disabled = false;
     }
   }
+
+  async function playMessageAudio(text, speakerBtn) {
+  if (!soundEnabled) return;
+
+  // NEW: if this button is already playing, treat the click as "stop"
+  if (speakerBtn.classList.contains('speaking')) {
+    if (currentAudio) {
+      currentAudio.pause();
+      currentAudio.currentTime = 0;
+    }
+    speakerBtn.classList.remove('speaking');
+    speakerBtn.innerHTML = ICON_VOLUME;
+    return;
+  }
+
+  try {
+    if (currentAudio) {
+      currentAudio.pause();
+      currentAudio.currentTime = 0;
+    }
+    document.querySelectorAll('.speaker-btn.speaking')
+      .forEach(b => {
+        b.classList.remove('speaking');
+        b.innerHTML = ICON_VOLUME;
+      });
+
+    speakerBtn.classList.add('loading');
+    const audioUrl = await fetchTTSAudio(text);
+    speakerBtn.classList.remove('loading');
+
+    currentAudio = new Audio(audioUrl);
+    speakerBtn.classList.add('speaking');
+    speakerBtn.innerHTML = ICON_STOP; // NEW: swap icon so the affordance is visible
+
+    currentAudio.addEventListener('ended', () => {
+      speakerBtn.classList.remove('speaking');
+      speakerBtn.innerHTML = ICON_VOLUME; // NEW
+    });
+    currentAudio.addEventListener('error', () => {
+      speakerBtn.classList.remove('speaking');
+      speakerBtn.innerHTML = ICON_VOLUME; // NEW
+    });
+
+    await currentAudio.play().catch(() => {
+      speakerBtn.classList.remove('speaking');
+      speakerBtn.innerHTML = ICON_VOLUME; // NEW
+    });
+  } catch (err) {
+    speakerBtn.classList.remove('loading', 'speaking');
+    speakerBtn.innerHTML = ICON_VOLUME; // NEW
+    console.error('TTS playback failed:', err);
+  }
+}
 </script>
 
 </body>
