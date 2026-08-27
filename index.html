@@ -2,249 +2,183 @@
 <html lang="km">
 <head>
 <meta charset="UTF-8">
+<script>
+  (function () {
+    var saved = localStorage.getItem('smartkasekor-theme');
+    document.documentElement.setAttribute('data-theme', saved === 'light' ? 'light' : 'dark');
+  })();
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>KaiBot — AI សម្រាប់កសិករខ្មែរ</title>
+<title>SmartKasekor — AI សម្រាប់កសិករខ្មែរ</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Work+Sans:wght@400;500;600&family=Noto+Sans+Khmer:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=JetBrains+Mono:wght@500&family=Noto+Sans+Khmer:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root {
-    --cream: #F7F2E7;
-    --paddy: #33502E;
-    --paddy-deep: #24371F;
-    --gold: #C79A2E;
-    --clay: #B8452F;
-    --clay-deep: #8C331F;
-    --ink: #2A2620;
-    --ink-soft: #5C574C;
-    --line: #E2D8C3;
+    --bg: #081F14;
+    --panel: #0F3320;
+    --panel-2: #123A25;
+    --line: #1F4A2C;
+    --mid: #1E7A1A;
+    --bright: #3FAE0F;
+    --lime: #C3F53A;
+    --ink-on-lime: #0E2410;
+    --on-mid: #F3FAE6;
+    --text: #EFF7E4;
+    --text-soft: #A9C9AE;
+    --text-faint: #6E8F76;
+    --accent-text: #C3F53A;
+    --heading-accent: #E3F9A6;
+    --warn: #E8B93F;
 
-    --space-1: 8px;
-    --space-2: 12px;
-    --space-3: 20px;
-    --space-4: 32px;
-    --space-5: 48px;
-    --space-6: 72px;
-    --space-7: 104px;
+    --space-2: 12px; --space-3: 20px; --space-4: 32px; --space-5: 48px; --space-6: 72px; --space-7: 104px;
+  }
+
+  :root[data-theme="light"] {
+    --bg: #F4FAEA;
+    --panel: #FFFFFF;
+    --panel-2: #EDF6DC;
+    --line: #CFE6AD;
+    --mid: #2F8F1A;
+    --bright: #2E8A0C;
+    --text: #14241A;
+    --text-soft: #3E5A45;
+    --text-faint: #6C8874;
+    --accent-text: #4C8A0C;
+    --heading-accent: #2B5E12;
+    --warn: #92660A;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
   html { scroll-behavior: smooth; }
+  html, body { overflow-x: hidden; }
 
   body {
-    background: var(--cream);
-    color: var(--ink);
-    font-family: 'Noto Sans Khmer', 'Work Sans', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Noto Sans Khmer', 'Space Grotesk', sans-serif;
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
+    transition: background 0.2s ease, color 0.2s ease;
   }
 
-  .khmer { font-family: 'Noto Sans Khmer', 'Work Sans', sans-serif; }
+  .khmer { font-family: 'Noto Sans Khmer', sans-serif; }
+  .mono { font-family: 'JetBrains Mono', monospace; }
 
   a { color: inherit; text-decoration: none; }
-  a:focus-visible, button:focus-visible { outline: 2px solid var(--paddy); outline-offset: 3px; }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--lime); outline-offset: 3px; }
 
-  .wrap {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 0 24px;
-  }
+  .wrap { max-width: 900px; margin: 0 auto; padding: 0 24px; }
 
-  /* ---------- Nav — deliberately minimal, one destination only ---------- */
-  nav {
-    padding: var(--space-3) 0;
-    border-bottom: 1px solid var(--line);
-  }
-  nav .wrap {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  .logo {
-    font-family: 'Fraunces', serif;
-    font-weight: 600;
-    font-size: 1.15rem;
-    color: var(--paddy);
-    letter-spacing: -0.01em;
-  }
-  .logo span { color: var(--clay); }
+  /* ---------- Nav ---------- */
+  nav { padding: var(--space-3) 0; border-bottom: 1px solid var(--line); }
+  nav .wrap { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+  .logo { font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 1.15rem; letter-spacing: -0.01em; color: var(--text); }
+  .logo span { color: var(--accent-text); }
+  .nav-right { display: flex; align-items: center; gap: 8px; }
   .nav-cta {
-    font-family: 'Noto Sans Khmer', sans-serif;
-    font-size: 0.92rem;
-    font-weight: 500;
-    color: var(--paddy);
-    padding: 8px 4px;
+    font-family: 'Noto Sans Khmer', sans-serif; font-size: 0.92rem; font-weight: 600;
+    color: var(--ink-on-lime); background: var(--lime); padding: 9px 18px; border-radius: 999px;
+    transition: transform 0.12s ease;
   }
-  .nav-cta:hover { color: var(--clay); }
+  .nav-cta:hover { transform: translateY(-1px); }
 
-  /* ---------- Hero — Khmer is the display type ---------- */
-  .hero {
-    padding: var(--space-6) 0 var(--space-5);
-    text-align: center;
+  .icon-btn {
+    width: 38px; height: 38px; border: 1px solid var(--line); border-radius: 999px;
+    background: var(--panel); cursor: pointer; display: flex; align-items: center; justify-content: center;
+    color: var(--text-soft); transition: border-color 0.15s ease; flex-shrink: 0;
   }
+  .icon-btn:hover { border-color: var(--bright); }
+  .icon-btn svg { width: 18px; height: 18px; }
+
+  /* ---------- Hero ---------- */
+  .hero { padding: var(--space-6) 0 var(--space-5); text-align: center; }
   .eyebrow {
-    font-family: 'Work Sans', sans-serif;
-    display: inline-block;
-    font-size: 0.75rem;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: var(--ink-soft);
-    font-weight: 600;
+    font-family: 'JetBrains Mono', monospace; display: inline-block; font-size: 0.72rem;
+    letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent-text); font-weight: 500;
     margin-bottom: var(--space-4);
   }
   .hero-khmer {
-    font-family: 'Noto Sans Khmer', sans-serif;
-    font-weight: 700;
-    font-size: clamp(1.7rem, 4.6vw, 2.6rem);
-    line-height: 1.4;
-    color: var(--ink);
-    max-width: 780px;
-    margin: 0 auto var(--space-2);
+    font-family: 'Noto Sans Khmer', sans-serif; font-weight: 700;
+    font-size: clamp(1.5rem, 4.6vw, 2.6rem); line-height: 1.4; color: var(--text);
+    max-width: 780px; margin: 0 auto var(--space-2);
   }
   .hero-en {
-    font-family: 'Fraunces', serif;
-    font-weight: 500;
-    font-style: italic;
-    font-size: clamp(1rem, 2vw, 1.15rem);
-    color: var(--ink-soft);
-    max-width: 480px;
-    margin: 0 auto var(--space-5);
+    font-family: 'Space Grotesk', sans-serif; font-weight: 500; font-size: clamp(0.9rem, 2vw, 1.05rem);
+    color: var(--text-soft); max-width: 480px; margin: 0 auto var(--space-5);
   }
-  .cta-row {
-    display: flex;
-    gap: var(--space-2);
-    justify-content: center;
-    flex-wrap: wrap;
-  }
+
+  .cta-row { display: flex; gap: var(--space-2); justify-content: center; flex-wrap: wrap; }
   .btn {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    padding: 16px 30px;
-    border-radius: 999px;
-    font-family: 'Noto Sans Khmer', sans-serif;
-    font-weight: 600;
-    font-size: 1rem;
-    border: none;
-    cursor: pointer;
+    display: inline-flex; align-items: center; justify-content: center; gap: 10px;
+    padding: 15px 26px; border-radius: 999px; font-family: 'Noto Sans Khmer', sans-serif;
+    font-weight: 600; font-size: 0.98rem; border: none; cursor: pointer;
     transition: transform 0.12s ease, box-shadow 0.12s ease;
   }
   .btn svg { flex-shrink: 0; }
-  .btn-primary {
-    background: var(--clay);
-    color: #fff;
-    box-shadow: 0 3px 0 var(--clay-deep);
-  }
-  .btn-primary:hover { transform: translateY(-1px); box-shadow: 0 4px 0 var(--clay-deep); }
-  .btn-primary:active { transform: translateY(2px); box-shadow: 0 1px 0 var(--clay-deep); }
-  .btn-ghost {
-    background: transparent;
-    color: var(--paddy);
-    border: 1.5px solid var(--line);
-  }
-  .btn-ghost:hover { border-color: var(--paddy); }
+  .btn-primary { background: var(--lime); color: var(--ink-on-lime); box-shadow: 0 3px 0 #8DB824; }
+  .btn-primary:hover { transform: translateY(-1px); box-shadow: 0 4px 0 #8DB824; }
+  .btn-primary:active { transform: translateY(2px); box-shadow: 0 1px 0 #8DB824; }
+  .btn-ghost { background: transparent; color: var(--text); border: 1.5px solid var(--line); }
+  .btn-ghost:hover { border-color: var(--bright); }
 
-  /* ---------- The cycle — a real sequence, so it earns plain numbering ---------- */
+  /* ---------- Cycle ---------- */
   .cycle-section { padding: var(--space-6) 0; }
-  .cycle-intro {
-    max-width: 460px;
-    margin: 0 auto var(--space-5);
-    text-align: center;
-  }
-  .cycle-intro .eyebrow { color: var(--paddy); }
-  .cycle-intro h2 {
-    font-family: 'Noto Sans Khmer', sans-serif;
-    font-weight: 700;
-    font-size: 1.35rem;
-    color: var(--ink);
-    margin-bottom: var(--space-2);
-  }
-  .cycle-intro p { color: var(--ink-soft); font-size: 0.95rem; }
+  .cycle-intro { max-width: 460px; margin: 0 auto var(--space-5); text-align: center; }
+  .cycle-intro .eyebrow { color: var(--bright); }
+  .cycle-intro h2 { font-family: 'Noto Sans Khmer', sans-serif; font-weight: 700; font-size: 1.25rem; color: var(--text); margin-bottom: var(--space-2); }
+  .cycle-intro p { color: var(--text-soft); font-size: 0.92rem; }
 
   .cycle-list { max-width: 560px; margin: 0 auto; }
-  .cycle-row {
-    display: flex;
-    align-items: baseline;
-    gap: var(--space-3);
-    padding: 15px 0;
-    border-bottom: 1px solid var(--line);
-  }
+  .cycle-row { display: flex; align-items: baseline; gap: var(--space-3); padding: 15px 0; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
   .cycle-row:first-child { border-top: 1px solid var(--line); }
-  .cycle-index {
-    font-family: 'Work Sans', sans-serif;
-    font-size: 0.8rem;
-    color: var(--gold);
-    font-weight: 600;
-    width: 22px;
-    flex-shrink: 0;
-  }
-  .cycle-km {
-    font-family: 'Noto Sans Khmer', sans-serif;
-    font-weight: 600;
-    font-size: 1.05rem;
-    color: var(--paddy);
-  }
-  .cycle-en {
-    font-family: 'Work Sans', sans-serif;
-    font-size: 0.85rem;
-    color: var(--ink-soft);
-    margin-left: auto;
-  }
+  .cycle-index { font-family: 'JetBrains Mono', monospace; font-size: 0.78rem; color: var(--accent-text); font-weight: 500; width: 22px; flex-shrink: 0; }
+  .cycle-km { font-family: 'Noto Sans Khmer', sans-serif; font-weight: 600; font-size: 1.02rem; color: var(--text); }
+  .cycle-en { font-family: 'Space Grotesk', sans-serif; font-size: 0.85rem; color: var(--text-faint); margin-left: auto; }
 
-  /* ---------- Trust — three plain statements, no card chrome ---------- */
-  .trust { background: var(--paddy); color: var(--cream); padding: var(--space-6) 0; }
-  .trust .wrap {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: var(--space-5);
-  }
+  /* ---------- Trust ---------- */
+  .trust { background: var(--panel); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: var(--space-6) 0; }
+  .trust .wrap { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--space-5); }
   .trust-item { text-align: left; }
-  .trust-item h3 {
-    font-family: 'Noto Sans Khmer', sans-serif;
-    font-weight: 700;
-    font-size: 1.02rem;
-    margin-bottom: 8px;
-    color: #F1E6C6;
-  }
-  .trust-item p {
-    font-family: 'Noto Sans Khmer', sans-serif;
-    font-size: 0.88rem;
-    color: #D8E0D4;
-    line-height: 1.65;
-  }
+  .trust-item h3 { font-family: 'Noto Sans Khmer', sans-serif; font-weight: 700; font-size: 1.02rem; margin-bottom: 8px; color: var(--heading-accent); }
+  .trust-item p { font-family: 'Noto Sans Khmer', sans-serif; font-size: 0.88rem; color: var(--text-soft); line-height: 1.65; }
 
-  footer {
-    padding: var(--space-5) 0;
-    text-align: center;
-    color: var(--ink-soft);
-    font-size: 0.82rem;
-  }
+  footer { padding: var(--space-5) 0; text-align: center; color: var(--text-faint); font-size: 0.82rem; }
 
   @media (max-width: 640px) {
     .trust .wrap { grid-template-columns: 1fr; gap: var(--space-4); text-align: center; }
-    .cycle-row { flex-wrap: wrap; }
+    .cycle-row { gap: 10px; }
     .cycle-en { margin-left: 32px; }
   }
 
-  @media (prefers-reduced-motion: reduce) {
-    * { transition: none !important; scroll-behavior: auto !important; }
+  @media (max-width: 480px) {
+    .wrap { padding: 0 16px; }
+    .hero { padding: var(--space-5) 0 var(--space-4); }
+    .cycle-section, .trust { padding: var(--space-5) 0; }
+    .logo { font-size: 1rem; }
+    .nav-cta { padding: 8px 14px; font-size: 0.86rem; }
+    .btn { padding: 13px 20px; font-size: 0.9rem; }
   }
+
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
 </style>
 </head>
 <body>
 
 <nav>
   <div class="wrap">
-    <div class="logo">Kai<span>Bot</span></div>
-    <a href="chat.html" class="nav-cta khmer">ជជែក →</a>
+    <div class="logo">Smart<span>Kasekor</span></div>
+    <div class="nav-right">
+      <button type="button" class="icon-btn" id="theme-toggle" title="Toggle theme"></button>
+      <a href="chat.html" class="nav-cta khmer">ជជែក →</a>
+    </div>
   </div>
 </nav>
 
 <header class="hero">
   <div class="wrap">
-    <div class="eyebrow">ឥតគិតថ្លៃ · ភាសាខ្មែរ · សំឡេង &amp; អក្សរ</div>
+    <div class="eyebrow">ឥតគិតថ្លៃ · ភាសាខ្មែរ &amp; អង់គ្លេស · សំឡេង &amp; អក្សរ</div>
     <h1 class="hero-khmer">សួរអំពីដំណាំ សត្វចិញ្ចឹម ឬការលក់ដុះដាល ទទួលចម្លើយដែលអាចទុកចិត្តបាន</h1>
-    <p class="hero-en">Farming answers grounded in real Cambodian sources — by voice or text, in Khmer.</p>
+    <p class="hero-en">Farming answers grounded in real Cambodian sources — by voice or text, in Khmer or English.</p>
     <div class="cta-row">
       <a href="chat.html" class="btn btn-primary">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="23"/><line x1="8" y1="23" x2="16" y2="23"/></svg>
@@ -260,7 +194,7 @@
     <div class="cycle-intro">
       <div class="eyebrow">វដ្តកសិកម្មពេញលេញ</div>
       <h2>មិនមែនត្រឹមតែការដាំដុះទេ — ជីវិតកសិកម្មទាំងមូល</h2>
-      <p>KaiBot តាមដានវដ្តដែលកសិករពិតជាឆ្លងកាត់ ចាប់ពីស្រែរហូតដល់ទីផ្សារ។</p>
+      <p>SmartKasekor តាមដានវដ្តដែលកសិករពិតជាឆ្លងកាត់ ចាប់ពីស្រែរហូតដល់ទីផ្សារ។</p>
     </div>
 
     <div class="cycle-list">
@@ -284,18 +218,41 @@
     </div>
     <div class="trust-item">
       <h3>ស្មោះត្រង់ពេលមិនប្រាកដ</h3>
-      <p>ប្រសិនបើ KaiBot មិនប្រាកដចម្លើយ វានឹងប្រាប់ត្រង់ៗ និងណែនាំឱ្យសួរមន្ត្រីកសិកម្ម។</p>
+      <p>ប្រសិនបើ SmartKasekor មិនប្រាកដចម្លើយ វានឹងប្រាប់ត្រង់ៗ និងណែនាំឱ្យសួរមន្ត្រីកសិកម្ម។</p>
     </div>
     <div class="trust-item">
-      <h3>សាកសមនឹងតំបន់ជនបទ</h3>
-      <p>ប្រើសំឡេងជាចម្បង ងាយប្រើសម្រាប់អ្នកមិនសូវអានសរសេរ និងធន់នឹងអ៊ីនធឺណិតខ្សោយ។</p>
+      <h3>ខ្មែរ ឬអង់គ្លេស — អ្នកជ្រើសរើស</h3>
+      <p>ប្តូរភាសាបានគ្រប់ពេល ទាំងសរសេរ និងសំឡេង។</p>
     </div>
   </div>
 </section>
 
 <footer>
-  <div class="wrap">KaiBot — គម្រោងកម្មសិក្សា ដោះស្រាយចន្លោះព័ត៌មានកសិកម្មនៅកម្ពុជាដោយ AI។</div>
+  <div class="wrap">SmartKasekor — គម្រោងកម្មសិក្សា ដោះស្រាយចន្លោះព័ត៌មានកសិកម្មនៅកម្ពុជាដោយ AI។</div>
 </footer>
+
+<script>
+  const ICON_SUN = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>`;
+  const ICON_MOON = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>`;
+
+  const themeToggle = document.getElementById('theme-toggle');
+  const THEME_KEY = 'smartkasekor-theme';
+
+  function applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    themeToggle.innerHTML = theme === 'light' ? ICON_MOON : ICON_SUN;
+    themeToggle.title = theme === 'light' ? 'Dark mode' : 'Light mode';
+  }
+
+  themeToggle.addEventListener('click', () => {
+    const current = document.documentElement.getAttribute('data-theme') || 'dark';
+    const next = current === 'light' ? 'dark' : 'light';
+    localStorage.setItem(THEME_KEY, next);
+    applyTheme(next);
+  });
+
+  applyTheme(document.documentElement.getAttribute('data-theme') || 'dark');
+</script>
 
 </body>
 </html>
