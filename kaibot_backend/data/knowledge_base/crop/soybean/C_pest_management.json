@@ -1,0 +1,9 @@
+{
+  "source": "MAFF / ADB, \"ដំណាំសណ្តែកសៀង\" [Soybean crop], official cultivation manual, 2005",
+  "category": "crop",
+  "product": "soybean",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "pest_management",
+  "text": "Pest coverage lists armyworm, cutworm, bean pod borer, leaf-footed bug/stink bug complex, aphid, thrips, leafhopper, and bruchid weevil (a storage pest attacking dried seed), with identification notes and general chemical/cultural control guidance for each. The manual pairs cultural practices (field sanitation, timely harvest to avoid pod-shattering losses that also reduce the bruchid weevil's food source in the field) with targeted spraying only when pest levels are damaging."
+}

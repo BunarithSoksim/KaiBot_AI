@@ -1,0 +1,10 @@
+{
+  "source": "MAFF Department of Agricultural Extension (នាយកដ្ឋានផ្សព្វផ្សាយកសិកម្ម), \"ដំណាំសណ្តែកដី\" (Peanut / Groundnut Cultivation handbook), Kingdom of Cambodia, 2008, produced under Loan 2022-CAM(SF) (an ADB-financed project; the cover names a livelihood/agriculture-improvement program under this loan). Uploaded as a 14-page scanned PDF; no embedded text layer, all content read visually from page images. This is Source B for crop/peanut in this knowledge base (Source A was a shorter ECOSORN leaflet processed in Batch 42).",
+  "category": "crop",
+  "product": "peanut",
+  "lifecycle_stage": "land_prep",
+  "province": "national",
+  "topic": "soil_and_land_preparation",
+  "text": "Peanut can be grown on a range of soil types but yields best on loose, sandy, well-drained soil with a pH of roughly 6.5-7.5; the crop needs consistent soil moisture but does not tolerate waterlogging. Land should be plowed 2-3 times to loosen the soil thoroughly before planting, and leveled/harrowed using appropriate technique, since compacted soil both restricts pod formation below ground and makes pods harder to harvest at the end of the season. A basal NPK compound fertilizer (the source cites a 15-15-15 formulation) is applied at roughly 3-4 bags per hectare at land preparation, with urea (roughly 70 kg/ha) worked in as a second application; a bag is understood in Cambodian farm practice to typically hold 50 kg, though the source does not state the bag weight explicitly for this figure.",
+  "caveat": "The '3-4 bags/ha' fertilizer figure assumes a standard local bag size, since the source text itself does not spell out bag weight at this specific point; reported as printed rather than converted to a kg/ha figure that would require assuming that detail."
+}

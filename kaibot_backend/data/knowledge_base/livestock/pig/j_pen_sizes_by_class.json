@@ -1,0 +1,10 @@
+{
+  "source": "Morais O., Cargill C., Parke K. and Barnes T. 2020. Smallholder Pig Production Technicians' Manual. Timor-Leste Ministry of Agriculture and Fisheries, University of Queensland, ACIAR and the TOMAK Program (Australian Aid), Dili.",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "housing",
+  "province": null,
+  "topic": "pen_sizes_by_class",
+  "text": "Recommended minimum pen sizes by pig class: pregnant sows, 1–1.5m² per sow if penned individually (or 3m²+ minimum if housed in groups); farrowing pens with a creep box, 4–6m² with only one sow per pen since lactating sows need a quiet environment; weaning pens sized at roughly 0.15m² per 10kg pig (e.g. 10 piglets need about 1.5m²); growing pigs need about 0.22m² at 25kg rising to 0.5m² at 50kg; boars need 5–8m² with strong walls about 1.2m high to prevent escape when sows are in heat nearby.",
+  "caveat": "This guidance comes from a Timor-Leste smallholder pig manual, not a Cambodia-specific source. Feed ingredients and general husbandry practices transfer well to Cambodia's tropical smallholder conditions, but local breed weights/ages and disease-context details may differ; confirm specifics with a local vet or extension officer where precision matters."
+}

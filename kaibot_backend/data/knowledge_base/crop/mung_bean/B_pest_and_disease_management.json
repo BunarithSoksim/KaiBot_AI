@@ -1,0 +1,9 @@
+{
+  "source": "MAFF / ADB, \"សណ្តែកបាយ\" [Bean crop — mung bean and black gram], official cultivation manual, 2005 (mung bean sections)",
+  "category": "crop",
+  "product": "mung_bean",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "pest_and_disease_management",
+  "text": "Shared pest and disease coverage across both mung bean and black gram in this manual includes: Cercospora leaf spot, powdery mildew, and mosaic virus disease; and aphid, cutworm, bean pod borer, leaf-footed bug/stink bug complex, whitefly, and mealybug as the main insect pests, each with identification and control notes plus named pesticide-use guidance for chemical control options."
+}

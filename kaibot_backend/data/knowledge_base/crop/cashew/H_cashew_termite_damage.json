@@ -1,0 +1,10 @@
+{
+  "source": "MAFF / Boosting Food Production Program (PMO), Royal Government of Cambodia — ខ្សែសង្វាក់ផលិតកម្ម ដំណាំស្វាយចន្ទីនៅកម្ពុជា (Cashew Value Chain Study in Cambodia), field survey report (250 household respondents across major cashew-growing provinces), 2017, 57pp",
+  "category": "crop",
+  "product": "cashew",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "cashew_termite_damage",
+  "text": "Termite damage in cashew orchards, per the 2017 MAFF cashew value chain study.\n\nFarmers reported ongoing termite damage to cashew root systems and trunks, particularly in older orchards, with termites present in the soil around the base of trees.\n\nThe report describes two forms of impact: first, direct damage that immediately reduces yield of the affected tree; second, progressive weakening of the root system that impairs the tree's ability to take up water and nutrients, leading to a gradual decline in vigor and yield over time (the source describes a roughly two-year progression of decline once root damage sets in) and eventual dieback in severe, untreated cases.\n\nTermites were identified as a real but comparatively smaller cause of tree loss relative to the broader 'pests and diseases' category and the emerging tea mosquito bug problem (see cashew_pest_disease_variety_susceptibility), accounting for roughly 5-6% of reported tree-loss causes for both local Khmer and M23 varieties.",
+  "caveat": "Some specific figures in this source (percentages, price points, yield ranges) were transcribed from a scanned document at a resolution where certain digits were hard to confirm with full pixel-level certainty. Figures are reported as best-effort readings of the source; anyone using exact numbers for decisions should verify against the original report where possible."
+}

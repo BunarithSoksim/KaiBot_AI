@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 9 (Harmful factors and management), section 9.1.3.1. No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "disease_kernel_smut_grain_CARDI_CONFIRMED",
+  "text": "Kernel smut (ជម្ងឺម្រេងភ្លឺង) is a grain disease of rice caused by the fungus Tilletia barclayana. It is distinct from false smut (ជម្ងឺឈូងបៃតង, caused by Ustilaginodea virens - see the separate confirmed entry from Batch 14) even though both affect the grain/panicle. Kernel smut infection shows up as individual darkened, smut-affected kernels within the panicle rather than the large green-to-black fungal balls typical of false smut. The fungal spores (chlamydospores) are about 14-36 micrometers, dark-colored, and spread most easily during dry weather at flowering/grain-fill stage. This disease is reported to occur most commonly in dedicated seed-production fields and is considered to have a limited/localized distribution rather than being a widespread field problem across Cambodia.",
+  "caveat": "This is a newly-extracted disease not previously present in the knowledge base (distinct from the already-confirmed false smut entry from Batch 14) - flagging for duplicate-check against the live repo since this session has no direct repo access. The source's control/fungicide recommendations for this specific disease were not clearly separated from the following false-smut section in the source text, so no chemical control details are included here to avoid misattributing false-smut fungicide recommendations to kernel smut."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "MAFF/GIZ, \"Guidelines for Banana Export from Cambodia to China\" (2022), conclusion appendix 2 and customs section",
+  "category": "crop",
+  "product": "banana",
+  "lifecycle_stage": "sell",
+  "province": "national",
+  "topic": "cambodia_customs_declaration_process_overview",
+  "text": "Once a banana shipment is ready to leave Cambodia, it still has to clear Cambodian customs before export, using the ASYCUDA electronic customs system. In outline, this involves: the declarant (the exporter or their customs broker) lodging a Single Administrative Document (SAD) declaration electronically, after which the system automatically routes the declaration into one of several risk channels shown on the SAD form \u2014 commonly color-coded as red (requires full documentary check and physical goods inspection), yellow (documentary check only), green (automatic assessment with no physical check), or blue (post-clearance scrutiny/audit rather than inspection at the border). Declarations needing physical inspection go through a goods inspection step before customs re-routes them to \"green\" for release; once assessment is complete and any duties/fees are settled, a release order is printed and the goods are authorized to move.\n\nSupporting paperwork typically bundled with a banana export shipment includes the commercial invoice, packing list, phytosanitary certificate, a list of containers, and a bill of trucking/lading \u2014 examples of all of these appear as sample filled-in documents in this guide's appendices, based on a real banana shipment from Kampong Cham province to Dalian, China via Vietnam."
+}

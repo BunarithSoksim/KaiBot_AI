@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 9 (Harmful factors and management), section 9.1.5.2 (Rice root-knot nematode). No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "pest_root_knot_nematode_CARDI_CONFIRMED",
+  "text": "This entry resolves Batch 14's open item requesting a source naming the species for the root nematode disease flagged in that batch (pest_root_nematode_disease_FLAGGED.json, which noted a symptom pattern consistent with root-knot nematode but left the species unconfirmed). This CARDI source explicitly names and confirms the species as Meloidogyne graminicola (Golden & Birchfield) - the rice root-knot nematode (ណេម៉ាតូតពកបួសស្រូវ). It infects rice roots, causing characteristic knot/gall-like swellings, most often in dry-season and upland/rainfed rice grown in lighter, sandier soils rather than continuously flooded paddies. Symptoms include stunted growth, yellowing leaves, and reduced tillering, with root galls visible on close inspection when plants are uprooted. The source reports this nematode is also documented in Vietnam, Myanmar, and the southern United States. Recommended management: use clean/nematode-free seed and fields, practice water management (flooding suppresses nematode activity, since Meloidogyne graminicola is more damaging under drier soil conditions), remove and destroy infected plant debris, and where necessary apply a systemic nematicide such as oxamyl, fensulfothion, phorate, or carbofuran.",
+  "caveat": "This should be used to update/resolve Batch 14's pest_root_nematode_disease_FLAGGED.json once repo access is available - recommend renaming to reflect the confirmed species and cross-referencing this entry."
+}

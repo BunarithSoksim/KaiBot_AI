@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "crop",
+  "product": "radish",
+  "lifecycle_stage": "pest_disease",
+  "province": "national",
+  "topic": "a_pest_soil_dwelling_grub_adult",
+  "text": "Pest #4 (សត្វរវ៉េក, soil-dwelling pest, exact name uncertain — see caveat). A fourth insect pest, damaging throughout its entire life cycle from nymph/larva to adult. Larval stage: the adult lays eggs directly near the base of the plant; after hatching, larvae feed on and damage the sprout and root system underground, stunting the plant and severely reducing growth, especially during the hot/dry season. Adult stage: small adults with hardened forewings, occurring in groups and moving/jumping actively; they feed on leaves, leaving net-like holes that impair leaf growth and can cause substantial annual yield loss. Heaviest damage occurs from February through April every year. Control measure given in the source: after harvesting, apply Furadan-type granular pesticide to the soil at 10-15 kg/ha, then plow/incorporate it into the soil — recommended as part of field rotation practice between crop cycles.",
+  "caveat": "The exact Khmer common name for this pest was not clearly legible in the source scan; based on the described behavior (soil-dwelling larvae feeding on roots, hard-forewinged adults active in groups, most damaging Feb-April), it is consistent with a cricket, mole cricket, or similar soil-dwelling pest common in Cambodian vegetable fields, but this should be confirmed rather than assumed."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "general",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_vaccination_fundamentals",
+  "text": "Highly pathogenic diseases that multiply too fast for the immune system to respond in time (e.g. Avian Influenza, FMD, Hemorrhagic Septicemia) have no direct medicine to destroy the virus — only the immune system can stop it, so prevention through vaccination (where a vaccine exists) is the key tool. Vaccination works by deliberately exposing the body to a modified or killed virus/bacteria to trigger antibody production without causing full disease; these antibodies then stay in reserve for months, ready to respond immediately on real exposure. Because it takes 1–2 weeks to build up antibodies, vaccines only work as prevention, not treatment. Vaccines must only be given to healthy animals, since even a modified microbe can tire the animal for a few days, and a healthy animal is needed to mount a good antibody response. Vaccines are also strain-specific — for example an FMD strain O vaccine only protects against strain O, not strain A or Asia1, so a trivalent (O+A+Asia1) vaccine is recommended for full protection against the strains circulating in Cambodia."
+}

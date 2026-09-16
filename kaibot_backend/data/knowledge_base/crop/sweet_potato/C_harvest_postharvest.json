@@ -1,0 +1,10 @@
+{
+  "source": "បច្ចេកទេស ដាំដុះដំណាំដំឡូងជ្វា (Sweet Potato Cultivation Techniques), MAFF General Directorate of Agriculture, 2018",
+  "category": "crop",
+  "product": "sweet_potato",
+  "lifecycle_stage": "harvest",
+  "province": "national",
+  "topic": "harvest_and_postharvest",
+  "text": "Harvest timing is judged by visible signs of maturity such as vine/leaf yellowing and reduced vigor, generally occurring within a range the source ties to variety and days after planting; the source cites a per-hectare yield reference figure sourced from FAOSTAT Crop Production, 2010, alongside photographs of farmer harvests in Kampong Chhnang province as an example.\n\nPost-harvest handling guidance given: for curing/drying, storage-area humidity should be kept around 40%; curing temperature should be maintained in the range of roughly 13-16°C; and tubers should be stored without being piled too deep, to maintain airflow and reduce rot risk during storage.",
+  "caveat": "Exact harvest-timing day-counts (days after planting) and precise storage-pile-depth figures were not fully legible in the source image and are omitted rather than guessed. Kampong Chhnang is cited only as an example location in a photo caption, not as a province-specific scope for the whole document; province is recorded as national. See also the duplicate-check caveat on Source C's overview file — recommend a repo-side comparison against Sweet Potato Source A before both are retained in the knowledge base."
+}

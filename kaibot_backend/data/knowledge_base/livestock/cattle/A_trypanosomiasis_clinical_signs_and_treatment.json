@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "cattle",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_trypanosomiasis_clinical_signs_and_treatment",
+  "text": "Trypanosomiasis is transmitted by blood-sucking flies (e.g. horseflies). Local cattle and buffalo usually develop a subacute or chronic form, but the disease can turn acute and fatal under hard work stress, nutritional deficiency, weakened immunity, chronic disease, or in crossbred animals; horses are more susceptible and it regularly kills horses in Cambodia. Common signs: intermittent high fever (around 40°C), weakness and progressive weight loss to skinny condition, anemia with lower-body edema, discontinuous diarrhea that resists treatment, inflamed/discharging eyes, abortion, and nervous signs (shaking, seizures). Treatment: Trypamidium at 1 mg/kg, injected once into muscle or vein; or Berenil at 3.5 mg/kg, injected twice, 7–8 days apart.",
+  "caveat": "Diagnosis in the source is confirmed by microscopic examination of a stained blood smear; symptoms alone can overlap with other blood parasite diseases."
+}

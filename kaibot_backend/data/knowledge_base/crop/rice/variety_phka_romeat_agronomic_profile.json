@@ -1,0 +1,10 @@
+{
+  "source": "CARDI (Cambodian Agricultural Research and Development Institute) presentation, \"Characteristics of 10 Rice Varieties\" (លក្ខណៈសំខាន់ៗរបស់ពូជស្រូវទាំង១០ប្រភេទ), by Seng Vang, 2012 — no elibrary URL visible in the source file.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "variety_phka_romeat_agronomic_profile",
+  "text": "Phka Romeat was released in 2007. Flowering period falls around October 5–25. Plant height is 100–150 cm, reported yield around 3.50 t/ha. It produces 8–20 productive tillers per hill, panicle length 20–30 cm. Reported 100-grain weight is about 2.5 g, grain length ~7.1 mm, width ~2.0 mm. Flood/submergence tolerance is rated medium. Market grade: premium (ប្រណិត).",
+  "caveat": "Numeric agronomic figures (maturity, height, yield, grain dimensions) are read directly from a clean CARDI data table and are reasonably reliable. Qualitative field labels (grain shape/chalkiness/shattering and drought/flood-tolerance ratings) were translated from short Khmer table labels and carry lower confidence than the numbers; treat descriptive ratings as indicative, not precise. New variety not previously present in the KB."
+}

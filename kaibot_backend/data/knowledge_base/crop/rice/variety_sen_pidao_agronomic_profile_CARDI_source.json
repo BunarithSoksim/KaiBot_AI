@@ -1,0 +1,10 @@
+{
+  "source": "CARDI (Cambodian Agricultural Research and Development Institute) presentation, \"Characteristics of 10 Rice Varieties\" (លក្ខណៈសំខាន់ៗរបស់ពូជស្រូវទាំង១០ប្រភេទ), by Seng Vang, 2012 — no elibrary URL visible in the source file.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "variety_sen_pidao_agronomic_profile_CARDI_source",
+  "text": "Sen Pidao was released in 2002. Maturity is about 110–120 days, plant height 95–110 cm, reported yield around 3.50 t/ha. It produces 5–20 productive tillers per hill, panicle length 20–30 cm. Reported 100-grain weight is about 2.2 g, grain length ~7.0 mm, width ~2.0 mm — slender grain, small chalkiness, translucent endosperm. Distinctively, Sen Pidao is noted as aromatic (ក្រអូប, fragrant). Shattering resistance is rated medium; it is rated not drought tolerant and not flood/submergence tolerant. Market grade: premium (ប្រណិត).",
+  "caveat": "Numeric agronomic figures (maturity, height, yield, grain dimensions) are read directly from a clean CARDI data table and are reasonably reliable. Qualitative field labels (grain shape/chalkiness/shattering and drought/flood-tolerance ratings) were translated from short Khmer table labels and carry lower confidence than the numbers; treat descriptive ratings as indicative, not precise."
+}

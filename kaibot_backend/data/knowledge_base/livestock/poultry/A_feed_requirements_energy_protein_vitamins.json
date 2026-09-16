@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "poultry",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_feed_requirements_energy_protein_vitamins",
+  "text": "Feed requirements are hard to estimate precisely for scavenging poultry but are standardized for semi-commercial farms. Energy comes from starch (rice, corn) and fat (rice bran); scavenging chickens burn a lot of energy searching for feed. Protein and amino acids are needed for growth and egg production — for example, semi-commercial broilers from 21 days need 19% dietary protein and layers need 16%; protein availability is a major constraint for small scavenging flocks since fishmeal or soybean are often unaffordable, but earthworms, maggots, termites, snails (for ducks), other insects, and young grass shoots can help fill the protein gap. Calcium and phosphorus levels are typically very low in scavenging chickens' diets, but can be cheaply supplemented with shell grit (3–4 g/day for a layer)."
+}

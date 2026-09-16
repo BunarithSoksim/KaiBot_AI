@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "crop",
+  "product": "radish",
+  "lifecycle_stage": "pest_disease",
+  "province": "national",
+  "topic": "a_pest_second_caterpillar",
+  "text": "Pest #2 (ដង្កូវ, caterpillar, exact name uncertain — see caveat). A second caterpillar pest, smaller than the looper caterpillar above but similar in general shape, with several color/striping variations. It feeds on leaves in a way that leaves them riddled with small holes, giving a lace- or net-like appearance, and it characteristically rests close to the soil surface rather than higher on the plant.",
+  "caveat": "The exact Khmer name for this pest was not clearly legible in the source scan (rendered in a decorative font that could not be confidently transcribed); recommend confirming the precise species/common name against a clearer scan or a follow-up source before publishing this pest's name to end users."
+}

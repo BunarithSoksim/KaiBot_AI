@@ -1,0 +1,9 @@
+{
+  "source": "Belfield, S. and Brown, C. (2010). Guidebook on Upland Crops in Cambodia: Corn (សៀវភៅណែនាំ ស្តីពីដំណាំតំបន់ខ្ពង់រាបនៅក្នុងប្រទេសកម្ពុជា៖ ដំណាំពោត). ACIAR Monograph 143, published by the Australian Centre for International Agricultural Research (ACIAR) in partnership with NSW Department of Primary Industries, the Cambodian Agricultural Research and Development Institute (CARDI), Murdoch University, University of Canberra, and MAFF, under ACIAR Project ASEM/2000/109. Uploaded PDF, 52 pages, image-only (Limon-font-era scan, read via page rasterization).",
+  "category": "crop",
+  "product": "corn",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "corn_urea_requirement_decision_table",
+  "text": "Decision-support table showing how much urea fertilizer (kg/ha) is needed, depending on a soil nitrate-N test result (ppm) and the farmer's target grain yield (1, 2, 3, or 4 t/ha). Read the soil test's NO3 ppm value on the left, then the corresponding column for the target yield:\n\n- Soil NO3 = 0 ppm: 88 / 135 / 222 / 308 kg urea/ha (for yield targets 1/2/3/4 t/ha respectively)\n- 5 ppm: 7 / 94 / 181 / 268 kg urea/ha\n- 10 ppm: 0 / 53 / 140 / 227 kg urea/ha\n- 15 ppm: 0 / 12 / 99 / 185 kg urea/ha\n- 20 ppm: 0 / 0 / 57 / 144 kg urea/ha\n- 25 ppm: 0 / 0 / 16 / 103 kg urea/ha\n- 30 ppm: 0 / 0 / 0 / 62 kg urea/ha\n- 35 ppm: 0 / 0 / 0 / 21 kg urea/ha\n- 40 ppm and above: 0 / 0 / 0 / 0 kg urea/ha (no additional urea needed at any of these yield targets)\n\nThis table requires a laboratory soil nitrate-N test to use. As an example of how to read it: a field testing at 20 ppm soil nitrate-N, with a target yield of 3 t/ha, would need about 57 kg/ha of urea as top-up fertilizer; the same field with a 4 t/ha target would need about 144 kg/ha of urea."
+}

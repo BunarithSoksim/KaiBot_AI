@@ -1,0 +1,10 @@
+{
+  "source": "សៀវភៅស្ដីពីដំណាំដំឡូងមី (Book on Cassava), Part 2, UNDP-supported capacity-building programme for cassava, March 2015, Section 8.5, citing Thailand Industrial Standard TIS 52-2516 (1973)",
+  "category": "crop",
+  "product": "cassava",
+  "lifecycle_stage": "sell",
+  "province": "national",
+  "topic": "thailand_tis_standard_tapioca_flour",
+  "text": "The source presents the Thai Industrial Standard TIS 52-2516 (1973) for tapioca flour products, used as a reference quality benchmark for cassava starch destined for export. The standard defines tapioca flour as the product of peeling, washing, grating/rasping, starch extraction, and drying of cassava root into flour, and defines related terms: sand content (undissolved mineral matter remaining after acid treatment) and foreign matter (extraneous material mixed in through improper handling, including unnatural coloring or dust-generating material).\n\nTable III-8.2 (quality requirements for tapioca flour for export) gives:\n- Sand content: maximum 3.0% by weight.\n- Foreign matter: maximum 5.0% by weight.\n- Moisture: maximum 14.0% by weight (the source separately notes a distinction between a higher-quality grade requiring moisture below 16.0% and a standard grade allowing up to about 17.0% by the packing date, though the two moisture figures given are not fully reconciled in the source text).",
+  "caveat": "This is new, directly actionable export-standards content. The two different moisture figures mentioned in the surrounding narrative text (16.0% and 17.0%, versus the 14.0% maximum given in the formal Table III-8.2) are reported here as they appear in the source without resolving the apparent inconsistency; flagged per project convention rather than silently reconciled. Recommend a source-page re-check if this figure is needed for compliance purposes."
+}

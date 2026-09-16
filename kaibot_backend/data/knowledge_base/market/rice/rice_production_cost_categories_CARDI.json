@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 11 (Economics and market), section 11.4 (Cost factors in production). No elibrary URL visible.",
+  "category": "market",
+  "product": "rice",
+  "lifecycle_stage": "sell",
+  "province": "national",
+  "topic": "rice_production_cost_categories_CARDI",
+  "text": "This source breaks rice production costs into four categories useful for a farmer thinking about the true cost of growing rice, not just cash spent: (1) cash expenditure - money actually paid out for seed, fertilizer, pesticide, fuel, hired labor, etc.; (2) in-kind expenditure - non-cash inputs such as using one's own saved seed or manure, which have a real economic value even though no cash changes hands; (3) family labor input - the labor contributed by household members, which has an opportunity cost (what that time could have earned elsewhere) even though it isn't a cash cost; and (4) land cost - either actual rent paid, or the opportunity cost of using land the household owns for rice rather than another crop or use. The source frames a complete cost-benefit picture of rice farming as needing all four categories, not just cash expenditure, since farms that look cash-profitable can still be uneconomical once family labor and land opportunity costs are properly counted.",
+  "caveat": "This is a general farm-economics framework rather than a specific cost figure or benchmark - useful for helping farmers think through whether rice farming is paying off, alongside the farm cost/profit tracking worksheet already in this knowledge base from earlier batches. Recommend a duplicate-check against that existing worksheet content once repo access is available."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "Windsor, P.A. 2014. 'FMD Information for Trainers' -- ACIAR/USYD Mekong Livestock Research project resource (mekonglivestock.wordpress.com)",
+  "category": "livestock",
+  "product": "cattle",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "fmd_background_for_trainers",
+  "text": "This trainer-level background note explains FMD as the most economically important infectious disease of livestock globally, affecting all cloven-hoofed animals (cattle, buffalo, camels, sheep, goats, deer, pigs). In the Mekong region, illegal border crossings and established trade routes make cross-border spread a major challenge for Cambodia, Laos, China, Myanmar, Thailand, and Vietnam; the regional SEACFMD campaign (launched 1997) aims for an FMD-free South-East Asia. The virus has seven serotypes (O, A, C, SAT1, SAT2, SAT3, Asia 1) subdivided into 60+ strains; in South-East Asia's 'Pool 1', serotype O (three topotypes) and serotype A dominate. Cattle require very little inhaled virus to become infected and are considered the main disease reservoir, while pigs can act as virus 'amplifiers' in some outbreaks. There is no specific cure; most animals recover, but antibiotics are not recommended since they add cost without treating a viral disease -- money is better spent on vaccination. The note flags a practical Cambodia-specific gap: while effective FMD control requires vaccines covering both O and A strains, the majority of vaccines used in Cambodia at time of writing appeared to contain only the O strain, leaving a protection gap against A-type outbreaks.",
+  "caveat": "This is trainer/technical background (virology, serotype detail) rather than direct farmer-facing guidance; the note on Cambodia's vaccine strain coverage reflects the source's own stated observation at time of writing and may be outdated."
+}

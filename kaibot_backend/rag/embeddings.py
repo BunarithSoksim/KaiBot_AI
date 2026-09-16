@@ -73,25 +73,41 @@ class GeminiEmbedder(BaseEmbedder):
 
     def __init__(self):
         from google import genai
+        from google.genai import types
         api_key = os.getenv("GEMINI_API_KEY")
         if not api_key:
             raise RuntimeError(
                 "GEMINI_API_KEY is not set. Add it to your .env file "
                 "before using KAIBOT_EMBEDDING_PROVIDER=gemini."
             )
-        self._client = genai.Client(api_key=api_key)
+        http_options = types.HttpOptions(
+            timeout=settings.gemini_request_timeout_ms,
+            retry_options=types.HttpRetryOptions(attempts=settings.gemini_max_retry_attempts),
+        )
+        self._client = genai.Client(api_key=api_key, http_options=http_options)
+
+    # Gemini's batchEmbedContents caps a single request at 100 items.
+    _MAX_BATCH = 100
 
     def embed(self, texts: list[str], task_type: str = "RETRIEVAL_DOCUMENT") -> list[list[float]]:
         from google.genai import types
-        result = self._client.models.embed_content(
-            model="gemini-embedding-001",
-            contents=texts,
-            config=types.EmbedContentConfig(
-                task_type=task_type,
-                output_dimensionality=self.dim,
-            ),
+        config = types.EmbedContentConfig(
+            task_type=task_type,
+            output_dimensionality=self.dim,
         )
-        return [e.values for e in result.embeddings]
+        vectors: list[list[float]] = []
+        n_batches = (len(texts) + self._MAX_BATCH - 1) // self._MAX_BATCH
+        for i in range(0, len(texts), self._MAX_BATCH):
+            batch = texts[i : i + self._MAX_BATCH]
+            batch_no = i // self._MAX_BATCH + 1
+            print(f"  embedding batch {batch_no}/{n_batches} ({len(batch)} texts)...", flush=True)
+            result = self._client.models.embed_content(
+                model="gemini-embedding-001",
+                contents=batch,
+                config=config,
+            )
+            vectors.extend(e.values for e in result.embeddings)
+        return vectors
 
 
 class CohereMultilingualEmbedder(BaseEmbedder):

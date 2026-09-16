@@ -1,0 +1,10 @@
+{
+  "source": "Young, J.R. 2012. 'FMD Vaccination Case Study' (Northern Laos 2009 outbreak + Cambodia Kandal Province financial-impact survey), ACIAR/USYD workshop slides (mekonglivestock.wordpress.com)",
+  "category": "livestock",
+  "product": "cattle",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "fmd_case_study_vaccination_impact",
+  "text": "A field case study from four villages in Xieng Khuang Province, northern Laos, following a January 2009 FMD outbreak, illustrates the real-world impact of vaccination coverage: the two villages with 0% vaccination had FMD attack rates of 61% and 74% (with mortality rates of 7.8% and 0.2%), while the two villages with 54% and 100% vaccination coverage had much lower attack rates of 7.9% and 1.0% (mortality 0.3% and 0%). Total financial impact per village (mortality, treatment, and nutrition costs combined) was far higher in the unvaccinated villages (USD $16,718 and $31,980) than the vaccinated ones (USD $4,848 and $542). A separate 2010 survey of 80 households in Preak Taprum and Kompongous, Kandal Province, Cambodia, covering cattle, goats, and pigs affected by an FMD outbreak, found morbidity rates of 77%, 57%, and 65% respectively, with an average value loss per surviving cattle of about USD $201 (53% of the animal's pre-outbreak value) rising to about USD $324 (84% of value) if the animal died. The overall partial-budget analysis found a net benefit to farmers of about USD $31 per animal from using biannual FMD vaccination -- a concrete financial argument for the practice.",
+  "caveat": "Most of the underlying village-level attack-rate data in this entry comes from a northern Laos case study, not Cambodia; the Kandal Province figures are the Cambodia-specific portion of this source, included alongside the Laos data because both come from the same original slide set and illustrate the same regional pattern."
+}

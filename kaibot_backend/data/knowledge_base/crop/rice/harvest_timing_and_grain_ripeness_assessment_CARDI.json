@@ -1,0 +1,10 @@
+{
+  "source": "CARDI (2011), \"Handbook of Integrated Techniques for Increasing Wet-Season and Dry-Season Rice Productivity\" (Khmer, 50pp, funded by CAVAC/ACIAR, foreword by H.E. Chan Sarun, Minister of Agriculture, dated 26 August 2011)",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "harvest",
+  "province": "national",
+  "topic": "harvest_timing_and_grain_ripeness_assessment",
+  "text": "Harvest when grain moisture is between 21% and 25%, because grain quality (both white/head rice recovery and seed viability) is highest in this window; grain harvested below 21% moisture ('over-ripe') gives lower milling recovery because more grains crack and shatter/fall during harvesting and threshing, and cracked grains break further during milling; grain harvested above 25% moisture ('under-ripe/green') has weak, immature hulls that also crack and break easily and additionally reduces seed germination if kept for seed. As a rule of thumb, grain reaches full maturity about 27 days after the crop has finished flowering (full heading), though this figure shifts somewhat with each field's soil fertility, sunlight and water conditions, so farmers should confirm actual ripeness rather than rely on the day-count alone, using either a moisture meter or a visual panicle-color check: a properly mature panicle has grains from the upper half downward turning deep golden-yellow, with the lower half's fully filled grains golden and the very tip grains straw-colored; an over-ripe panicle shows grains near the base already grey/pale gold with tip grains straw-colored; an under-ripe panicle shows grains near the base still grey/pale-gold-tinted with tip grains still green.",
+  "caveat": "Likely overlaps with existing KB postharvest/harvest-timing content from earlier batches (a standing open item already flags 'postharvest numeric duplicate-checks'); the specific 21-25% moisture window and 27-day post-flowering rule should be cross-checked against those entries."
+}

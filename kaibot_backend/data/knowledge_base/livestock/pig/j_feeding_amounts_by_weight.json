@@ -1,0 +1,10 @@
+{
+  "source": "Morais O., Cargill C., Parke K. and Barnes T. 2020. Smallholder Pig Production Technicians' Manual. Timor-Leste Ministry of Agriculture and Fisheries, University of Queensland, ACIAR and the TOMAK Program (Australian Aid), Dili.",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "feeding",
+  "province": null,
+  "topic": "feeding_amounts_by_weight",
+  "text": "As a rule of thumb, feed a growing pig around 5% of its body weight per day at 20kg, decreasing to about 4% of body weight from 30kg onward until sale. Approximate daily feed amounts by weight: 10kg pig — 0.5kg feed/day; 15kg — 0.8kg; 20kg — 1.0kg; 25kg — 1.1kg; 30kg — 1.3kg; 40kg — 1.6kg; 50kg — 2.0kg; 60kg — 2.4kg; 70kg — 2.8kg; 80kg — 3.2kg. Feed growing pigs at least twice daily if continuous feed isn't possible, and feed individually or in small groups where possible — trials found pigs fed individually grew notably faster (around 224g/day) than pigs fed in a group (around 144–151g/day), because grouped feeding creates competition between pigs of different sizes.",
+  "caveat": "This guidance comes from a Timor-Leste smallholder pig manual, not a Cambodia-specific source. Feed ingredients and general husbandry practices transfer well to Cambodia's tropical smallholder conditions, but local breed weights/ages and disease-context details may differ; confirm specifics with a local vet or extension officer where precision matters."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "TSTD/MAFF Pumpkin (ល្ពៅ) Cultivation Manual, PDF title \"10_Pumpkin_manual_body+covers\" (TSTD — TA 7305-CAM), 2012",
+  "category": "crop",
+  "product": "pumpkin",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "trellising_and_general_care",
+  "text": "The manual notes an option to let pumpkin vines trail on the ground (common for smallholders without trellis materials) or to provide a simple trellis/support structure for vines to climb, which can improve air circulation, reduce fruit contact with wet soil, and ease harvesting and pest inspection -- consistent with general cucurbit trellising practice described elsewhere in this same TSTD document series (e.g. Angled Luffa). Weeding should be done regularly, especially while vines are young and have not yet formed a full canopy to suppress weeds themselves; plastic ground mulch (see land-preparation entry) substantially reduces weeding labor. Watering should be consistent, avoiding both prolonged drought stress during flowering/fruit-set and waterlogging, which can promote root and fruit-rot diseases.",
+  "caveat": "The specific decision criteria the source gives for choosing trellising versus ground-trailing could not be confidently read from the corrupted source text; the general recommendation here is stated at the pattern level rather than quoting the source's exact wording."
+}

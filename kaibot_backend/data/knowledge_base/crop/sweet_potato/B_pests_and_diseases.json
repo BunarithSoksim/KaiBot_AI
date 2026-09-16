@@ -1,0 +1,10 @@
+{
+  "source": "ដំណាំដំឡូងជ្វា (Sweet Potato), Department of Agronomy / General Directorate of Agriculture, Cambodia, published under the Asian Development Bank (ADB) loan-funded Agricultural Sector Development Program, Loan 1445-CAM(SF), Book 3, 2003",
+  "category": "crop",
+  "product": "sweet_potato",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "pests_and_diseases",
+  "text": "៤-ជម្ងឺនិងសត្វល្អិត ។ ជម្ងឺដែលសំខាន់ចំពោះដំឡូងជ្វា ហើយតែងកើតឡើងជាញឹកញាប់នោះ គីជម្ងឺក្រាសុីស្លឹក និងជម្ងឺមើមរលួយ ។ ចំណែកសត្វល្អិតវិញ គីពួកដង្កូវដំឡូងបួស គីងដំឡូង និង ចែ ។",
+  "caveat": "Source page 8, final section (4, ជម្ងឺនិងសត្វល្អិត) — the last content section of the 9-page booklet. This section is very short (two sentences) and the specific disease and pest names were difficult to read with confidence from the scanned stylized font: \"ជម្ងឺក្រាសុីស្លឹក\" (a leaf disease) and \"ជម្ងឺមើមរលួយ\" (tuber/root rot) are the two named diseases; \"ដង្កូវដំឡូងបួស\", \"គីងដំឡូង\", and \"ចែ\" are the named pests (the latter three terms in particular are uncertain readings — they may refer to sweet potato weevil/borer, a soil-dwelling grub, and rodents, but this is inferred, not confirmed). Recommend a direct visual re-check of page 8 of the source PDF before using these exact pest/disease names downstream."
+}

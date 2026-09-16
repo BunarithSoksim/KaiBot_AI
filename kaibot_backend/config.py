@@ -11,7 +11,7 @@ BASE_DIR = Path(__file__).resolve().parent
 load_dotenv(BASE_DIR / ".env")
 
 CHROMA_PERSIST_DIR = BASE_DIR / "chroma_store"
-SAMPLE_DOCS_DIR = BASE_DIR / "data" / "sample_docs"
+KNOWLEDGE_BASE_DIR = BASE_DIR / "data" / "knowledge_base"
 
 
 @dataclass
@@ -20,6 +20,19 @@ class Settings:
     llm_provider: str = os.getenv("KAIBOT_LLM_PROVIDER", "mock")
     llm_model: str = os.getenv("KAIBOT_LLM_MODEL", "gemini-3.6-flash")
     max_output_tokens: int = 1000
+    # Without this, a stalled network call to the Gemini API blocks forever
+    # (observed: a single hung request stuck a process for 1h49m with the
+    # client never timing out or raising). Applies to both the LLM and
+    # embedding Gemini clients.
+    gemini_request_timeout_ms: int = int(os.getenv("KAIBOT_GEMINI_TIMEOUT_MS", "30000"))
+    # The SDK's own default (5 attempts, up to 60s max delay between
+    # retries) means a single call can still balloon to several minutes
+    # under quota pressure even with the per-request timeout above
+    # (observed: a 13-minute stall on one call). Capping attempts bounds
+    # worst-case latency to roughly attempts * timeout, which matters
+    # because app.py has no request-level timeout of its own -- a hung
+    # LLM call currently hangs the farmer's whole chat request.
+    gemini_max_retry_attempts: int = int(os.getenv("KAIBOT_GEMINI_MAX_RETRY_ATTEMPTS", "2"))
 
     # --- Embeddings ---
     embedding_provider: str = os.getenv("KAIBOT_EMBEDDING_PROVIDER", "mock")
@@ -28,6 +41,20 @@ class Settings:
     # --- RAG retrieval ---
     top_k: int = int(os.getenv("KAIBOT_TOP_K", "4"))
     min_similarity_score: float = float(os.getenv("KAIBOT_MIN_SIMILARITY_SCORE", "0.665"))
+
+    # Lower bar used when the query's crop/livestock name was matched
+    # directly against chunk metadata (see rag.retriever.detect_product).
+    # A correctly product-filtered chunk can legitimately score lower than
+    # min_similarity_score -- a short English query has less lexical/
+    # semantic overlap with a narrow, specific Khmer passage than it does
+    # with a generic "farming procedure" passage from an unrelated,
+    # heavily-represented crop. The keyword match on the crop name is
+    # already strong evidence of topical relevance, so this threshold only
+    # needs to catch genuinely garbled/irrelevant chunks, not rank crops
+    # against each other.
+    min_similarity_score_product_match: float = float(
+        os.getenv("KAIBOT_MIN_SIMILARITY_SCORE_PRODUCT_MATCH", "0.5")
+    )
 
     # --- Confidence / safety (Khmer) ---
     low_confidence_message_km: str = (

@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 4 (Physiology), sections on photosynthesis, respiration, and assimilate translocation. No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "photosynthesis_respiration_and_tiller_nutrient_sharing_CARDI",
+  "text": "Basic plant-physiology background relevant to understanding rice yield formation. Photosynthesis in rice leaves converts light energy, water, and CO2 into sugars, distinguished in the source into 'true photosynthesis' (gross photosynthesis) and 'apparent photosynthesis' (net photosynthesis, after subtracting respiration losses). Respiration occurs continuously, including a light-independent process (dark respiration) and a light-linked process (photorespiration) that reduces net carbon gain in warm conditions - both occur in cell mitochondria and consume some of the sugars produced by photosynthesis to generate the plant's usable energy (ATP). Newly-formed tillers are not initially self-sufficient: young tillers depend on carbohydrate (assimilate) transferred to them from the main stem through the plant's vascular connections until the tiller develops enough of its own leaf area to photosynthesize independently (citing multiple Japanese physiology studies: Sato 1961, Nakamura 1956, Hanada 1965, Wang and Hanada 1982a). This dependency relationship is part of why very late-emerging tillers, which have little time to become self-sufficient before harvest, tend to be unproductive or produce small panicles - a physiological explanation for why tiller number alone does not guarantee proportional yield.",
+  "caveat": "This is foundational plant-physiology background rather than a specific farming technique - it helps explain why nitrogen timing and planting density affect productive tiller number, topics already covered elsewhere in this knowledge base's fertilizer and cultivation entries. Recommend a duplicate-check once repo access is available."
+}

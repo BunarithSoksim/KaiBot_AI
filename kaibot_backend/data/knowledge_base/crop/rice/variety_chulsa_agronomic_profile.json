@@ -1,0 +1,10 @@
+{
+  "source": "CARDI (Cambodian Agricultural Research and Development Institute) presentation, \"Characteristics of 10 Rice Varieties\" (លក្ខណៈសំខាន់ៗរបស់ពូជស្រូវទាំង១០ប្រភេទ), by Seng Vang, 2012 — no elibrary URL visible in the source file.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "variety_chulsa_agronomic_profile",
+  "text": "Chulsa (ជលសារ) is a CARDI-released rice variety from 1999. It reaches maturity in about 95–105 days, with plant height of 75–93 cm and reported yield around 4.00 t/ha. It typically produces 10–14 productive tillers per hill, with panicle length 20–27 cm. Reported 100-grain weight is about 3.0 g, with grain length ~6.8 mm and width ~1.9 mm — a slender grain shape with small chalkiness and a translucent (not milky) endosperm. It is not aromatic (no scent noted). Resistance to grain shattering is rated medium; it is rated not tolerant of drought and not tolerant of flooding/submergence. On the market it is classed as a Grade 2 (standard, non-premium) rice.",
+  "caveat": "Numeric agronomic figures (maturity, height, yield, grain dimensions) are read directly from a clean CARDI data table and are reasonably reliable. Qualitative field labels (grain shape/chalkiness/shattering and drought/flood-tolerance ratings) were translated from short Khmer table labels and carry lower confidence than the numbers; treat descriptive ratings as indicative, not precise. Note for KB maintainers: this variety's Khmer name/romanization (Chulsa/Chul'sa, ជលសារ) should be cross-checked against Batch 11's `variety_cholmol_MODERATE_CONFIDENCE.json` — the names are phonetically distinct enough that they may be two different varieties, but given Batch 11 flagged Cholmol's romanization as uncertain, a side-by-side check is worth doing before assuming they're unrelated."
+}

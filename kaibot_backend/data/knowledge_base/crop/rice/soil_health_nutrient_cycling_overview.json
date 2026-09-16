@@ -1,0 +1,9 @@
+{
+  "source": "FAO-EU / MAFF rice production document (co-branded with FAO and EU logos) — title and full source URL illegible due to poor scan quality, no elibrary URL confirmed",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "soil_health_and_nutrient_cycling_overview",
+  "text": "Rice plants take up nutrients continuously from the soil throughout the growing season, so soil needs to keep supplying nutrients and moisture in adequate amounts at every stage, not just at planting. For soil to do this well, it needs good physical structure that allows water and air to move through it properly — meaning soil that is not overly compacted, has enough organic matter, and allows roots and soil organisms to function. The document emphasizes that living soil organisms (microbes, decomposers) play a central role: they break down crop residues, straw, and manure into nutrients the next rice crop can use, so maintaining organic matter inputs (returning straw, using compost/manure) supports the soil's long-term ability to feed the crop rather than relying only on purchased fertilizer. Note: this is a general soil-health framing rather than a soil-type-specific recommendation; a following section of the same source contained soil-type-by-soil-type fertilizer rate tables, but that section's scan quality was too degraded (heavy OCR corruption) to extract reliably and has been omitted rather than guessed at."
+}

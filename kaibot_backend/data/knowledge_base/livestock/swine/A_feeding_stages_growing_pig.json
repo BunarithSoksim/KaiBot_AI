@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_feeding_stages_growing_pig",
+  "text": "Feed for growing/fattening pigs is staged, with protein content dropping as the pig matures (example figures for crossbred pigs): first post-weaning stage, from weaning (7–8 kg) to 12 kg, lasting about 2 weeks, using a highly palatable, easy-to-digest commercial post-weaning feed (milk/soya proteins, extruded corn) at 20% protein, since piglets are still adjusting from milk to solid feed; second post-weaning stage, until 25–30 kg (about 2.5 months old), at 18% protein; growing stage, 30–60 kg (about 4.5 months old), at 16% protein; fattening stage, 60 kg to slaughter (80–90 kg at about 6 months), at 14% protein."
+}

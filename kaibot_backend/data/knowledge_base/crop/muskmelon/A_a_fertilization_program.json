@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "crop",
+  "product": "muskmelon",
+  "lifecycle_stage": "fertilization",
+  "province": "national",
+  "topic": "a_fertilization_program",
+  "text": "Fertilizer is applied in stages rather than all at once: a basal application worked into the bed before transplanting, followed by top-dressings timed to vine growth, flowering, and fruit-set/fruit-enlargement stages. The staged approach is meant to match nutrient supply to the plant's changing demand through its roughly 65-70 day cycle.",
+  "caveat": "Specific N-P-K ratios and gram-per-plant amounts for muskmelon were not reliably legible in this scan (unlike the cucumber source, where the fertigation table was clean); treat exact rates as unconfirmed pending a cleaner re-read of this source."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "CARDI (Cambodian Agricultural Research and Development Institute) presentation, \"Characteristics of 10 Rice Varieties\" (លក្ខណៈសំខាន់ៗរបស់ពូជស្រូវទាំង១០ប្រភេទ), by Seng Vang, 2012 — no elibrary URL visible in the source file.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "variety_riang_chey_agronomic_profile_CARDI_source",
+  "text": "Riang Chey was released in 1999. Flowering period falls around November 5–12. Plant height is 105–170 cm, reported yield around 3.50 t/ha. It produces 5–10 productive tillers per hill, panicle length 16–30 cm. Reported 100-grain weight is about 2.0 g, grain length ~6.5 mm, width ~2.1 mm. It tolerates flooding/submergence for about 7 days. Market grade: Grade 1.",
+  "caveat": "Numeric agronomic figures (maturity, height, yield, grain dimensions) are read directly from a clean CARDI data table and are reasonably reliable. Qualitative field labels (grain shape/chalkiness/shattering and drought/flood-tolerance ratings) were translated from short Khmer table labels and carry lower confidence than the numbers; treat descriptive ratings as indicative, not precise. Riang Chey already exists in the KB as a consolidated variety profile from earlier batches; this CARDI source provides a fuller numeric agronomic table and should be cross-checked against/merged with the existing entry rather than treated as a wholly separate file."
+}

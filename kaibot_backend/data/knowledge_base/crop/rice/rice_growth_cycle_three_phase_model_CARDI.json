@@ -1,0 +1,10 @@
+{
+  "source": "CARDI (2011), \"Handbook of Integrated Techniques for Increasing Wet-Season and Dry-Season Rice Productivity\" (Khmer, 50pp, funded by CAVAC/ACIAR, foreword by H.E. Chan Sarun, Minister of Agriculture, dated 26 August 2011)",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "rice_growth_cycle_three_phase_model",
+  "text": "CARDI divides the rice plant's life cycle from germination to maturity into three phases. The vegetative phase (from seed germination until panicle initiation inside the stem) varies in length from one variety to another — this is the phase whose length differs between short-, medium- and long-duration varieties. The reproductive phase (from panicle initiation to full flowering/heading) lasts a fixed 35 days for every variety regardless of duration group. The ripening phase (from flowering to full grain maturity) lasts a fixed 30 days for every variety. In practice, actual grain-filling time can run somewhat longer or shorter than the nominal 30 days depending on field-specific soil fertility, sunlight and water conditions, which is why CARDI recommends judging harvest readiness from the crop's actual condition (grain moisture or panicle color, described in the harvest-timing entry) rather than from a fixed day-count alone.",
+  "caveat": "Likely overlaps with existing KB 'growth stages' content from earlier batches; recommend duplicate-check before merging. This specific 35-day reproductive / 30-day ripening framework (fixed length regardless of variety) may add useful precision to an existing more general entry."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "TSTD project (TA 7305-CAM), \"បច្ចេកទេសដាំដំណាំពោត\" (Corn Cultivation Technical Manual), Section 3.a: Chemical (top-dress) fertilizer application, May 2012",
+  "category": "crop",
+  "product": "corn",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "fertilizer_application_schedule",
+  "text": "The manual gives a fertilizer application schedule for corn with four stages, each specifying timing, fertilizer type/amount, and placement method:\n\n1) Before planting (about 15 days ahead): apply well-decomposed manure/compost, about 2 buckets per 1-meter-wide bed, worked into the soil before making the planting rows (this is the base compost application referenced in the land preparation step).\n\n2) 7-10 days before planting: apply NPK fertilizer 20-20-15, about 5 grams per hole, placed in the single hole before sowing.\n\n3) 7-10 days after planting: apply urea (46-0-0), about 1.5 grams per hole, sprinkled roughly 0.5-1 finger-width from the stem, on 2 sides per plant (the manual notes 1 bottle-cap/spoon measure holds about 1.5 grams, given as a practical dosing reference for farmers).\n\n4) 28-30 days after planting: apply NPK 20-20-15 (mixed) again, about 5 grams per hole, sprinkled 1.5-2.5 finger-widths from the stem, on 1 side per plant.\n\n5) 48-50 days after planting: apply NPK 20-20-15 plus potassium chloride (0-0-60) together, about 10 grams per hole, sprinkled 1.5-2.5 finger-widths from the stem, on 1 side per plant.\n\nBetween fertilizer applications, the manual instructs farmers to weed the field roughly on day 13, day 18, and day 35-37, before the final fertilizer application."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "TSTD/MAFF Pumpkin (ល្ពៅ) Cultivation Manual, PDF title \"10_Pumpkin_manual_body+covers\" (TSTD — TA 7305-CAM), 2012",
+  "category": "crop",
+  "product": "pumpkin",
+  "lifecycle_stage": "plant",
+  "province": "national",
+  "topic": "land_preparation",
+  "text": "Land preparation (ការរៀបចំដីនិងធ្វើរង) starts with clearing the field of weeds and debris, then plowing and harrowing the soil finely, letting it rest roughly 10-15 days before bed-making. Beds/rows (អង្គោល) are laid out with a row-to-row spacing of about 5 meters between planting rows, and within a row, planting holes are spaced roughly 1.5-2 meters apart, with two staggered lines of planting points about 1 meter apart from the row's edge inward. A drainage furrow (កំពស់ រង្វះ) roughly 2-3 feet deep separates planting beds from walking paths (paths roughly 3-5 feet wide). Planting holes are dug with a hoe or post-hole digger, roughly 1-2 feet across and about 1 meter deep, mixed with well-decomposed organic matter before planting. Plastic ground mulch is recommended, laid before seeding/transplanting to suppress weeds and conserve soil moisture, with individual planting holes punched through the mulch (spaced per the 1.5-2m planting distance above) once the mulch is laid flat and secured at the edges.",
+  "caveat": "Bed/spacing dimensions are drawn from a diagram whose captions were partly legible; a few unit conversions (feet vs. meters as originally labeled) could not be fully disambiguated from the corrupted source text and should be checked against a clean re-scan before being treated as exact figures."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "បច្ចេកទេស ដាំដុះដំណាំដំឡូងជ្វា (Sweet Potato Cultivation Techniques), MAFF General Directorate of Agriculture, 2018",
+  "category": "crop",
+  "product": "sweet_potato",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "disease_black_rot",
+  "text": "Black rot of sweet potato (ជំងឺមេមខ្ជៅ), caused by the fungus Ceratocystis fimbriata, is described as the significant disease affecting the crop in this source. Symptoms include randomly scattered dark brown lesions on tubers with concentric ring patterns, and similar dark, concentric-ringed lesions with a yellow halo appearing on leaves.\n\nManagement measures given: select and plant only disease-free, healthy vine cuttings; treat cuttings before planting by dipping them in a fungicide (the source names Thiabendazole as an example active ingredient) to reduce spore-based infection; rotate sweet potato with non-host crops such as legumes or corn rather than planting it repeatedly in the same field; remove and destroy any vines or tubers showing disease symptoms rather than leaving them in or near the field; and clean/disinfect tools used for cutting vines between uses to avoid spreading spores.\n\nThe source also separately addresses nematode (root-knot) management: avoid excessive deep tillage in infested fields, since this can spread nematodes across the field, and note that nematode damage may not be immediately visible; do not store or replant tubers showing nodules/galls; do not discard nematode-affected tubers near the field, since they can resprout and increase soil-borne nematode populations; and during tuber storage, the source recommends applying wood ash at a rate of roughly 1kg of ash per 50kg of stored tubers as a preventive measure.",
+  "caveat": "The nematode species is not identified beyond 'root-knot' in this source. The wood-ash storage-treatment ratio is transcribed from a moderately legible passage; treat as approximate. See also the duplicate-check caveat on Source C's overview file."
+}

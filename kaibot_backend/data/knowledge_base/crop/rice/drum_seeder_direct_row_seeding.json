@@ -1,0 +1,10 @@
+{
+  "source": "MAFF/JICA APPP (Agricultural Productivity Promotion Project in West Tonle Sap) Farmer Field School Technical Manual for Extension Officers, December 2014 -- no elibrary URL visible on this scan.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plant",
+  "province": "Battambang, Pursat, Kampong Chhnang (APPP project area)",
+  "topic": "drum_seeder_direct_row_seeding",
+  "text": "As an alternative to raising seedlings in a nursery bed and transplanting them, some farmers use a manual push-type row seeder or 'drum seeder' (\u178f\u17d2\u179a\u17c6\u179f\u17bd\u17b8\u178a\u17d0\u179a) to sow pre-germinated seed directly in rows on a puddled, wet field, skipping the seedbed and transplanting steps entirely. This can save labor and time compared to hand transplanting, but it depends on having a well-leveled field with good water control. Before use, seed should already be selected and disinfected (see the salt-water seed selection notes) and only briefly pre-germinated, just to the point where the shoot has emerged -- not longer, since seed that has sprouted too far becomes fragile and will not flow evenly through the seeder's metering holes. A rough seeding rate given in the source is about 70-80 kg of seed per hectare, with the machine's metering holes adjusted to control how much seed drops per pass. After seeding, drain the field to a shallow, damp (not flooded) condition for about 5-7 days so roots can establish and the young plants can stand upright before irrigation water is brought back for weed control. The source notes this method can lower seed and fertilizer costs and save labor versus transplanting, but weed management can be harder since the crop lacks the even hill-spacing that makes weeding easier in transplanted fields, and germination can be less even if field leveling and water control are not well managed.",
+  "caveat": "Field comparison figures (labor, cost, weed-control difficulty) in the source are qualitative farmer-training comparisons rather than measured trial data, and are presented here only as general guidance."
+}

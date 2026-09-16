@@ -1,0 +1,21 @@
+[
+  {
+    "category": "crop",
+    "product": "mustard_greens",
+    "lifecycle_stage": "pest_disease",
+    "province": "national",
+    "topic": "flea_beetle_and_leafhopper",
+    "source": "TSTD TA 7305-CAM - បច្ចេកទេសដាំដំណាំបន្លែ, ឧសភា ២០១២",
+    "text": "សត្វល្អិតគំរាមកំហែងសំខាន់មួយគឺសត្វមេចង្រិត (flea beetle) ដែលបំផ្លាញស្លឹកជាបំណុលតូចៗ (shot-hole damage) ធ្វើឲ្យស្លឹកមានរន្ធធ្លុះៗ។ វិធីគ្រប់គ្រង៖ ត្រួតពិនិត្យចម្ការឲ្យបានទៀងទាត់ សម្អាតស្មៅជុំវិញចម្ការកាត់បន្ថយកន្លែងជម្រករបស់សត្វល្អិត និងប្រើថ្នាំគីមីដូចជា Carbaryl, Triazophos ឬ Cartap hydrochloride ក្នុងករណីមានការឆ្លងធ្ងន់ធ្ងរ ត្រូវពិគ្រោះជាមួយមន្ត្រីកសិកម្មខេត្តមុននឹងជ្រើសរើសប្រភេទថ្នាំ។",
+    "caveat": "ចំណុចនេះលើកយកចេញពីតារាងគ្រប់គ្រងសត្វល្អិតទូទៅលើបន្លែក្រុមស្ពៃ ក្នុងឯកសារនេះក៏មានយោងទៅ pest ដែលហៅជាភាសាអង់គ្លេសថា 'pechay' (ស្ពៃចេ/ស្ពៃគុជ) - ត្រូវផ្ទៀងផ្ទាត់ថាតើឯកសារទាំងមូលនេះសំដៅដល់ស្ពៃចៀវ ឬស្ពៃចេ/ស្ពៃគុជ ដែលជាដំណាំផ្សេងគ្នាក្នុងក្រុមស្ពៃដូចគ្នា។"
+  },
+  {
+    "category": "crop",
+    "product": "mustard_greens",
+    "lifecycle_stage": "pest_disease",
+    "province": "national",
+    "topic": "aphids_caterpillar_and_disease",
+    "source": "TSTD TA 7305-CAM - បច្ចេកទេសដាំដំណាំបន្លែ, ឧសភា ២០១២",
+    "text": "សត្វល្អិតឯទៀតរួមមានចៃ (aphids) និងដង្កូវសមុលស្លឹក (caterpillar) ដែលធ្វើឲ្យស្លឹកធ្លុះនិងខ្ចីរួញ។ ការគ្រប់គ្រង៖ ប្រើថ្នាំគីមីដូចជា Imidacloprid, Cypermethrin+Chlorpyrifos, Methomyl ឬ Thiomethoxam។ ចំពោះជម្ងឺ គេប្រើថ្នាំដូចជា Benomyl, Metalaxyl, Copper oxychloride, Copper hydroxide, Difenoconazole, Thiram ឬ Azoxystrobin អាស្រ័យលើប្រភេទជម្ងឺ។ ការប្រើប្រាស់ថ្នាំគីមីទាំងអស់ត្រូវគោរពតាមកម្រិតកំណត់ រយៈពេលមុនប្រមូលផល និងគោលការណ៍សុវត្ថិភាពការងារ។"
+  }
+]

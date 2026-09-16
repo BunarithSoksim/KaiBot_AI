@@ -1,0 +1,9 @@
+{
+  "source": "Belfield, S. and Brown, C. (2010). Guidebook on Upland Crops in Cambodia: Corn (សៀវភៅណែនាំ ស្តីពីដំណាំតំបន់ខ្ពង់រាបនៅក្នុងប្រទេសកម្ពុជា៖ ដំណាំពោត). ACIAR Monograph 143, published by the Australian Centre for International Agricultural Research (ACIAR) in partnership with NSW Department of Primary Industries, the Cambodian Agricultural Research and Development Institute (CARDI), Murdoch University, University of Canberra, and MAFF, under ACIAR Project ASEM/2000/109. Uploaded PDF, 52 pages, image-only (Limon-font-era scan, read via page rasterization).",
+  "category": "crop",
+  "product": "corn",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "corn_nitrogen_requirement_by_target_yield",
+  "text": "Reference table showing the total soil nitrate-N (as available N) needed in the soil to support different corn grain yield targets:\n\n- Target yield 1 t/ha: 32 kg N/ha required\n- Target yield 2 t/ha: 64 kg N/ha required\n- Target yield 3 t/ha: 96 kg N/ha required\n- Target yield 4 t/ha: 128 kg N/ha required\n\nThis works out to a simple rule of thumb of about 32 kg of available nitrogen needed per tonne of target grain yield, which can be used alongside a soil nitrate test (see the nitrogen soil-test calculation topic) or the soil-nitrate urea decision table to plan fertilizer nitrogen rates."
+}

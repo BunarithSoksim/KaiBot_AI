@@ -1,0 +1,9 @@
+{
+  "source": "MAFF / ADB, \"ដំណាំសណ្តែកសៀង\" [Soybean crop], official cultivation manual, 2005",
+  "category": "crop",
+  "product": "soybean",
+  "lifecycle_stage": "harvest",
+  "province": "national",
+  "topic": "harvest_and_yield_data",
+  "text": "Harvest guidance covers timing (pods and foliage turning brown/yellow at physiological maturity) and drying before storage. The manual reports field-trial yield data for two named varieties, DT84 and AGS73, both averaging around 1,450 kg/ha under the trial conditions described, which the manual presents as achievable on-farm yield targets for Cambodian growers using recommended practice."
+}

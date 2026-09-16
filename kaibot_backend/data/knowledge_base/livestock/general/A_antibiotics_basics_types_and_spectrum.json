@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "general",
+  "lifecycle_stage": "general",
+  "province": "national",
+  "topic": "a_antibiotics_basics_types_and_spectrum",
+  "text": "Antibiotics are the most-used veterinary medicine and are essential for health, though often misapplied to conditions they can't treat; they have no effect on viruses. Antimicrobials destroy or stop the growth of bacteria and are used for both external and internal infections; they occur naturally in fungi and are industrially produced by fermentation. Two functional types: bactericidal antibiotics kill bacteria directly (e.g. Penicillin stops bacterial wall formation, so the bacteria can't divide or ruptures); bacteriostatic antibiotics stop bacteria multiplying without killing them outright (e.g. Tetracycline blocks bacterial protein production). No antibiotic kills all bacteria — bacteria are classified by a staining test into Gram-negative (pink/red after staining — e.g. E. coli, Pasteurella, Salmonella) and Gram-positive (purple/blue — e.g. Streptococcus, Staphylococcus, Clostridium/anthrax/blackleg). Narrow-spectrum antibiotics target only Gram+ or only Gram- bacteria (e.g. Penicillin and Macrolides are Gram+ only; Colistin is Gram- only); broad-spectrum antibiotics target both (e.g. Enrofloxacin, Doxycycline)."
+}

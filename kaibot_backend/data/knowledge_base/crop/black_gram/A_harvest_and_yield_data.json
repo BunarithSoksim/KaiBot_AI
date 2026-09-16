@@ -1,0 +1,9 @@
+{
+  "source": "MAFF / ADB, \"សណ្តែកបាយ\" [Bean crop — mung bean and black gram], official cultivation manual, 2005 (black gram sections)",
+  "category": "crop",
+  "product": "black_gram",
+  "lifecycle_stage": "harvest",
+  "province": "national",
+  "topic": "harvest_and_yield_data",
+  "text": "Harvest guidance parallels mung bean's (picking/cutting once the majority of pods reach mature brown/black color, drying to safe storage moisture). The manual reports black gram yield data from Cambodian conditions in the range of roughly 500–1,400 kg/ha, with an average cited around 700–1,000 kg/ha depending on variety and management level described in the source."
+}

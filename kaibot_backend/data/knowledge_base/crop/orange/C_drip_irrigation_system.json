@@ -1,0 +1,10 @@
+{
+  "source": "Dr. Thaveesak Sangudom, Dr. Theerawut Chutinanthakun, and Wirot Horasart, \"Off-season Production Techniques for Pursat Orange (ក្រូចពោធិ៍សាត់ / kroch poursat) in Cambodia,\" in The Guideline of Climate Change Adaptation in Cambodia (pp. 130-153), Project on Promoting Climate Resilience in Farming Communities of Cambodia, General Department of Agriculture (GDA) Cambodia, Thailand International Cooperation Agency (TICA), and Department of Agriculture (DOA) Thailand, 2017-2020.",
+  "category": "crop",
+  "product": "orange",
+  "lifecycle_stage": "grow",
+  "province": "Battambang",
+  "topic": "drip_irrigation_system",
+  "text": "Before this program, farmers commonly irrigated Pursat orange by eye, without a fixed method for how much water to apply per tree or how long to run water down each furrow. This led to uneven watering: some trees along a channel received too much water while others further away received too little, because delivery depended on ridge/furrow layout rather than on each tree's actual root zone. Farmers also had no way to measure or record how much water had actually been applied.\n\nThe demonstration orchard replaced this with a piped drip-line irrigation system: tubing laid out along each row delivers a measured amount of water directly to the root zone of each tree, with a water meter installed to record the volume applied. Farmers were also shown a mini-sprinkler style micro-irrigation setup as part of the same water-management improvement effort. In the program's own results summary, this more precise irrigation was credited with improving tree growth and fruit development, especially by supplying adequate water during hot, dry periods, compared with the farmers' previous informal watering method.",
+  "caveat": "The source uses two different irrigation terms in different places for what appears to be the same overall water-management upgrade: drip-line irrigation (ប្រព័ន្ធស្រោចស្រពតំណក់ទឹក) in the earlier irrigation section and 'mini sprinkler' in the later results-summary section. Both are reported here without assuming they are strictly the same hardware."
+}

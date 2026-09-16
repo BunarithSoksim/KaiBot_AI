@@ -1,0 +1,10 @@
+{
+  "source": "MAFF training slide deck, \"ជំងឺលើដំណំស្រូវ (Diseases on Rice crop)\" — no elibrary URL visible on the uploaded scan; publisher/date not stated in the source material.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "disease_false_smut",
+  "text": "False smut (ជំងឺសំបុកចាំបារាំង) is a fungal disease caused by Ustilaginoidea virens. Symptoms appear after flowering, when the fungus infects the developing grain inside the flower (ovary) instead of a normal kernel forming. The infected grain swells into a ball that is orange/yellow on the outside and yellow inside; on some grains a powdery, dark spore mass forms on the surface, and this powder can be toxic if handled or ingested carelessly. The fungus spreads through the field by wind (airborne spores) once flowering has started. Farmers should not eat or feed false-smut balls to livestock without caution, given the reported toxic residue. Management: (1) plant resistant varieties where available; (2) always start with disease-free seed; (3) harvest before badly infected panicles have a chance to release more spores into the field; (4) disinfect seed before planting by soaking in a formalin solution at a 1:1000 dilution for 30 minutes.",
+  "caveat": "The source gives the fungus's spore-germination temperature as an unusually narrow range (\"12–12°C\") which is very likely a transcription/OCR error in the original slide rather than a real figure — this specific number is omitted here as unreliable. What the source states clearly and is kept: optimal growth temperature around 28°C, with relative humidity above roughly 92% favoring spread. This closes a previously flagged content gap — earlier batches noted false smut as a disease with no dedicated KB entry yet."
+}

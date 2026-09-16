@@ -1,0 +1,10 @@
+{
+  "source": "បច្ចេកទេស ដាំដុះដំណាំដំឡូងជ្វា (Sweet Potato Cultivation Techniques), MAFF General Directorate of Agriculture, 2018",
+  "category": "crop",
+  "product": "sweet_potato",
+  "lifecycle_stage": "land_prep",
+  "province": "national",
+  "topic": "climate_and_soil_requirements",
+  "text": "Suitable temperature for good sweet potato yield is approximately 21-25°C. The crop can tolerate a wider temperature range, from a minimum of around 18°C up to a maximum of around 35°C.\n\nSuitable soil pH is around 6. Where soil pH is more acidic than this, farmers can amend it by mixing in animal manure, at a rate the source gives as roughly 250-400 grams per planting hole (figure approximate due to source legibility).",
+  "caveat": "The manure-application rate is given in the source per small unit (planting hole/soil quantity) rather than per hectare, and the exact unit basis was not fully legible in the source image; treat this figure as approximate. See also the duplicate-check caveat on Source C's overview file."
+}

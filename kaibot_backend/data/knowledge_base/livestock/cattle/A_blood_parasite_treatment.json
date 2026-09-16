@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "cattle",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_blood_parasite_treatment",
+  "text": "Blood parasites (Babesia, Trypanosoma) are transmitted by ticks or flies. Local cattle and zebu are normally resistant, but crossbred cattle, or any animal already weakened, can develop disease ranging from subacute to acute. Treatment is with Berenil or Trypamidium.",
+  "caveat": "Trypanosomiasis is noted in the source as a regular cause of death in horses in Cambodia, included here for context though this KB entry is filed under cattle."
+}

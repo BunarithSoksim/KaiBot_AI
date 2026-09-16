@@ -1,0 +1,11 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.5",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "plan",
+    "province": "national",
+    "topic": "seed_class_hierarchy_and_source",
+    "text": "Cambodia's rice seed production system follows a four-tier seed-class hierarchy, each class produced as the offspring of the class above it: (1) Breeder seed (ពូជសុទ្ធ) — the original pure seed selected and produced by CARDI (Cambodian Agricultural Research and Development Institute) plant breeders. (2) Foundation seed (ពូជគ្រឹះ) — the direct offspring of breeder seed, also produced by CARDI. (3) Registered seed (ពូជទទួលស្គាល់) — the offspring of foundation seed, produced by organized farmer seed-production groups. (4) Certified seed (ពូជអនុញ្ញាត) — the offspring of registered seed, also produced by farmer seed-production groups; certified seed is what is ultimately distributed to and grown by general farmers as their production (consumption) rice crop. Each downstream class must be produced from seed of the class immediately above it, and quality/purity standards are applied to verify the seed at each stage before it is allowed to move to the next class."
+  }
+]

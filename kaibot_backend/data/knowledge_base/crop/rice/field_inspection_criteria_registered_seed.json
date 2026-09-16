@@ -1,0 +1,11 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.32",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "field_inspection_criteria_registered_seed_class",
+    "text": "Field inspection standards for REGISTERED seed class (ពូជទទួលស្គាល់), by inspection level: Level 1 (nursery/establishment stage): field isolated from other varieties by at least 10 m if the neighboring variety flowers at the same time; crop growth uniformity at least 80%; pest/disease damage minimal and within a tolerable level; no mixed varieties present. Level 2 (about 30 days after transplanting): growth uniformity at least 80%; bacterial leaf blight incidence in the field itself must be 0%; bacterial leaf blight in a neighboring farmer's field within 5 m must not exceed 5 infected plants per 100 m²; pest/disease damage within tolerable level (up to about 10%); off-type/mixed-variety plants no more than 1 per 100 m²; and a weed-infestation check. Level 3 (flowering/heading stage): field isolated by at least 5 m if the flowering-date gap from a neighboring different variety is only about 7 days; at least 70% of hills flowering; pest/disease damage within tolerable level (up to about 10%); off-type/mixed-variety plants no more than 3 per 100 m². Level 4 (near-maturity stage): pest/disease damage within tolerable level (up to about 10%); off-type/mixed-variety plants no more than 3 per 100 m². Level 5 (harvested seed-lot / production-output inspection): pure seed at least 98% (minimum); broken/damaged grain no more than 2% (maximum); weed seed no more than 0.05% (maximum); mixture with other varieties no more than 0.1% (maximum, though see discrepancy flag for a conflicting 0.9% figure elsewhere in the source); moisture content no more than 13% (maximum); full/sound grain ratio at least 95% (minimum)."
+  }
+]

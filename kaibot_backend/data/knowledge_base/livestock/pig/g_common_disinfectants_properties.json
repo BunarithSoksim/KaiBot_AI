@@ -1,0 +1,10 @@
+{
+  "source": "FAO/OIE/World Bank, \"Good Practices for Biosecurity in the Pig Sector - Issues and Options in Developing and Transition Countries\", FAO Animal Production and Health Paper No. 169, Rome, 2010.",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "g_common_disinfectants_properties",
+  "text": "For farmers or extension workers with access to disinfectants, common options and their general properties: alcohol kills bacteria, most viruses and fungi but is flammable and has a strong odor; chlorine/bromine/iodine (halogen) disinfectants are effective against a broad range of pathogens including spores, but are irritating and reactive with other chemicals; quaternary ammonium compounds are effective against bacteria and enveloped viruses but less effective against spores; and acids are effective but corrosive. All disinfectants only work well after thorough physical cleaning has removed visible dirt and organic matter first.",
+  "caveat": "This is a general property summary from an FAO/OIE/World Bank technical reference, not a product-specific usage guide - a farmer or extension worker should confirm correct dilution, contact time and safety precautions from the actual product label before use."
+}

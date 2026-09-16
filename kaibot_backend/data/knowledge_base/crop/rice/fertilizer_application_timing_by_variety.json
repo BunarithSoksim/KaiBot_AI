@@ -1,0 +1,31 @@
+[
+  {
+    "source": "Provincial Department of Agriculture, Forestry and Fisheries, Pursat Province — សារធាតុចិញ្ចឹមសម្រាប់ដំណាំស្រូវ (Nutrients for the Rice Crop), presenter Yem Sophy, 20 Nov 2017, p.27",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "Pursat",
+    "topic": "fertilizer_application_timing_phka_rumdul",
+    "text": "Fertilizer top-dressing timing schedule for the Phka Rumdul rice variety (slide text reads \"ពូជផ្កាវដ្ដល\", most likely referring to ពូជផ្កាឫំដួល / Phka Rumdul), by sowing/transplanting date: sown/transplanted 1-31 June -> 1st top-dressing at 30 days after transplanting (DAT) -> 2nd top-dressing 8-12 September. Sown/transplanted 1-15 July -> 1st top-dressing at 30 DAT -> 2nd top-dressing 13-17 September.",
+    "confidence": "moderate"
+  },
+  {
+    "source": "Provincial Department of Agriculture, Forestry and Fisheries, Pursat Province — សារធាតុចិញ្ចឹមសម្រាប់ដំណាំស្រូវ (Nutrients for the Rice Crop), presenter Yem Sophy, 20 Nov 2017, p.28",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "Pursat",
+    "topic": "fertilizer_application_timing_riang_chey",
+    "text": "Fertilizer top-dressing timing schedule for the Riang Chey rice variety (slide text reads \"ពូជរាំងជ័យ\", most likely referring to ពូជរៀងជ័យ / Riang Chey), by sowing/transplanting date: sown/transplanted 1-31 June -> 1st top-dressing at 30 days after transplanting (DAT) -> 2nd top-dressing 1-5 October. Sown/transplanted 1-15 July -> 1st top-dressing at 30 DAT -> 2nd top-dressing 6-10 October. Sown/transplanted 16-30 July -> 1st top-dressing at 30 DAT -> 2nd top-dressing 11-15 October.",
+    "confidence": "moderate"
+  },
+  {
+    "source": "Provincial Department of Agriculture, Forestry and Fisheries, Pursat Province — សារធាតុចិញ្ចឹមសម្រាប់ដំណាំស្រូវ (Nutrients for the Rice Crop), presenter Yem Sophy, 20 Nov 2017, p.27-28",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "Pursat",
+    "topic": "fertilizer_application_timing_note",
+    "text": "Both rice-variety timing tables agree that the 1st top-dressing is applied at a fixed 30 days after transplanting (DAT) regardless of sowing date. The 2nd top-dressing date differs between the two varieties for the same sowing window (e.g., for 1-31 June sowing: 8-12 September for the Phka Rumdul-type variety vs. 1-5 October for the Riang Chey-type variety), which is expected and not a data conflict — it reflects each variety's different days-to-maturity/duration, not inconsistent guidance for the same variety."
+  }
+]

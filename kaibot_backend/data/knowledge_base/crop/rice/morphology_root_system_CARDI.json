@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 3 (Morphological characteristics of rice), by Ouk Makara, Kin Phearra and Lao Ponna, section 3.1.2 (Roots). No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plant",
+  "province": "national",
+  "topic": "morphology_root_system_CARDI",
+  "text": "Rice has three types of roots, appearing in sequence as the plant develops (Fujii, 1974). First, the seminal root (radicle) emerges from the seed within about 2-3 hours of water absorption (imbibition) and functions for roughly 1-30 days before being superseded by the adventitious root system - this single root is the plant's only root during very early germination. Second, primary adventitious (nodal) roots emerge from the lower stem nodes starting around day 3 of growth, growing to roughly 18-20cm long; a specialized elongated first internode called the mesocotyl also forms during this stage in some establishment methods. Third, secondary adventitious roots emerge later from upper nodes as the plant tillers, eventually forming the bulk of the mature root system, which can extend to a depth of roughly 30-35cm in typical lowland conditions (deep-water rice varieties can develop different root adaptations, including floating/aerial roots, covered elsewhere in this knowledge base). Each root tip is protected by a root cap, and root hairs along the root surface are responsible for most water and nutrient absorption.",
+  "caveat": "This is detailed anatomical reference content that likely overlaps with any existing general 'plant morphology' entry in the knowledge base - recommend a duplicate-check once repo access is available."
+}

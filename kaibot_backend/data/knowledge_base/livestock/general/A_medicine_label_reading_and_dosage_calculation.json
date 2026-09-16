@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "general",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_medicine_label_reading_and_dosage_calculation",
+  "text": "Medicine effectiveness depends heavily on correct administration — always follow the label's dosage, route, and rhythm of administration. Composition (often labeled in a foreign language) should always be checked directly rather than inferred from the product name, since some manufacturers don't follow proper formulation standards and products with similar names can have very different dosages. Listed indications are often overly broad and not very useful (a label claiming to treat 'almost all infectious diseases' should be read skeptically) — practical experience and knowledge of the disease matter more. Dosage is given either as volume per animal weight (ml of medicine/kg of animal) for injectables, or as concentration for feed/water mixing (g of medicine/kg of feed or g/liter of water). Correct weight estimation matters a great deal: young animals tend to be over-estimated and adults under-estimated — for example, at a dose of 1 ml/10 kg, a 250 kg sow needs 25 ml, which is awkward to inject (requiring restraint, often split into two injections) and costs more, creating a temptation to under-estimate her weight (e.g. at 120 kg) — but this under-doses the animal and fails to treat the disease. For feed-mixed medicines, the dosage must be adjusted for reduced appetite: e.g. if a 50 kg pig normally eats 2 kg of feed/day but eats only 1 kg while sick, and the label calls for 100 g of medicine per 50 kg of feed, the farmer must mix that same 100 g into only 25 kg of feed to ensure the sick pig still gets the full dose."
+}

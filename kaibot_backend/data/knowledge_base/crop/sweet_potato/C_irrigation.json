@@ -1,0 +1,10 @@
+{
+  "source": "បច្ចេកទេស ដាំដុះដំណាំដំឡូងជ្វា (Sweet Potato Cultivation Techniques), MAFF General Directorate of Agriculture, 2018",
+  "category": "crop",
+  "product": "sweet_potato",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "irrigation",
+  "text": "Watering should be adapted to the crop's growth stage. The source indicates a lighter watering requirement (in the range of roughly 18-20mm per week, applied once weekly) during vine growth, increasing to a heavier requirement (roughly 40-45mm per week) during the tuber bulking stage. Where rainfall and soil moisture are already sufficient, additional irrigation is not needed.",
+  "caveat": "The specific millimeter figures for weekly water requirement come from a source passage with some legibility limitations; treat as approximate rather than precise irrigation-scheduling data. See also the duplicate-check caveat on Source C's overview file."
+}

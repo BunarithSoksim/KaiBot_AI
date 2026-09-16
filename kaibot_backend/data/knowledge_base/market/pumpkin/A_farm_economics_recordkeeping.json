@@ -1,0 +1,10 @@
+{
+  "source": "TSTD/MAFF Pumpkin (ល្ពៅ) Cultivation Manual, PDF title \"10_Pumpkin_manual_body+covers\" (TSTD — TA 7305-CAM), 2012",
+  "category": "market",
+  "product": "pumpkin",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "farm_economics_recordkeeping",
+  "text": "The manual explains why farm recordkeeping matters: without tracking actual costs and revenue for a crop, a farmer cannot tell whether growing it was genuinely profitable, since remembering figures from memory is unreliable and total cost is the sum of many small inputs (seed, fertilizer, labor, materials, transport) that are easy to undercount if not recorded as they occur. It defines two cost categories: variable costs (ចំណាយប្រែប្រួល) -- costs tied directly to the quantity produced, such as seed, fertilizer, pesticide, and casual labor -- and fixed costs (ចំណាយមិនប្រែប្រួល) -- costs that don't scale directly with output, such as land rent, tools, and irrigation infrastructure. A ledger template is provided with two tables: one for recording each variable-cost line item (item, unit, quantity, unit price, total cost) summing to Total Variable Cost (TVC), and one for fixed-cost line items summing to Total Fixed Cost (TFC). Total Cost (TC) = TVC + TFC. The template also computes cost-per-kilogram (TC divided by total harvested quantity) and a break-even/profit reference point, so a farmer can compare their actual per-kilogram production cost against the price they receive when selling.",
+  "caveat": "This is a blank ledger template for the farmer to fill in with their own actual costs and revenue, not a worked example with real numbers -- present it to the farmer as a recordkeeping tool, not as a source of typical cost figures for pumpkin."
+}

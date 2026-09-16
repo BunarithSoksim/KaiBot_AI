@@ -1,0 +1,10 @@
+{
+  "source": "សៀវភៅស្ដីពីដំណាំដំឡូងមី (Book on Cassava), Part 2, UNDP-supported capacity-building programme for cassava, March 2015 (citing MAFF annual reports 2011-2014)",
+  "category": "crop",
+  "product": "cassava",
+  "lifecycle_stage": "market",
+  "province": "national",
+  "topic": "production_area_statistics_2010_2013",
+  "text": "The source reproduces a table (Table 2.1.1, cited to MAFF annual reports for 2011, 2012, 2013, and 2014) showing the share of major field crops in Cambodia's total cultivated field-crop area from 2010 to 2013.\n\nRice remained the dominant field crop throughout the period: approximately 2,795,862 ha (79.59% of field-crop area) in 2010; 2,964,529 ha (77.60%) in 2011; 3,007,455 ha (76.79%) in 2012; and 3,052,460 ha (76.44%) in 2013.\n\nCassava was the second- or third-largest field crop by area and showed the most volatile growth of the major crops: approximately 190,525 ha (5.42%) in 2010; rising sharply to 391,794 ha (10.24%) in 2011; dipping to 361,454 ha (9.23%) in 2012; then rising again to 461,345 ha (10.55%) in 2013 - overtaking corn's share in the later years shown.\n\nCorn (ពោត) held roughly 5-6% of field-crop area across the period (about 205,070 ha in 2010 rising to about 239,744 ha, 6.00%, by 2013). The remaining field-crop area was distributed among mung bean (សណ្ដែកសៀង), soybean (សណ្ដែកបាយ), sesame (ល្ង), and other crops, each individually holding a smaller single-digit percentage share; total field-crop area across all listed crops was reported as approximately 3,516,219 ha in 2010, rising to roughly 3,993,444 ha by 2013.",
+  "caveat": "Rice and cassava row figures were verified against a 300dpi high-resolution crop of the source table and are reported with reasonable confidence. The minor-crop rows (corn's later-year figures, mung bean, soybean, sesame, and the 'other' category) were read at lower confidence due to the density of small Khmer-numeral table text; only rice and cassava figures should be treated as precisely verified. Recommend a follow-up high-resolution spot-check of the remaining rows if exact figures for corn/mung bean/soybean/sesame are needed."
+}

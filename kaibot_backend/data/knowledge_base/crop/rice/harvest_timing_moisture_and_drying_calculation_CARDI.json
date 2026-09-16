@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 10 (Harvest and storage), by Som Ponna, Pov Sinat and Hun Sereivuth, section 10.1 (Harvesting). No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "harvest",
+  "province": "national",
+  "topic": "harvest_timing_moisture_and_drying_calculation_CARDI",
+  "text": "This source gives 22-24% grain moisture content as the recommended harvest-maturity target (citing an AE 2004 standard), based on visual/physical indicators of maturity such as grain hardness and panicle color change. It also gives standard formulas for calculating grain moisture content from a sun-drying or mechanical-drying process (Norman, 1987): moisture percentage on a wet basis (wb) = (weight of water) / (weight of water + weight of dry matter) x 100, and moisture percentage on a dry basis (db) = (weight of water) / (weight of dry matter) x 100 - these two bases give different numbers for the same sample and it matters which one a moisture target is quoted in. For sun-drying, the source notes drying efficiency depends on ambient humidity, direct sun exposure, and layer thickness of grain spread on the drying surface; community/cooperative-level storage facilities in the source's discussion have capacities in the range of roughly 10-50 tons, versus smaller-scale household storage using traditional woven baskets or sacks.",
+  "caveat": "The harvest-moisture target and drying/storage content here likely overlaps substantially with existing postharvest entries already in this knowledge base (harvest methods, threshing/drying, grain sampling/moisture testing, storage benchmarks) - recommend a duplicate-check and merge rather than treating this as standalone. The wet-basis vs. dry-basis moisture formula distinction may be a useful technical addition if not already present, since the two calculations are easy to confuse."
+}

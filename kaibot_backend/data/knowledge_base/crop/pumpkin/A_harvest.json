@@ -1,0 +1,10 @@
+{
+  "source": "TSTD/MAFF Pumpkin (ល្ពៅ) Cultivation Manual, PDF title \"10_Pumpkin_manual_body+covers\" (TSTD — TA 7305-CAM), 2012",
+  "category": "crop",
+  "product": "pumpkin",
+  "lifecycle_stage": "harvest",
+  "province": "national",
+  "topic": "harvesting",
+  "text": "Pumpkin fruit maturity varies by variety and market requirement; the source notes fruit should be harvested once fully mature-colored and the rind has hardened, cutting the fruit with a portion of stem attached and avoiding letting the fruit touch bare soil directly, to extend storage life. For seed-saving, fully mature fruit showing no disease symptoms should be selected, held for a rest period of roughly 10-15 days after picking before splitting the fruit to remove seed, then the seed washed, sun-dried on the first day protected from midday heat, and turned/dried further over the following 1-2 days before storage. Average yield figures given: roughly 14-16 tons per hectare for the round, black-skinned variety, and roughly 18-20 tons per hectare for the longer, thinner-skinned variety.",
+  "caveat": "The 14-16 and 18-20 tons/hectare yield figures were clearly legible numerals in the source and are transcribed with reasonable confidence, but the exact variety names they attach to, and the precise seed-processing day counts, rely on partially-corrupted surrounding text -- verify against a clean scan before treating these as precise, variety-specific facts."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_medicine_administration_methods",
+  "text": "Subcutaneous injection: easy in the neck/front-of-shoulder for post-weaning piglets, but not usable in sows since fat in that area blocks it. Intramuscular injection: fat thickness (especially in sows) is the main challenge — pick a site with less fat and use a long enough needle, since medicine injected into fat (rather than muscle) is poorly absorbed into the bloodstream (fat has a weak vascular network) and can cause necrosis or abscess. Intravenous injection: given at the back of the ear — for example oxytocin for sows with MMA: 0.5 cc IV triggers milk ejection within seconds, while the same dose given in muscle does not work for milk ejection. Oral administration: used for piglets, e.g. antibiotics for diarrhea (act directly in the intestine) or Toltrazuril to prevent Coccidiosis, mixed into a palatable paste and delivered from a bottle with a pump for accurate dosing. Mixing in feed: convenient for group treatment or long courses (e.g. 7–10 days of antibiotic for respiratory disease), but sick pigs often eat less or not at all — if a pig eats only half its normal ration, the antibiotic dose it actually gets is halved too, so the farmer must double the concentration in the feed, or switch to injection for pigs that have stopped eating. Mixing in water: useful because sick pigs keep drinking even when they stop eating; check that the medicine is water-soluble and that pigs will drink the full dosed amount."
+}

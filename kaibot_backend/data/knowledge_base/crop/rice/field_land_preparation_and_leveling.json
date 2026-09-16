@@ -1,0 +1,20 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.20",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "field_land_preparation_and_leveling",
+    "text": "Land preparation for the seed-production field: plow/till the field while it holds standing water, using a two-wheel hand tractor with a rotary tiller attachment, which tills and levels the field surface at the same time. Thorough, even leveling is important because it directly determines even water depth across the field, which in turn is described as necessary for uniform germination/establishment. The manual illustrates a poorly leveled field (with an uneven, patchy water surface, marked with an X) as an example to avoid, since it leads to uneven crop stand and creates dry, weed-prone patches."
+  },
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.21",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "purpose_of_careful_land_leveling_for_seed_fields",
+    "text": "Careful field leveling and land preparation is treated as foundational for the quality of the eventual seed crop. Where leveling is poor, water depth is uneven across the field: some low spots hold too much water while other spots dry out; the dry, un-flooded patches become weedy and germinate/establish unevenly compared to the rest of the field, and different growth rates translate into uneven flowering/heading time within the same field — a problem specifically for seed production because seed-field inspection standards depend on uniform crop growth and flowering. Good practice is to control and maintain even water depth across the field so germination, growth and heading are as uniform as possible."
+  }
+]

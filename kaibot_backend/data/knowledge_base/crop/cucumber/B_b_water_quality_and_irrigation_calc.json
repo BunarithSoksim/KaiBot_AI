@@ -1,0 +1,9 @@
+{
+  "source": "B",
+  "category": "crop",
+  "product": "cucumber",
+  "lifecycle_stage": "irrigation",
+  "province": "kaoh_kong",
+  "topic": "b_water_quality_and_irrigation_calc",
+  "text": "Irrigation water should have a pH of roughly 5.5-7.5 to be suitable for cucumber. The drip-system irrigation calculation method centers on emitter flow rate (e.g. 1.5 L/hour per emitter at 1 bar), pump capacity (~40 m³/hour typical for 1,000 m²), and crop water demand by growth stage; for a 3 L/hour emitter line, the standard run-time table is multiplied by 0.7 to convert. Soil moisture is checked by hand — dig to root depth (~1.5m to the side of a plant, sampling from mid-depth of the root zone): if the sample doesn't feel moist by hand, water is needed; more than 3 lumps sticking to the hand suggests waterlogging; 2-3 lumps sticking suggests adequate moisture."
+}

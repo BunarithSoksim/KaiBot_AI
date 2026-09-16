@@ -1,0 +1,9 @@
+{
+  "source": "Kandal Provincial Department of Agriculture (មន្ទីរកសិកម្មខេត្តកណ្តាល), \"ដំណំពោត\" (Corn Crop / Zea mays production manual), 2015",
+  "category": "crop",
+  "product": "corn",
+  "lifecycle_stage": "plan",
+  "province": "Kandal",
+  "topic": "seed_selection",
+  "text": "For good seed selection, farmers should choose:\n\n- High-yielding varieties (modern/hybrid varieties, or pure/local varieties suited to the specific area).\n- Seed with a growth duration and characteristics appropriate to the local geography and climate.\n- Fresh seed that has not been stored for a long time.\n- Pure seed lots, with purity exceeding 98%.\n- Seed with a strong germination rate. The source text states a germination rate figure that reads as exceeding \"85 to 900%\" -- a germination rate over 100% is not possible, so this appears to be a printing/transcription error in the source (the intended figure was most likely around 90%), and the discrepancy is flagged here rather than silently corrected. A separate seed-moisture figure of about 13-14% is also given alongside this.\n- Seeding rate: seed quantity used should be in the range of about 12 to 17 kilograms per hectare."
+}

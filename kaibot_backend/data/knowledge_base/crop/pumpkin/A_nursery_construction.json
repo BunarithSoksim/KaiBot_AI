@@ -1,0 +1,10 @@
+{
+  "source": "TSTD/MAFF Pumpkin (ល្ពៅ) Cultivation Manual, PDF title \"10_Pumpkin_manual_body+covers\" (TSTD — TA 7305-CAM), 2012",
+  "category": "crop",
+  "product": "pumpkin",
+  "lifecycle_stage": "plant",
+  "province": "national",
+  "topic": "nursery_construction",
+  "text": "A simple shaded nursery shelter is recommended for raising pumpkin seedlings before transplanting. Approximate dimensions given: shelter height roughly 1.8-2 meters at the ridge to allow a person to work underneath comfortably, side wall height roughly 0.8-1 meter, and roof width/coverage roughly 0.8-1 meter per section, built with locally available poles and a shade/plastic roof covering. The shelter should have a drainage channel dug around it and be raised or bedded up so water does not pool inside during watering or rain. A simple sun-shade cloth or plastic sheet over a bamboo/wood frame is sufficient; commercial greenhouse structures are not assumed to be available to smallholders.",
+  "caveat": "Numeric shelter dimensions are read from a diagram with partly-corrupted surrounding caption text; treat the 1.8-2m / 0.8-1m figures as approximate rather than exact until verified against a clean scan."
+}

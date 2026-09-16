@@ -1,0 +1,9 @@
+{
+  "source": "B",
+  "category": "crop",
+  "product": "cucumber",
+  "lifecycle_stage": "fertilization",
+  "province": "kaoh_kong",
+  "topic": "b_fertigation_schedule_1000m2",
+  "text": "Example fertigation schedule for a 1,000 m² drip-irrigated bed (dated from a Nov 2019 planting): base per-application rates of Urea 9kg, MAP 9kg, KCl 10kg, Calcium nitrate 10kg, and MgSO4 3kg are split into smaller doses applied every 2 days, with the per-dose amount increasing through 5 growth-stage bands as the crop matures (roughly doubling from stage 1, ~90g Urea per application, up to stage 5, ~450g Urea per application). A simpler alternative for growers not using fertigation is straight granular top-dressing: 15-15-15 (or 20-20-15) mixed with Urea at set intervals (5-7, 15-17, 25-27, 35-37, and 45-50 days after transplanting), applied in a ring at increasing distance from the stem as roots expand, with no further fertilizer needed after ~60 days."
+}

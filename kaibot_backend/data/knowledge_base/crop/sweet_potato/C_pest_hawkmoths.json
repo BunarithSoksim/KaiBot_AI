@@ -1,0 +1,10 @@
+{
+  "source": "បច្ចេកទេស ដាំដុះដំណាំដំឡូងជ្វា (Sweet Potato Cultivation Techniques), MAFF General Directorate of Agriculture, 2018",
+  "category": "crop",
+  "product": "sweet_potato",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "pest_hawkmoths",
+  "text": "Two hawkmoth species (family Sphingidae, order Lepidoptera) are named as sweet potato leaf-feeding pests:\n\n1. Convolvulus hawkmoth, Agrius convolvuli (Linnaeus) (synonym Herse convolvuli). Adults have large bodies with brown-grey forewings showing diagonal line patterns and dark-banded hindwings, with a wingspan of roughly 8-11cm. Eggs are round, yellowish-green, laid singly on leaf undersides, hatching in about 5-7 days. Larvae are voracious feeders that can occur in high numbers; pupation occurs in the soil beneath the plant.\n\n2. Greater death's-head hawkmoth, Acherontia lachesis (Fabricius). Adults have grey-brown forewings with distinctive markings and a body pattern resembling a skull, with banded hindwings; larvae are green with diagonal stripe markings, similar in general body form to the Agrius larva but with distinct coloring, and pupate in soil.\n\nBoth species cause damage primarily through heavy larval feeding on foliage, which can rapidly defoliate vines when populations are high.\n\nControl measures given: hand-collect and destroy egg masses and larvae before they reach the pupal stage (more effective at this stage); dig around the base of plants to find and remove soil-dwelling larvae/pupae; use crop rotation with non-host crops for a season to break the pest cycle; and where chemical control is warranted, the source names Abamectin, Emamectin benzoate, Permethrin, Cypermethrin, Lambda-cyhalothrin, and Indoxacarb as example active ingredients.",
+  "caveat": "Specific developmental-stage durations (egg, larval, pupal periods) are given in the source with some numeric density and moderate image legibility; only the more clearly legible figures are included here. See also the duplicate-check caveat on Source C's overview file."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "Royal University of Agriculture student technical report on Alfalfa cultivation (Medicago sativa), referencing international agronomy sources (Utah State University, FAO, and others)",
+  "category": "crop",
+  "product": "alfalfa",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "fertilizer_and_nutrient_requirements",
+  "text": "Fertilizer/nutrient guidance covers the full macro- and micronutrient set: nitrogen (largely self-supplied via nodule fixation once established, similar to the batch's other legumes, though a small starter application can help before nodulation is active), phosphorus and potassium (needed at meaningful rates to sustain repeated forage cutting/regrowth cycles over the stand's multi-year life), and sulfur and micronutrients including molybdenum (again tied to nodule/nitrogenase function, as with soybean in this batch) and boron.\n\nSoil pH management is emphasized more strongly for alfalfa than for the batch's annual pulses, since the report notes alfalfa and its rhizobia are both more sensitive to acid soil than many other legumes, making liming of acid soils a higher-priority practice for successful, long-lived alfalfa stands."
+}

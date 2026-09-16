@@ -1,0 +1,10 @@
+{
+  "source": "CARDI (Cambodian Agricultural Research and Development Institute) presentation, \"Characteristics of 10 Rice Varieties\" (លក្ខណៈសំខាន់ៗរបស់ពូជស្រូវទាំង១០ប្រភេទ), by Seng Vang, 2012 — no elibrary URL visible in the source file.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "variety_phka_chansensar_agronomic_profile",
+  "text": "Phka ChanSensar was released in 2010. Flowering period falls around late October to late November (25 Oct – 25 Nov). Plant height is 150–160 cm, reported yield around 3.50 t/ha. It produces 7–10 productive tillers per hill, panicle length 25–28 cm. Reported 100-grain weight is about 2.4 g, grain length ~7.2 mm, width ~2.0 mm. It tolerates flooding/submergence for about 7 days. Market grade: Grade 1 (not classed as premium in this source, unlike the Phka Rumdoul/Rumdeng/Romeat group).",
+  "caveat": "Numeric agronomic figures (maturity, height, yield, grain dimensions) are read directly from a clean CARDI data table and are reasonably reliable. Qualitative field labels (grain shape/chalkiness/shattering and drought/flood-tolerance ratings) were translated from short Khmer table labels and carry lower confidence than the numbers; treat descriptive ratings as indicative, not precise. New variety not previously present in the KB."
+}

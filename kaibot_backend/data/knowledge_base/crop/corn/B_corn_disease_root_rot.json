@@ -1,0 +1,9 @@
+{
+  "source": "Kandal Provincial Department of Agriculture (មន្ទីរកសិកម្មខេត្តកណ្តាល), \"ដំណំពោត\" (Corn Crop / Zea mays production manual), 2015",
+  "category": "crop",
+  "product": "corn",
+  "lifecycle_stage": "grow",
+  "province": "Kandal",
+  "topic": "disease_root_rot",
+  "text": "Root rot (ជម្ងឺល្អុយគល់, seedling/root rot complex): root rot is caused by several kinds of fungi. When it develops, the root system becomes bent/deformed and rots inside, weakening the plant's anchorage in the soil, and infected seed also loses vigor. To diagnose this disease, farmers should dig up and inspect the roots -- affected roots will show discoloration and soft, rotted tissue.\n\nSeveral fungal species are associated with this disease group: Pythium species affects many corn plants at the seedling stage, causing wilting. Rhizoctonia solani causes symptoms similar to Pythium, but tends to first attack the outer root layer before spreading toward the growing point, weakening and rotting the roots so the plant can no longer stand. Fusarium equiseti causes reddish-brown lesions at the base of the stem and seed, at the point called the hypocotyl, which can weaken and rot because this fungus needs particular temperature and moisture conditions to develop."
+}

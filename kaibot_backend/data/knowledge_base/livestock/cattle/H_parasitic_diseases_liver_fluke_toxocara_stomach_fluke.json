@@ -1,0 +1,10 @@
+{
+  "source": "Rast, L. 2008. 'Large Ruminant Health', ACIAR AH 2005/086 workshop slides, University of Sydney (mekonglivestock.wordpress.com)",
+  "category": "livestock",
+  "product": "cattle",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "parasitic_diseases_liver_fluke_toxocara_stomach_fluke",
+  "text": "On parasitic disease specifically: parasites spread more slowly through a herd than infectious disease but can be both treated (anti-parasitic medication) and prevented (interrupting the parasite life cycle), and best practice combines both. Liver fluke causes liver damage, weight loss, and some deaths; it is diagnosed at post-mortem or via faecal sample, treated with triclabendazole, and prevented by keeping cattle/buffalo away from areas where the snail intermediate host lives. Toxocara (a roundworm) lives in the small intestine of calves, who become infected via their mother's milk while suckling (adult cattle carry immature worms in liver/udder without showing signs); infected calves become skinny and many die, representing a significant production loss -- diagnosis is by faecal lab test, and treatment is anti-parasitic medication given at 14-21 days of age. Stomach fluke (Paramphistome) has a similar life cycle to liver fluke, with several species whose eggs look identical; the source notes its significance for Cambodia specifically was still an open question at time of writing. It often causes no visible signs but can cause loss of appetite, diarrhoea, weight loss, and poor body condition; diagnosis is by post-mortem or faecal sample, treatment with oxiclosanide-type medication.",
+  "caveat": "The source itself flags stomach fluke's significance for Cambodia as an open question, not a settled fact -- carried here as-is rather than resolved."
+}

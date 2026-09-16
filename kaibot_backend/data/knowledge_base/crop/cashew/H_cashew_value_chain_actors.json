@@ -1,0 +1,10 @@
+{
+  "source": "MAFF / Boosting Food Production Program (PMO), Royal Government of Cambodia — ខ្សែសង្វាក់ផលិតកម្ម ដំណាំស្វាយចន្ទីនៅកម្ពុជា (Cashew Value Chain Study in Cambodia), field survey report (250 household respondents across major cashew-growing provinces), 2017, 57pp",
+  "category": "crop",
+  "product": "cashew",
+  "lifecycle_stage": "sell",
+  "province": "national",
+  "topic": "cashew_value_chain_actors",
+  "text": "Overview of value-chain actors identified in the 2017 MAFF cashew value chain study.\n\nInput suppliers: provide seedlings/grafted planting material, fertilizer, and pesticides to growers; the report flags that reliable sourcing of genuine, true-to-variety planting material (especially for the M23 variety) is a weak point, with counterfeit or mislabeled seedlings sometimes sold to farmers.\n\nProducers (farmers): grow and harvest raw cashew nut, typically on smallholder plots as described in the household economics section; most sell fresh, unprocessed nut rather than processing it themselves.\n\nTraders and collectors: local buyers and broker networks purchase fresh cashew nut from farmers, often at the farm gate, and consolidate volume for onward sale.\n\nExporters: the great majority of Cambodia's raw cashew nut is sold onward through this broker/exporter chain to Vietnam, which the report identifies as by far the dominant export destination and price-setter for Cambodian raw cashew; very little in-country processing or value-addition was found to occur at the time of the study.",
+  "caveat": "Some specific figures in this source (percentages, price points, yield ranges) were transcribed from a scanned document at a resolution where certain digits were hard to confirm with full pixel-level certainty. Figures are reported as best-effort readings of the source; anyone using exact numbers for decisions should verify against the original report where possible."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "បច្ចេកទេស ដាំដុះដំណាំដំឡូងជ្វា (Sweet Potato Cultivation Techniques), MAFF General Directorate of Agriculture, 2018",
+  "category": "crop",
+  "product": "sweet_potato",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "pest_tortoise_beetles",
+  "text": "Two tortoise beetle species (order Coleoptera, family Chrysomelidae) are described as sweet potato leaf pests: Cassida circumdata (Herbst) and Aspidomorpha miliaris (Fabricius).\n\nCassida circumdata: Adult beetles are oval/rounded, roughly 5-6.5mm long and 4-5.6mm wide, with orange-reddish wing covers. Larvae are pale yellow-orange and feed on leaf undersides, leaving skeletonized, lace-like leaf damage. Eggs are laid in clusters.\n\nAspidomorpha miliaris: Similar rounded body form with a distinct edge/margin around the body, orange-yellow coloring with black spots, occurring on the underside of leaves. Life-cycle stages (egg, larva, pupa) are documented with photographs in the source.\n\nBoth species damage sweet potato by feeding on leaves as both larvae and adults, producing characteristic skeletonized or holed leaf tissue.\n\nControl measures given: where populations are high, appropriate chemical insecticides can be used; clear field residue after harvest to remove hiding/pupation sites; rotate crops with non-host species; and where relevant, yellow sticky traps are recommended at a rate of about 12 traps per hectare for monitoring/control.",
+  "caveat": "Precise life-cycle-stage durations (days for egg/larval/pupal periods) given in the source are numerous and were only partially legible; only broad description is included here rather than exact day-counts, to avoid transcribing uncertain figures as precise. See also the duplicate-check caveat on Source C's overview file."
+}

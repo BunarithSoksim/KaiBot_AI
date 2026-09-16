@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "cattle",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_bloat_and_trocar_emergency",
+  "text": "Bloat develops from excess gas production (e.g. grazing young, wet grass), inability to belch out gas, foam forming in the rumen, or a foreign object stuck in the esophagus; some toxins like urea cause severe bloat. Severity ranges from mild to moderate to severe. In severe bloat, both sides of the rumen are grossly distended, the animal may breathe through its mouth with the tongue protruding, and the animal will die without intervention. At this stage, an opening must be made in the rumen with a trocar or a knife — this causes an explosive release of rumen gas/content and gives the animal marked, immediate relief.",
+  "caveat": "This is an emergency, last-resort procedure described in the source for severe, life-threatening bloat; it is invasive and ideally performed or guided by a trained animal health worker or veterinarian where available."
+}

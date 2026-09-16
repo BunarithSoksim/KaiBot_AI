@@ -1,0 +1,9 @@
+{
+  "source": "MAFF/partner document, \"ដំណំពោត\" (Corn Crop), Section IV.4: Fertilizer application by growth stage",
+  "category": "crop",
+  "product": "corn",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "corn_fertilizer_schedule",
+  "text": "The document gives a chemical fertilizer schedule keyed to corn's growth stages, shown as a table of timing, N-P-K proportion, and application method:\n\n- At plowing before planting, or at planting time: apply 25-30% of the total N, 100% of the total P, and 100% of the total K, placed as a band/strip application.\n- When the corn is about 30 days old, at the second hilling/soil-mounding: apply the remaining 50-70% of N, with 0% P and 0% K, applied as a top-dress/side-dress.\n\nSeparately, the document gives concrete quantities: the first fertilizer application is compost/manure at about 5-10 tons per hectare, plowed in before planting, together with NPK 15-15-15 or 16-20-0 at about 200-300 kg per hectare. The second application is urea, applied once the corn has grown 6-8 leaves, at the second hilling. For the NPK chemical fertilizer specifically, per hectare rates are: nitrogen (N) 50-150 kg/ha, phosphorus (P) 30-90 kg/ha, and potassium (K) 50-130 kg/ha.\n\nA note clarifies placement: the band-application fertilizer is split into two applications -- plowed in before planting, and again applied at planting -- placed to the side of the row about 5 cm away. The top-dress fertilizer is placed about 5 cm from the base of the plant and then covered over with soil during hilling."
+}

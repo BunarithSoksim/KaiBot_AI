@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "crop",
+  "product": "muskmelon",
+  "lifecycle_stage": "harvest",
+  "province": "national",
+  "topic": "a_harvest_timing",
+  "text": "Fruit is judged ready to harvest by external ripeness cues — netting/skin pattern development and stem colour/firmness at the point where the fruit attaches to the vine — rather than by a fixed day-count alone, though the crop cycle runs roughly 65-70 days from transplant to first harvest.",
+  "caveat": "Exact day-count and post-harvest handling detail were not fully legible; treat the 65-70 day figure as approximate."
+}

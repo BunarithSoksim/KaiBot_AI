@@ -1,0 +1,9 @@
+{
+  "source": "ACIAR Monograph No. 146a, \"ដំណាំសំណែកសៀង\" [Soybean Growers Manual], Belfield S., Brown C., Martin M. (eds.), New South Wales Department of Primary Industries / Murdoch University / CARDI / ACIAR, 2012",
+  "category": "crop",
+  "product": "soybean",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "disease_management",
+  "text": "Disease coverage in this manual is the most detailed in the batch: soybean mosaic virus (a potyvirus, aphid-transmitted, causing leaf mosaic/mottling and stunting, seed transmission also possible); bean yellow mosaic virus (also aphid-transmitted with similar mosaic symptoms); mungbean yellow mosaic virus (transmitted by whitefly rather than aphid, causing yellow mosaic patterning, relevant where soybean is grown near mungbean); downy mildew (Peronospora manshurica, favoring cool humid conditions, causing pale/yellow leaf lesions with grey sporulation on the underside); bacterial pustule (Xanthomonas axonopodis pv. glycines, causing raised pale pustules on leaves that can be confused with rust); and Asian soybean rust (Phakopsora pachyrhizi, causing small tan-to-reddish pustules on leaf undersides, a serious yield-limiting disease requiring prompt fungicide response where present).\n\nFor each disease the manual gives cultural controls (resistant/tolerant varieties where known, field sanitation, avoiding overhead irrigation that prolongs leaf wetness, crop rotation away from other legume hosts) alongside chemical options where economically justified."
+}

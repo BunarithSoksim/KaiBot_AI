@@ -1,0 +1,10 @@
+{
+  "source": "CARDI (2011), \"Handbook of Integrated Techniques for Increasing Wet-Season and Dry-Season Rice Productivity\" (Khmer, 50pp, funded by CAVAC/ACIAR, foreword by H.E. Chan Sarun, Minister of Agriculture, dated 26 August 2011)",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plant",
+  "province": "national",
+  "topic": "land_preparation_by_soil_group",
+  "text": "Land preparation should give rice roots a loose, weed-free, well-leveled bed with efficient water and nutrient use. Plow twice at minimum; fields with heavy weed growth should be plowed a third time. Recommended plow depth varies by soil group (from the same 10-group system used for fertilizer recommendations): Prey Khmer soil 8–10 cm, Prateah Lang soil 8–12 cm, Bakan soil 15–20 cm, Toul Samnang soil 20–25 cm, Koktrop soil 20–25 cm, Kampong Siem soil 10–20 cm, and Kbal Popret soil 15–25 cm — sandier, shallower-topsoil groups (Prey Khmer, Prateah Lang) are plowed shallow, while heavier clay groups with deeper topsoil (Toul Samnang, Koktrop, Kbal Popret) are plowed two to three times deeper. Leveling the field well is described as one of the most important land-preparation tasks: on-farm comparisons found leveled fields out-yielded unleveled fields by 5% to as much as 180%, averaging about 34% more grain, because water and fertilizer then reach every part of the field evenly instead of pooling in low spots (where seedlings can drown or rot) and leaving high spots dry (where seedlings and fertilizer response suffer). Where the field surface is very uneven, farmers are advised to build a small temporary bund/levee to separate a high patch from the rest of the field while leveling around it, rather than trying to level the whole field in one pass; this is illustrated as a specific technique in the source. Land preparation for a seedbed (nursery), for transplanting, and for direct broadcasting all follow the same core plowing/leveling steps.",
+  "caveat": "Plow-depth table covers 7 of the 10 named soil groups (Ou Rung, Kien Svay and Krakor are not given separate plow-depth figures in the source table)."
+}

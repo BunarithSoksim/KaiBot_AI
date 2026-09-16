@@ -1,0 +1,20 @@
+[
+  {
+    "category": "crop",
+    "product": "cabbage",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "fertilizer_and_mulching",
+    "source": "MAFF Department of Agricultural Extension - និយមដាំពូជឈ្មោះ Rareball",
+    "text": "មុនស្ទូង ត្រូវដាក់ជីមូលដ្ឋាន (Basal) ជីធម្មជាតិ ២៥០-៣៥០គីឡូក្រាមក្នុងហិកតា និងជីគីមី ១៥-១៥-១៥ លាយជាមួយជីអ៊ុយរ៉េ។ ក្រោយស្ទូងបានច្រើនថ្ងៃ ត្រូវដាក់ជីបំប៉ន (Top-dressing) ជា ២-៣ដងទៀត ដោយប្រើជីអ៊ុយរ៉េ ៤៦% និងជីប៉ូតាស្យូម។ ការប្រើប្លាស្ទិកគ្របដីមុនស្ទូង (mulching) ជួយកាត់បន្ថយការដុះស្មៅ រក្សាសំណើមដី និងកាត់បន្ថយការប៉ះពាល់ជំងឺពីដីទៅដល់ស្លឹកនិងគល់ដើម។"
+  },
+  {
+    "category": "crop",
+    "product": "cabbage",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "watering",
+    "source": "MAFF Department of Agricultural Extension - និយមដាំពូជឈ្មោះ Rareball",
+    "text": "កូនស្ពៃក្តោបមុននឹងយកទៅដាំ ត្រូវស្រោចទឹកឲ្យជោគជាមុន។ ក្រោយស្ទូងភ្លាមត្រូវស្រោចទឹកឲ្យជោគ ហើយបន្តការស្រោចទឹកក្នុង ១ថ្ងៃ ៣លើក (ព្រឹក ថ្ងៃត្រង់ និងល្ងាច) រយៈពេល ២ថ្ងៃដំបូង រួចបន្តជាធម្មតា។ ដំណាំនេះត្រូវការទឹកខ្លាំងជាងដំណាំស្ពៃឯទៀត។"
+  }
+]

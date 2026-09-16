@@ -1,0 +1,9 @@
+{
+  "source": "D",
+  "category": "crop",
+  "product": "muskmelon",
+  "lifecycle_stage": "food_safety",
+  "province": "national",
+  "topic": "d_lab_isolation_and_identification_method",
+  "text": "This CE SAIN/RUA research bulletin (Feb 2023, USAID Feed the Future funded, with Kansas State University) documents a laboratory method for identifying lactic acid bacteria (LAB) isolated from fermented young muskmelon (ត្រសក់ចាវ, scientifically Cucumis melo Linn). Method steps: (1) colony selection and culturing from the fermented product; (2) Gram stain reaction (target LAB are Gram-positive, stain blue/purple); (3) spore staining (LAB are non-spore-forming); (4) microscopic check of cell shape (round/cocci or rod-shaped); (5) catalase test (LAB are catalase-negative); (6) oxidase test (LAB are oxidase-negative); (7) physiological/biochemical tolerance testing across salt concentrations (3%, 5%, 8%, 11%, 14%), pH levels (3, 4, 5), and temperatures (10°C and 45°C) to characterize how robust each isolate is; and (8) carbohydrate-fermentation profiling using the API 50 CHL test strip system, with results uploaded to the APIWEB database to identify the bacterial species/strain."
+}

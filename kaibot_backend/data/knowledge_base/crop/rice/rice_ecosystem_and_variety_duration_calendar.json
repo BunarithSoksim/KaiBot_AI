@@ -1,0 +1,9 @@
+{
+  "source": "Cambodian rice cultivation training slide deck (Khmer language, PowerPoint-derived; publisher/presenter and exact date not stated on the visible slides; slide 2 of a 21-slide deck on rice crop ecosystems, morphology, growth stages, fertilizer use, and cultivation practice; uploaded file 26af386d-5c09dd22672cefcf11fb5b6d671175801533697315.pdf)",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "rice_ecosystem_and_variety_duration_calendar",
+  "text": "Cambodian rice is grown in four main ecosystems: upland rainfed rice, lowland rainfed rice, deepwater/floating rice, and irrigated (controlled-water) rice.\n\nPlanting and harvest timing are matched to variety maturity duration. For varieties with a 120-day growth duration, farmers plant from month 6 to month 9 (June-September) and harvest from month 8 to month 11 (August-November). For varieties with a 121-150 day duration, farmers plant starting in month 7 (July), with flowering occurring between 15 October and 15 November. For varieties with a growth duration longer than 150 days, farmers plant from month 6 to month 7 (June-July) and harvest at the end of month 1 (January); for deepwater rice specifically within this longer-duration group, flowering occurs between 1 November and 15 December.\n\nNote: this entry summarizes rice ecosystems and duration-based planting/harvest windows from one training slide; it may overlap with the existing KB topics 'rice_ecosystem_types' and 'cropping_calendar' but is retained because it ties specific flowering/harvest date windows to three variety-duration classes (120 days, 121-150 days, and >150 days)."
+}

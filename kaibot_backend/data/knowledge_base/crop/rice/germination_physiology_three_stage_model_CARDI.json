@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 4 (Physiology), section 4.1 (Seed germination physiology). No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plant",
+  "province": "national",
+  "topic": "germination_physiology_three_stage_model_CARDI",
+  "text": "Rice seed germination follows a three-stage physiological model (Takahashi, 1962; Bewley and Black, 1985). Stage 1 (imbibition) is rapid, purely physical water absorption, raising seed moisture to roughly 30% of seed weight within hours - this stage does not yet require living cell activity. Stage 2 is a lag phase during which biochemical activity begins: stored starch in the endosperm is broken down by seed enzymes into sugars (glucose, sucrose, and smaller amounts of raffinose and fructose) that fuel the growing embryo. Stage 3 is visible growth - root (radicle) and shoot (plumule/coleoptile) emergence. A distinctive feature of rice among cereal crops is that it can germinate under low-oxygen (anaerobic/flooded) conditions, unlike most other cereals which require aerobic conditions to germinate - under flooding, the coleoptile can elongate before root growth begins, whereas under normal aerobic conditions the root typically emerges first, within about 24-48 hours. This anaerobic-germination ability is part of why rice can be established via direct seeding into standing water.",
+  "caveat": "This is physiological background content, useful context for understanding direct-seeding methods (particularly water-seeding into flooded fields) covered elsewhere in this knowledge base. Chapters 4, 5, and 6 of this source (121 pages total) were read at a faster, more summarized pace than Chapters 1-3 and 9 given their combined size - this entry reflects the physiological framework and headline findings rather than an exhaustive page-by-page transcription. Recommend a duplicate-check against any existing seed/germination content once repo access is available."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "cattle",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_anaplasmosis_clinical_signs_and_treatment",
+  "text": "Anaplasma invades the blood and multiplies inside red blood cells in ruminants, transmitted by ticks. Signs are usually subacute and seen in cattle over 9 months old: fever, progressive anemia, jaundice, and drooping ears; imported dairy cattle can instead show a very rapid (peracute) form within a few hours. Zebu cattle show strong natural resistance to Anaplasma. Treatment: Tetracycline-family antibiotics — a common approach is a single intramuscular injection of long-acting oxytetracycline at 20 mg/kg.",
+  "caveat": "The source notes Anaplasmosis likely circulates in Cambodia but had not yet been formally confirmed/identified at the time of writing, unlike Trypanosomiasis and Babesia."
+}

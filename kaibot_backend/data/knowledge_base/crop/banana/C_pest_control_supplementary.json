@@ -1,0 +1,9 @@
+{
+  "source": "Somsak Wannasaree, \"Banana Orchards\" (Khmer translation, 1997), section 15 (insect pests) \u2014 supplementary control details beyond the newer MAFF manual",
+  "category": "crop",
+  "product": "banana",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "pest_control_supplementary_details",
+  "text": "This source covers the same core banana pests described in the newer 2019 MAFF manual (corm weevil, pseudostem weevil, leaf-roller caterpillar, and fruit fly), plus the aphid that vectors bunchy top virus, with a few additional practical details:\n\nFor the corm weevil (Cosmopolites sordidus), this source notes that adult weevils can persist in an area for several years if breeding sites (old stem and leaf debris) are not cleaned up, which is a reminder that field sanitation for this pest needs to be sustained year after year rather than done once.\n\nFor the leaf-roller caterpillar (Erionota thrax), a specific insecticide tank-mix is given as an example of chemical control: a combination of roughly Thiodan (endosulfan) 50%, Sumithion (fenitrothion) 20%, and an organophosphate such as azodrin/diazinon 20%, mixed according to label concentration \u2014 in addition to the chlorpyrifos option and the natural parasitic wasp predators (Ichneumonidae, Braconidae, Chalcididae) already covered elsewhere.\n\nFor the banana aphid (Pentalonia nigronervosa, the insect vector responsible for spreading bunchy top virus between plants), two control options are given: spraying colonies with a white-oil or potassium-soap solution when aphids are spotted, or chemical control with fenitrothion insecticide (sold as Sumithion), available in 50% EC or 83% ULV formulations, applied following label directions. Since this aphid is the transmission route for an incurable viral disease, controlling it promptly wherever it's found is more effective than trying to treat bunchy top virus after the fact."
+}

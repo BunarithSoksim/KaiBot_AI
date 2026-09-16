@@ -1,0 +1,9 @@
+{
+  "source": "MAFF/GIZ, \"Guidelines for Banana Export from Cambodia to China\" (2022), section 5.3",
+  "category": "crop",
+  "product": "banana",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "pesticide_use_recordkeeping_for_export",
+  "text": "Farmers and companies supplying banana for export to China are expected to keep a documented history of pesticide use per field/plot \u2014 which product, what quantity, and when it was applied \u2014 covering at least the two to three most recent growing seasons. This record needs to be available for review because China checks imported fruit against maximum residue level (MRL) limits for specific pesticides, and a documented spray history lets an exporter show which products were used and demonstrate they were applied within label directions and within any pre-harvest interval required.\n\nGrowers are encouraged to keep a simple farm diary logging exact product name, quantity, and date for every pesticide application, and to cross-check their regular spray program against the official published MRL list for products commonly used on banana (see the MRL reference entry elsewhere in this knowledge base) so they know in advance which of their usual products are subject to closer scrutiny."
+}

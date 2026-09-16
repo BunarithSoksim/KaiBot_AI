@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "crop",
+  "product": "muskmelon",
+  "lifecycle_stage": "irrigation",
+  "province": "national",
+  "topic": "a_irrigation_routine",
+  "text": "Plants are watered on a routine schedule — roughly once daily in cooler weather and up to twice daily in hot/dry weather — checking soil moisture at the root zone rather than watering on a fixed clock alone. Overwatering right before harvest is avoided since it dilutes fruit sweetness.",
+  "caveat": "Source text did not give a numeric liters-per-plant figure; this entry reflects the general watering frequency guidance visible in the scan."
+}

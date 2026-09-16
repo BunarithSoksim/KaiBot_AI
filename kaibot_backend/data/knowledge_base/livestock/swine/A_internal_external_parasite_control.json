@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_internal_external_parasite_control",
+  "text": "For mange and sucking lice, Ivermectin is effective — for mange eradication, inject twice within two weeks, or mix Ivermectin into feed for 7 days. Ivermectin doesn't kill ticks instantly but interrupts their feeding for about 2 weeks, reducing engorged females and egg production, and is also effective against dung-breeding flies, since treated cattle manure stops fly larvae developing for about 10 days (note: this fly effect is described for cattle manure in the source). Ivermectin is given by subcutaneous injection. Levamisole and Ivermectin are the two main internal dewormers for swine; Ivermectin is now more widely used since it also covers external parasites, and can be injected (subcutaneous) or mixed into feed for 7 days — product quality varies significantly between manufacturers.",
+  "caveat": "Product names and formulations reflect the source manual (circa 2013) and may have changed; always follow current label instructions and local veterinary guidance."
+}

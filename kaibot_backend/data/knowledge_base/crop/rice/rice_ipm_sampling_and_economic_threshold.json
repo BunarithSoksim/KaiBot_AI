@@ -1,0 +1,9 @@
+{
+  "source": "វិធានការចម្រុះគ្រប់គ្រងដំណាំ លើដំណាំស្រូវ (Integrated Pest Management on Rice), training slide deck, Department of Agriculture, Forestry and Fisheries of Battambang province, presented by Ms. Yem Sophy, Oct 20, 2017 (contact: ysophy168@gmail.com, 012 558 312)",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "Battambang",
+  "topic": "ipm_sampling_and_economic_threshold_level",
+  "text": "Sampling: scouting a representative subset of the field rather than the whole field gives an efficient, low-cost way to estimate pest density and make a timely, informed spray decision; the deck lists three field sampling methods -- random sampling, sequential sampling, and point-and-trap sampling. Economic Threshold Level (ETL): defined, citing Headly (1972), as the pest density at which the cost of expected crop loss equals the cost of the control action, i.e. the point at which intervening first becomes economically worthwhile; the deck notes ETL is not one fixed number but varies with rice price, the cost of the pesticide/labor to apply it, and the pest's expected damage potential at the current crop stage. Companion slides give illustrative threshold and pesticide-timing tables for several pests organized by days-after-sowing bracket (see the companion pesticide-rate-table entry for those specific figures)."
+}

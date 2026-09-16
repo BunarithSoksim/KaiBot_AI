@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "poultry",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_vaccination_schedule",
+  "text": "Example vaccination schedules: Newcastle Disease — day-old chicks (DOC) vaccinated by eye drop, with a booster 2–3 weeks later; layers get one more dose at 7–8 weeks. Fowl Cholera — mainly for layers, at 12–16 weeks with a booster 4 weeks later, timed so the booster falls about 2 weeks before laying begins. Fowl Pox — during an outbreak, vaccinate chicks from 10 days to 10 weeks old; routine vaccination for pullets is between 12 and 16 weeks. Gumboro — can be given in drinking water at 2 or 3 weeks of age.",
+  "caveat": "These are example schedules from the source; actual programs should follow current national veterinary guidance and local disease risk."
+}

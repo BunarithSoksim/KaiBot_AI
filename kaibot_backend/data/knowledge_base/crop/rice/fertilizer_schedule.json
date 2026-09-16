@@ -1,0 +1,9 @@
+{
+  "source": "Climate Resilient Broadcasting Rice Growing Technique (ASPIRE/IFAD, MAFF, 2018), consolidated with CARDI Farmer Notes variety leaflet fertilizer tables",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "fertilizer",
+  "text": "Apply fertilizer in 2-3 rounds per crop cycle rather than all at once. Base application: work 5 tons of organic manure or compost (about 20 cart-loads) per hectare into the soil at the second plowing, combined with a basal dose of chemical fertilizer before broadcasting or transplanting. Top-dress (បំប៉ន) urea (46-0-0) roughly 45 days after transplanting, or about 50 days after direct sowing for short-duration varieties, adjusting a little earlier or later depending on variety and how fast the crop is tillering.\n\nExact fertilizer rates depend heavily on soil type, not just crop stage -- Cambodian extension tables give different urea/DAP/potassium rates for at least 10 named local soil series (e.g. Prey Khmer, Prateah Lang, Bakan/O Rung, Toul Samrong, Koh Krorbey, Kampong Siem, Kganieng Svay, Krakor, Kbal Po Rith soils), with typical ranges of roughly 20-100kg/ha for urea or DAP and 0-90kg/ha for potassium. Farmers should check the recommended rate for their own soil type rather than assuming one blanket rate fits every field.\n\nStaying within the recommended rate matters for reasons beyond cost: exceeding it does not improve grain quality and can reduce aroma or milling quality in fragrant varieties, and excess nitrogen fertilizer increases nitrous oxide emissions (a greenhouse gas roughly 300 times more potent than CO2) without giving the farmer any yield benefit in return."
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.22",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "basal_fertilizer_application_dap",
+    "text": "Basal fertilizer (ជីទ្រាប់បាត, applied at/before land preparation) for the seed-production field is DAP (18-46-0), applied at a rate of one 50 kg sack per hectare. The DAP bag's declared nutrient content is N 18%, P (as P2O5) 46%, K (as K2O) 0% — i.e. per 100 kg of DAP: 18 kg N and 46 kg P2O5. At the recommended one-sack-per-hectare rate this delivers approximately N 9 kg, P2O5 23 kg, K2O 0 kg per hectare. (The manual also includes unit-conversion tables for scaling this fertilizer rate to smaller field-area units such as ry/are, omitted here as they are just arithmetic conversions of the same per-hectare rate.)"
+  }
+]

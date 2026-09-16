@@ -1,0 +1,10 @@
+{
+  "source": "MAFF training slide deck, \"ជំងឺលើដំណំស្រូវ (Diseases on Rice crop)\" — no elibrary URL visible on the uploaded scan; publisher/date not stated in the source material.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "disease_yellow_dwarf",
+  "text": "Yellow dwarf disease (ជំងឺតឿលឿង) is a virus disease of rice. Infected plants tiller excessively, and leaves turn yellow starting from the leaf tip, especially on younger leaves, sometimes with scorch-like brown spots. When infection happens early in growth, panicles may fail to fully emerge from the leaf sheath, or emerge with very little grain, and much of what does fill is empty. The virus is spread by the small brown planthopper (ម្មាចតោាតតូច, Laodelphax striatellus). The insect can carry and transmit the virus for roughly 3–35 days after acquiring it (about 14 days on average). The virus does NOT pass through the planthopper's eggs, and it does NOT spread through infected seed.",
+  "caveat": "The source lists this vector (small brown planthopper, Laodelphax striatellus) for yellow dwarf, grassy stunt, and ragged stunt. This is a distinct insect species from brown planthopper (Nilaparvata lugens). A previously flagged KB entry (pest_sap_sucking_virus_vector_FLAGGED.json from Batch 8) described a pest resembling brown planthopper as a suspected virus vector — that identification should still be checked separately against Nilaparvata lugens sources, since this document does not resolve that flag; it only confirms Laodelphax striatellus as the vector for this specific set of diseases."
+}

@@ -72,38 +72,49 @@ class MockLLMClient(BaseLLMClient):
 class GeminiLLMClient(BaseLLMClient):
     def __init__(self) -> None:
         from google import genai  # local import: only needed when this provider is active
+        from google.genai import types
         api_key = os.getenv("GEMINI_API_KEY")
         if not api_key:
             raise RuntimeError(
                 "GEMINI_API_KEY is not set. Add it to your .env file "
                 "before using KAIBOT_LLM_PROVIDER=gemini."
             )
-        self._client = genai.Client(api_key=api_key)
+        self._types = types
+        http_options = types.HttpOptions(
+            timeout=settings.gemini_request_timeout_ms,
+            retry_options=types.HttpRetryOptions(attempts=settings.gemini_max_retry_attempts),
+        )
+        self._client = genai.Client(api_key=api_key, http_options=http_options)
+
+    def _generate_content(self, system_instruction: str, contents: str) -> str:
+        # Uses the stable models.generate_content endpoint, not
+        # client.interactions.create -- the latter is explicitly marked
+        # experimental by the SDK and was observed hanging indefinitely on
+        # a stalled request even with http_options.timeout set on the
+        # client (a single call blocked a process for 1h49m). generate_content
+        # is the documented, stable surface and reliably honors the timeout.
+        config = self._types.GenerateContentConfig(
+            system_instruction=system_instruction,
+            max_output_tokens=settings.max_output_tokens,
+        )
+        response = self._client.models.generate_content(
+            model=settings.llm_model,
+            contents=contents,
+            config=config,
+        )
+        return response.text
 
     def generate(self, question: str, chunks: list[RetrievedChunk], language: str = "km") -> LLMResponse:
         user_turn = build_user_turn(question, chunks, language=language)
-        interaction = self._client.interactions.create(
-            model=settings.llm_model,
-            system_instruction=_system_prompt(language),
-            input=user_turn,
-        )
-        return LLMResponse(text=interaction.output_text, used_fallback=False)
+        text = self._generate_content(_system_prompt(language), user_turn)
+        return LLMResponse(text=text, used_fallback=False)
 
     def generate_smalltalk(self, text: str, language: str = "km") -> str:
-        interaction = self._client.interactions.create(
-            model=settings.llm_model,
-            system_instruction=_smalltalk_prompt(language),
-            input=text,
-        )
-        return interaction.output_text
+        return self._generate_content(_smalltalk_prompt(language), text)
 
     def classify_offtopic(self, question: str) -> bool:
-        interaction = self._client.interactions.create(
-            model=settings.llm_model,
-            system_instruction=SYSTEM_PROMPT_OFFTOPIC_CHECK,
-            input=question,
-        )
-        return interaction.output_text.strip().lower().startswith("offtopic")
+        text = self._generate_content(SYSTEM_PROMPT_OFFTOPIC_CHECK, question)
+        return text.strip().lower().startswith("offtopic")
 
 
 class ClaudeLLMClient(BaseLLMClient):

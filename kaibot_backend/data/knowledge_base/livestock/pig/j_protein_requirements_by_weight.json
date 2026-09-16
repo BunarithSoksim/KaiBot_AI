@@ -1,0 +1,10 @@
+{
+  "source": "Morais O., Cargill C., Parke K. and Barnes T. 2020. Smallholder Pig Production Technicians' Manual. Timor-Leste Ministry of Agriculture and Fisheries, University of Queensland, ACIAR and the TOMAK Program (Australian Aid), Dili.",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "feeding",
+  "province": null,
+  "topic": "protein_requirements_by_weight",
+  "text": "Local-breed and crossbred pigs need less dietary protein than imported European breeds, and the requirement drops as pigs grow: a 10kg local-breed pig needs about 16–18% protein in its diet, a 20kg pig needs about 16% (reducing to 12% by around 35kg), and older pigs need at least 10% protein. The target energy level for all pig classes is 13–15 megajoules per kg of feed on a dry-matter basis.",
+  "caveat": "This guidance comes from a Timor-Leste smallholder pig manual, not a Cambodia-specific source. Feed ingredients and general husbandry practices transfer well to Cambodia's tropical smallholder conditions, but local breed weights/ages and disease-context details may differ; confirm specifics with a local vet or extension officer where precision matters."
+}

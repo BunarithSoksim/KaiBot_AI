@@ -1,0 +1,9 @@
+{
+  "source": "MAFF/GIZ, \"Guidelines for Banana Export from Cambodia to China\" (2022), section 5.7",
+  "category": "crop",
+  "product": "banana",
+  "lifecycle_stage": "process",
+  "province": "national",
+  "topic": "cold_chain_container_risk_management",
+  "text": "Temperature control failures during shipping are highlighted as one of the biggest risk factors for quality complaints on export banana, so this guide sets out specific checks for refrigerated (reefer) container use:\n\n- Verify the container's technical condition and refrigeration unit are properly functioning and calibrated before loading, not just visually inspected.\n- Monitor for refrigerant leaks and mechanical failure risk during the voyage, since a mid-transit breakdown can ruin an entire container's contents before it's discovered.\n- Confirm the container itself meets the international technical standard required for the destination market, and that its maintenance/certification documentation is current and available if requested.\n- Treat older or poorly-maintained containers as a higher-risk choice, and factor container condition into carrier selection rather than choosing purely on price.\n\nBecause a single cold-chain failure can destroy the value of an entire shipment and damage a buyer relationship, the guide treats container vetting as something the exporter should actively manage rather than simply delegate to the shipping line."
+}

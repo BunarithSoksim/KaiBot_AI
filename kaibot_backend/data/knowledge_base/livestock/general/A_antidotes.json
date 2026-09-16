@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "general",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_antidotes",
+  "text": "An antidote counters poisoning from chemical substances (pesticide, medical reactions, etc.). Atropine treats poisoning from substances like Dipterex or Pilocarpine, and can be combined with an antibiotic to treat severe diarrhea; it works against intestinal and tracheal spasms and relieves associated pain. Adrenaline is used in emergencies for reactions from bites, vaccination reactions, or Penicillin reactions.",
+  "caveat": "This is a brief overview from the source; poisoning cases should be treated as emergencies with veterinary input where possible, and precise dosing should follow the product label or professional guidance."
+}

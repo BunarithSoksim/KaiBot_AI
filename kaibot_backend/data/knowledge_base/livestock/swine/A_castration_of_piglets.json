@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_castration_of_piglets",
+  "text": "Castration is best done at about 7–10 days of age, using proper technique and hygiene. Piglets with an inguinal hernia cannot be castrated.",
+  "caveat": "The source gives only a brief note on timing and the hernia exception for piglet castration; it does not detail the surgical steps here (unlike the more detailed cattle castration section elsewhere in the manual)."
+}

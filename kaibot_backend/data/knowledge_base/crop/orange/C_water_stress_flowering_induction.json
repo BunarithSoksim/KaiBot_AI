@@ -1,0 +1,10 @@
+{
+  "source": "Dr. Thaveesak Sangudom, Dr. Theerawut Chutinanthakun, and Wirot Horasart, \"Off-season Production Techniques for Pursat Orange (ក្រូចពោធិ៍សាត់ / kroch poursat) in Cambodia,\" in The Guideline of Climate Change Adaptation in Cambodia (pp. 130-153), Project on Promoting Climate Resilience in Farming Communities of Cambodia, General Department of Agriculture (GDA) Cambodia, Thailand International Cooperation Agency (TICA), and Department of Agriculture (DOA) Thailand, 2017-2020.",
+  "category": "crop",
+  "product": "orange",
+  "lifecycle_stage": "grow",
+  "province": "Battambang",
+  "topic": "water_stress_flowering_induction",
+  "text": "To force Pursat orange to flower and fruit outside its natural season, irrigation is deliberately withheld for a period right after pruning. Stopping water supply stresses the tree, which encourages it to shed older leaves and enter a brief rest period. Irrigation is then resumed in a controlled, evenly-timed way across the orchard, which triggers a synchronized flush of new leaves followed by flowering. Farmers are advised to manage this water cycle carefully and evenly tree-to-tree, since uneven withholding or uneven resumption of water produces uneven flowering across the orchard, which in turn produces an uneven, staggered harvest.\n\nNew-leaf flush and the start of flowering are the visible signs that the technique has worked; the source documents both stages with orchard photos labelled accordingly.",
+  "caveat": "The source's exact wording for this technique (precise withholding duration, how irrigation is resumed) was on a page with small, dense Khmer text that could not be read with full pixel-level confidence even at high-resolution rasterization. The description above reflects the clearly legible surrounding context (pruning is done first, then water is controlled/withheld, then reapplied to trigger new growth) and should be treated as a general summary of the technique rather than a precise transcription. Recommend re-reading this specific passage at even higher zoom if exact timing/duration figures are needed."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "TSTD/MAFF Pumpkin (ល្ពៅ) Cultivation Manual, PDF title \"10_Pumpkin_manual_body+covers\" (TSTD — TA 7305-CAM), 2012",
+  "category": "crop",
+  "product": "pumpkin",
+  "lifecycle_stage": "plant",
+  "province": "national",
+  "topic": "seedling_media_and_sowing",
+  "text": "A growing-media mix for raising pumpkin seedlings in bags or trays is made by combining rice husk ash (ជើសអង្កាម), fine river sand (ដីស្រទាប់ខ្សាច់), and compost/well-rotted manure (ដីកំប៉ុស្តិ៍ / លាមកគោស្ងួត), mixed thoroughly and left to age briefly before use. This mix is filled into small nursery bags or plastic seedling trays. Before sowing, seed can be treated by soaking in water and coated with a protective fungicide dust (see disease-management entry) to reduce damping-off risk. Benefits of raising seedlings in a nursery before transplanting, per the source, include: more uniform, healthy seedlings; more efficient use of seed; easier protection from pests while seedlings are small and vulnerable; and better control of watering and shade during the most fragile growth stage.",
+  "caveat": "Exact proportions of the rice-husk-ash/sand/compost mix could not be confidently read from the corrupted source text and are not stated here as specific ratios -- verify against a clean scan before advising a specific mix ratio to a farmer."
+}

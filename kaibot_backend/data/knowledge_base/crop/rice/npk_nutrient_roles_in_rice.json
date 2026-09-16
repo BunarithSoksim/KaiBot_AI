@@ -1,0 +1,103 @@
+[
+  {
+    "source": "Provincial Department of Agriculture, Forestry and Fisheries, Pursat Province — សារធាតុចិញ្ចឹមសម្រាប់ដំណាំស្រូវ (Nutrients for the Rice Crop), presenter Yem Sophy, 20 Nov 2017, p.13",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "nitrogen_role_in_rice",
+    "text": "Nitrogen (N/អាសូត) promotes plant growth (vegetative growth), and increases panicle size, grain size, number of grains, grain-filling (percentage of full grains), and the protein content of the grain."
+  },
+  {
+    "source": "Provincial Department of Agriculture, Forestry and Fisheries, Pursat Province — សារធាតុចិញ្ចឹមសម្រាប់ដំណាំស្រូវ (Nutrients for the Rice Crop), presenter Yem Sophy, 20 Nov 2017, p.13",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "nitrogen_deficiency_symptoms",
+    "text": "Nitrogen (N) deficiency symptoms in rice: leaves show a pale/light green color; older leaves turn yellow and eventually dry out and die; the plant becomes stunted (short); and tillering, panicle number, grain number, and grain weight are all reduced."
+  },
+  {
+    "source": "Provincial Department of Agriculture, Forestry and Fisheries, Pursat Province — សារធាតុចិញ្ចឹមសម្រាប់ដំណាំស្រូវ (Nutrients for the Rice Crop), presenter Yem Sophy, 20 Nov 2017, p.14",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "nitrogen_requirement_by_growth_stage",
+    "text": "Rice's nitrogen (N) requirement changes across the growth cycle: demand is present from the tillering stage, continues through flowering, and then decreases again as the crop approaches the ripening (maturity) stage."
+  },
+  {
+    "source": "Provincial Department of Agriculture, Forestry and Fisheries, Pursat Province — សារធាតុចិញ្ចឹមសម្រាប់ដំណាំស្រូវ (Nutrients for the Rice Crop), presenter Yem Sophy, 20 Nov 2017, p.15",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "phosphorus_role_in_rice",
+    "text": "Phosphorus (P/ផូស្វ័រ) plays an important role in energy storage and transfer within the plant; promotes tillering; supports root development; and promotes uniform flowering and ripening — especially important during the early growth stage."
+  },
+  {
+    "source": "Provincial Department of Agriculture, Forestry and Fisheries, Pursat Province — សារធាតុចិញ្ចឹមសម្រាប់ដំណាំស្រូវ (Nutrients for the Rice Crop), presenter Yem Sophy, 20 Nov 2017, p.15, p.17-18",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "phosphorus_deficiency_symptoms",
+    "text": "Phosphorus (P) deficiency symptoms in rice: the plant is stunted with a dark green leaf color; leaves are narrow/erect; tillering is reduced; flowering and ripening are delayed; and the number of sterile (unfilled) grains increases. Field-trial photographs comparing plots with and without phosphate fertilizer (75 kg P/ha) show visibly stunted, upright growth and reduced tillering in the phosphorus-deficient plots compared to phosphate-treated plants."
+  },
+  {
+    "source": "Provincial Department of Agriculture, Forestry and Fisheries, Pursat Province — សារធាតុចិញ្ចឹមសម្រាប់ដំណាំស្រូវ (Nutrients for the Rice Crop), presenter Yem Sophy, 20 Nov 2017, p.19",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "potassium_role_in_rice",
+    "text": "Potassium (K/ប៉ូតាស្យូម) transports nutrients to plant cells; helps increase the percentage of filled grains per panicle and the 1000-grain weight; supports root growth, tillering, and stem growth; and especially helps improve grain quality and promote even, proper ripening of the crop.",
+    "confidence": "low"
+  },
+  {
+    "source": "Provincial Department of Agriculture, Forestry and Fisheries, Pursat Province — សារធាតុចិញ្ចឹមសម្រាប់ដំណាំស្រូវ (Nutrients for the Rice Crop), presenter Yem Sophy, 20 Nov 2017, p.19-21",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "potassium_deficiency_symptoms",
+    "text": "Potassium (K) deficiency symptoms in rice: leaves show a dark green color; leaf margins turn brownish-yellow, with brownish spots appearing first at the tips of older leaves. Field photographs comparing NPK-treated versus NP-only (no potassium) rice plants show visibly poorer growth and yellowing/browning in the potassium-deficient (NP) plants."
+  },
+  {
+    "source": "Provincial Department of Agriculture, Forestry and Fisheries, Pursat Province — សារធាតុចិញ្ចឹមសម្រាប់ដំណាំស្រូវ (Nutrients for the Rice Crop), presenter Yem Sophy, 20 Nov 2017, p.22",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "zinc_role_in_rice",
+    "text": "Zinc (Zn/សង្ក្សី) is involved in biochemical processes in the rice plant, accumulates in the husk, and is transferred/moved to different growing parts of the plant as needed.",
+    "confidence": "low"
+  },
+  {
+    "source": "Provincial Department of Agriculture, Forestry and Fisheries, Pursat Province — សារធាតុចិញ្ចឹមសម្រាប់ដំណាំស្រូវ (Nutrients for the Rice Crop), presenter Yem Sophy, 20 Nov 2017, p.22",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "zinc_deficiency_symptoms",
+    "text": "Zinc (Zn) deficiency symptoms in rice: brown, dust-like spots appear on the upper part of the plant; the plant becomes stunted starting about 2-3 weeks after sowing/transplanting; and plant growth becomes uneven."
+  },
+  {
+    "source": "Provincial Department of Agriculture, Forestry and Fisheries, Pursat Province — សារធាតុចិញ្ចឹមសម្រាប់ដំណាំស្រូវ (Nutrients for the Rice Crop), presenter Yem Sophy, 20 Nov 2017, p.23",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "sulfur_role_and_deficiency_in_rice",
+    "text": "Sulfur (S/ស្ពាន់ធ័រ) is involved in protein synthesis and supports the plant's function and physical form. Sulfur (S) deficiency symptoms in rice: the plant shows an overall pale/light green color, and young leaves in particular appear light green."
+  },
+  {
+    "source": "Provincial Department of Agriculture, Forestry and Fisheries, Pursat Province — សារធាតុចិញ្ចឹមសម្រាប់ដំណាំស្រូវ (Nutrients for the Rice Crop), presenter Yem Sophy, 20 Nov 2017, p.24",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "magnesium_role_and_deficiency_in_rice",
+    "text": "Magnesium (Mg/ម៉ាញេស្យូម) is easily mobile/translocated within the plant; is a component of chlorophyll; participates in [photosynthetic] synthesis processes; and moves quickly from old leaves to new leaves when supply is short. Magnesium (Mg) deficiency symptoms in rice: loss of chlorophyll (chlorosis) appears between the leaf veins, with an orange-yellow color appearing on older leaves."
+  }
+]

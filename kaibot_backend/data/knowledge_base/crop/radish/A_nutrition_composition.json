@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "crop",
+  "product": "radish",
+  "lifecycle_stage": "consume",
+  "province": "national",
+  "topic": "a_nutrition_composition",
+  "text": "Per 100g of edible root portion, the source gives a nutrition comparison table for fresh root (ដើមស្រស់) versus cooked root (ដើមចំអិន), covering: energy, water content (%), protein, fat, carbohydrate, fiber, and ash. A second table gives mineral/vitamin content per 100g for the same fresh/cooked comparison: calcium (Ca), phosphorus (P), iron (Fe), sodium (Na), potassium (K), carotene, and a vitamin value, all in mg. The table shows cooking measurably reduces some mineral values — sodium and potassium in the cooked row both trend toward zero, consistent with mineral leaching during cooking.",
+  "caveat": "The exact digit values in this table were printed in a small decorative font and could not be read with full pixel-level confidence during transcription. The table's structure (raw vs. cooked comparison across energy/water/protein/fat/carbohydrate/fiber/ash and Ca/P/Fe/Na/K/carotene/vitamin) is reliable, but the specific numeric values should be verified against a higher-resolution scan before being presented to farmers as exact figures."
+}

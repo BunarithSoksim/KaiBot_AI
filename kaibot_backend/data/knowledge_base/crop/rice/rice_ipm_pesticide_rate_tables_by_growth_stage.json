@@ -1,0 +1,9 @@
+{
+  "source": "វិធានការចម្រុះគ្រប់គ្រងដំណាំ លើដំណាំស្រូវ (Integrated Pest Management on Rice), training slide deck, Department of Agriculture, Forestry and Fisheries of Battambang province, presented by Ms. Yem Sophy, Oct 20, 2017 (contact: ysophy168@gmail.com, 012 558 312)",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "Battambang",
+  "topic": "ipm_pesticide_threshold_and_rate_tables",
+  "text": "Illustrative economic-threshold and pesticide-rate tables from the training deck, organized by days-after-sowing bracket (figures as printed in the source; treat as illustrative training figures, not a current registered-label recommendation -- check against the current MAFF/CARDI pesticide registration list before advising a specific product). Days 3-5: thrips threshold 20% damaged tillers -> Carbaryl; leaffolder threshold 15% damaged tillers -> Carbosulfan or Fipronil; mealybug/mite threshold 5 per tiller -> Ethiprole or Etofenprox; earwig/black cricket threshold 20% cut-off tillers -> Chlorpyrifos. Days 6-9: stem-borer moth threshold 20% -> Bansultap, Carbosulfan, or Fipronil; mealybug/mite threshold ~5 per tiller -> Ethiprole, Dinotefuran, or Thiamethoxam; earwig/black cricket -> Chlorpyrifos. Days 10-14: stem-borer moth threshold 15% -> Bansultap, Carbosulfan, Fipronil; mealybug/mite threshold ~10 per hill -> Ethiprole, Dinotefuran, Thiamethoxam; leafhopper threshold 0.5 per hill -> Ethiprole, Clothianidin, Carbosulfan. Days 15-16: rice bug threshold 4 per square meter (or per light-trap catch) -> Carbosulfan. All rates in the source table are given per standard 20-liter backpack sprayer load, but the exact gram/ml dose per active ingredient was not consistently legible across every row of the printed table and should be re-confirmed against the physical source or product label before field use."
+}

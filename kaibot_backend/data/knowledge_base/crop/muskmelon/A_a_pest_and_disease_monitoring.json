@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "crop",
+  "product": "muskmelon",
+  "lifecycle_stage": "pest_disease",
+  "province": "national",
+  "topic": "a_pest_and_disease_monitoring",
+  "text": "Growers are advised to walk the field regularly to check for insect damage and early disease symptoms on leaves and fruit, removing and destroying affected plant material promptly to slow spread. The source references standard cucurbit fungal issues (mildew-type leaf diseases and fruit rot) and recommends registered agricultural chemicals for control, but the specific product/active-ingredient names were not legible with confidence in this scan.",
+  "caveat": "Unlike the cucumber sources (B, C) where pest/disease chemical names printed clearly, this muskmelon source's pest/disease section was affected by scan/OCR degradation. Do not rely on this entry for specific pesticide active ingredients — cross-reference with the cucumber sources' pest/disease entries (same Cucurbitaceae family, largely overlapping pest/disease pressure) until a cleaner re-read of this document is done."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "CARDI (2011), \"Series on: Rice Cultivation Environment Status in Cambodia / Soil Group Classification / Key Characteristics of 10 Rice Varieties / Simple Seed Purification Method\" (Khmer, 25pp, funded by CAVAC/ACIAR, 1st printing 2011)",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "rice_variety_ir66_characteristics",
+  "text": "IR66 (អុីអ៊ែរ៦៦) is a CARDI-released rice variety (released to farmers in 1990). Duration: broadcast 105 / transplant 115 days. Plant height: 80–118 cm. Average yield: 4.0 t/ha. Productive tillers: 12–18 productive tillers/plant. Panicle length: 25–26 cm. 100-grain weight: 2.2 g. Grain length: 7.2 mm. Grain length/width slenderness index: 2.0. Grain shape: round/plump. Chalkiness: small. Translucence: translucent. Aroma: none. Blast resistance: not tolerant. Drought tolerance: not tolerant. Flood/submergence tolerance: not tolerant. Market milled-rice grade: Grade 2 milled rice. Recommended growing zone: irrigated dry-season, early-wet-season, upper terrace (rainfed lowland, water ≤20 cm), and flood-recession/pre-flood fields.",
+  "caveat": "One of CARDI's 10 government-prioritized rice varieties named in the 17 August 2010 national rice-production/export policy. Variety data (duration, height, yield, grain metrics, resistance ratings) transcribed from a per-variety data sheet in a scanned, encrypted PDF; Khmer spelling of the variety name may need checking (OCR of a non-standard font), and this variety's identity/spelling should be duplicate-checked against any existing KB variety entry with a similar or matching name before merging, especially given the project's standing open item on an unresolved 'Cholmol/Chulsa' identity question and the three-way transplanting-spacing discrepancy that also involves several of these named varieties. Flood-tolerance and other resistance ratings are as printed in the source and were not independently re-verified against IRRI or other literature."
+}

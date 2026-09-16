@@ -1,0 +1,10 @@
+{
+  "source": "TSTD/MAFF Pumpkin (ល្ពៅ) Cultivation Manual, PDF title \"10_Pumpkin_manual_body+covers\" (TSTD — TA 7305-CAM, in partnership with East West Seed International), created 2012",
+  "category": "crop",
+  "product": "pumpkin",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "general_overview_and_varieties",
+  "text": "Pumpkin (ល្ពៅ) is grown widely in Cambodia both for its fruit and, notably, for its young flowers, which are eaten as a vegetable -- the source gives a side-by-side nutrition comparison (per 100g) of pumpkin flower/bud versus pumpkin fruit flesh, covering calories, protein, fat, carbohydrate, fiber, calcium, phosphorus, iron, sodium, potassium, and vitamin A content, with the fruit generally higher in calories and carbohydrate and the flower higher in some minerals. Two farmer-recognized pumpkin types are described: a round, black/dark-skinned type with a thick, hard rind once mature (higher storage life, described as suited to distant markets and longer transport), and a longer, oblong type with thinner skin, softer flesh, and a shorter shelf life (described as more for local/nearby sale). Variety selection criteria given: choose varieties that give high yield, are well-suited to the local area, are disease-resistant, and have a documented germination rate above 80%.",
+  "caveat": "Source text uses heavily corrupted CID/Limon-encoded Khmer fonts in body prose (a known extraction problem also seen with this project's Wax Gourd and deferred vine-crop batches); the general shape of this entry (nutrition comparison table, two named variety types, generic selection criteria) is reconstructed from partially-legible OCR plus a second PDF rendition of the same manual (title metadata: \"LOPOV:Layout 1.qxd\", LOPOV being a romanization of ល្ពៅ/pumpkin). Precise nutrition figures and the exact Khmer variety names could not be independently re-verified against a clean rasterized image and should be spot-checked before being treated as exact quotations."
+}

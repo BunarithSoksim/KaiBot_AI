@@ -1,0 +1,10 @@
+{
+  "source": "បច្ចេកទេស ដាំដុះដំណាំដំឡូងជ្វា (Sweet Potato Cultivation Techniques), Ministry of Agriculture, Forestry and Fisheries (MAFF), General Directorate of Agriculture, 2018",
+  "category": "crop",
+  "product": "sweet_potato",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "overview_and_status",
+  "text": "In Cambodia, farmers in many provinces grow sweet potato (ដំឡូងជ្វា), a root/tuber crop that has long been cultivated by generations of farmers, with cultivated area gradually increasing across the country.\n\nSweet potato tubers form underground and contain abundant starch, providing good nutritional benefit. Approximately 100 grams of fresh sweet potato tuber provides about 25 grams of starch and roughly 50 kilocalories of energy. Beyond starch, the tuber also contains vitamins and minerals, with only a small amount of fat. Because of its high, good-quality carbohydrate content, sweet potato is considered a beneficial food for consumers, and has traditionally served as a supplementary staple food, particularly valuable during times of rice scarcity because it is easy to grow and multiply.\n\nAnalysis of the tuber's composition shows it contains approximately 24% pure starch and 4.17% glucose while fresh, and when ground into flour, approximately 1.3% protein, 4.24% tannin, and 1.37% pentosan, along with vitamins A, B, and C.",
+  "caveat": "This source (processed as Source C) is very likely a duplicate re-scan of Sweet Potato Source A (MAFF, 2018, 36 pages), already extracted and closed in Batch 46. It was reprocessed at the user's request to check for content differences against the prior handover summary. No access to the actual previously-extracted JSON files was available in this session (no live repo access), so this comparison was made only against Batch 46's handover text description, not the original files. Recommend a repo-side duplicate check/merge before both Source A and Source C are kept in the knowledge base."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "MAFF / ADB, \"ដំណាំសណ្តែកសៀង\" [Soybean crop], official cultivation manual, 2005",
+  "category": "crop",
+  "product": "soybean",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "disease_management",
+  "text": "Disease coverage includes Cercospora leaf spot, powdery mildew, and soybean mosaic virus, each described with visible symptoms (leaf spotting, white powdery coating, and mosaic/mottled leaf patterns respectively) and general control recommendations (resistant/clean seed, field sanitation, and fungicide use where the disease is a recurring problem)."
+}

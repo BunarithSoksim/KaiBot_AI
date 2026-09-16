@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 9 (Harmful factors and management), sections 9.2.2.4, 9.2.2.5, and 9.2.3.1. No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "pest_confirmed_species_names_supplement_CARDI",
+  "text": "This source provides scientific (Latin binomial) names confirming the identity of three pests already documented in the knowledge base from earlier batches, useful for cross-referencing and adding precision to those existing entries: Thrips (Stenchaetothrips biformis Bagnall, Thysanoptera: Thripidae) - feeds on young leaves causing a silvery streaking/rolled-leaf appearance, most damaging at the seedling stage; recommended chemical control is a systemic insecticide when infestation is heavy. Rice caseworm (Nymphula depunctalis Guenee, Lepidoptera: Pyralidae) - aquatic-stage larvae build a floating leaf case and feed on leaf tissue, most problematic in fields with standing water; a distinguishing feature is the larva's tube-like case built from cut leaf pieces, visible floating on the water surface. Rice bug (Leptocorisa oratorius Fabricius, Hemiptera: Alydidae) - a grain-sucking bug that punctures developing kernels during the milky/dough stage, causing empty or partially-filled ('pecky') grain and a characteristic foul odor when disturbed; adults are about 15mm long and thin-bodied.",
+  "caveat": "This is a cross-reference supplement, not new pest content - these three pests are already confirmed and covered in the knowledge base from earlier batches (thrips, caseworm, and rice bug were all documented in Batches 1-7). The scientific names and brief supporting detail here should be merged into those existing entries once repo access is available rather than kept as a standalone file long-term."
+}

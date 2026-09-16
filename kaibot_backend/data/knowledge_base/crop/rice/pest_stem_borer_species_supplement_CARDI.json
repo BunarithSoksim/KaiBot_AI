@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 9 (Harmful factors and management), section 9.2.2.1 (Stem borers). No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "pest_stem_borer_species_supplement_CARDI",
+  "text": "This source names five stem borer species affecting rice in Cambodia, all Lepidoptera, supplementing the stem borer entry already confirmed in earlier batches: yellow stem borer (Scirpophaga incertulas Walker, Pyralidae) - described as the most widespread and damaging species nationally; white stem borer (Scirpophaga innotulas Walker, Pyralidae); striped stem borer (Chilo suppressalis Walker, Pyralidae); dark-headed stem borer (Chilo polychrysus Meyrick, Pyralidae); and pink stem borer (Sesamia inferens Walker, Noctuidae). All five share a similar damage pattern (larvae bore into the stem, causing 'deadheart' at vegetative stage or 'whitehead' at reproductive stage) but differ in relative importance by ecosystem - the source notes yellow stem borer is the dominant species in irrigated/lowland rice while some of the others are more associated with deepwater or rainfed conditions.",
+  "caveat": "This supplements rather than replaces the existing stem borer knowledge-base entry from earlier batches - recommend merging this species list into that entry once repo access is available, rather than treating this as a standalone new pest topic."
+}

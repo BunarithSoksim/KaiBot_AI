@@ -16,7 +16,7 @@ from pathlib import Path
 
 import chromadb
 
-from config import settings, CHROMA_PERSIST_DIR, SAMPLE_DOCS_DIR
+from config import settings, CHROMA_PERSIST_DIR, KNOWLEDGE_BASE_DIR
 from rag.embeddings import get_embedder
 
 COLLECTION_NAME = "kaibot_agri_knowledge"
@@ -47,22 +47,18 @@ def chunk_text(text: str, max_chars: int = 400, overlap: int = 50) -> list[str]:
 
 def load_sample_documents() -> list[dict]:
     """
-    Loads .json documents from data/sample_docs/. Each file is expected to
-    look like:
-    {
-      "source": "GDAHP Poultry Newcastle Disease Vaccination Guide (sample)",
-      "category": "livestock",          -> "crop" | "livestock" | "market"
-      "product": "poultry",              -> e.g. "rice", "cashew", "poultry", "cattle", "general"
-      "lifecycle_stage": "raise",         -> plant|grow|raise|harvest|process|sell|consume|plan
-      "province": "national",
-      "topic": "animal_health",
-      "text": "..."
-    }
+    Loads .json documents from data/knowledge_base/, recursively, so files
+    organized as category/product/topic.json (e.g.
+    knowledge_base/crop/rice/fertilizer.json) are all picked up regardless
+    of folder depth.
     """
     docs = []
-    for path in sorted(SAMPLE_DOCS_DIR.glob("*.json")):
+    for path in sorted(KNOWLEDGE_BASE_DIR.rglob("*.json")):
         with open(path, "r", encoding="utf-8") as f:
-            docs.append(json.load(f))
+            loaded = json.load(f)
+        # Some files hold a single {..} document, others a [{..}, {..}] list
+        # of several entries -- flatten so callers always get one dict per doc.
+        docs.extend(loaded if isinstance(loaded, list) else [loaded])
     return docs
 
 
@@ -84,18 +80,26 @@ def build_index(reset: bool = True) -> chromadb.Collection:
 
     ids, texts, metadatas = [], [], []
 
+    def _field(doc: dict, key: str, default: str) -> str:
+        # doc.get(key, default) only applies the default when the key is
+        # missing -- several documents carry the key with an explicit JSON
+        # null (e.g. province: null), which .get() passes through as None.
+        # ChromaDB metadata rejects None outright, so normalize here.
+        value = doc.get(key)
+        return value if value is not None else default
+
     for doc in documents:
         for chunk in chunk_text(doc["text"]):
             ids.append(str(uuid.uuid4()))
             texts.append(chunk)
             metadatas.append(
                 {
-                    "source": doc.get("source", "unknown"),
-                    "category": doc.get("category", "general"),
-                    "product": doc.get("product", "general"),
-                    "lifecycle_stage": doc.get("lifecycle_stage", "general"),
-                    "province": doc.get("province", "national"),
-                    "topic": doc.get("topic", "general"),
+                    "source": _field(doc, "source", "unknown"),
+                    "category": _field(doc, "category", "general"),
+                    "product": _field(doc, "product", "general"),
+                    "lifecycle_stage": _field(doc, "lifecycle_stage", "general"),
+                    "province": _field(doc, "province", "national"),
+                    "topic": _field(doc, "topic", "general"),
                 }
             )
 

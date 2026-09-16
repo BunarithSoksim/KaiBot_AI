@@ -1,0 +1,12 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.45",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "herbicide_reference_table_for_rice_weeds",
+    "text": "Appendix reference table of herbicide products and the weed types/active ingredients they target (brand names as listed in the 2014 source; products/registrations may have changed since): Group with active ingredient Bispyribac sodium — brands Nominee 10SC, Bisona 100SC, No Worry 100SC, Sre Ors Smao, Bayon Smao — all target annual grasses and broadleaf weeds; these are post-emergence products, applied when weeds are at the 3–8 leaf stage (about 7–14 days after weed emergence), typically mixed with sand or applied via irrigation water, with field water not drained for 1–3 days before/after application. Second group of single-active-ingredient post-emergence products: Vitoxomone (active ingredient Propanil) targets annual grasses; Pyanchor 3EC (active ingredient 2,4-D) targets broadleaf weeds — the source cautions that 2,4-D spray/mist must not contact rice leaves or roots; Smao Srov Prang (active ingredient Pyribenzoxim) targets barnyard grass and broadleaf weeds; Xpert 70WP (active ingredient Quinclorac) targets grasses including crabgrass; a product with active ingredient Fenoxaprop-P-ethyl targets grasses; and a product with active ingredient Pyrazosulfuron-ethyl targets sedges, grasses and broadleaf weeds. Specific application rates/dosages given in the source are omitted here as commercial-product dosing that is prone to going stale; consult current product labels for rates.",
+    "confidence": "moderate"
+  }
+]

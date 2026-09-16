@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "cattle",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_protein_requirements_by_purpose",
+  "text": "Ruminants get protein from two sources: the feed itself (crude protein content varies widely — grass hay about 7%, King Grass about 8%, Leucaena leaves about 18%, cassava leaves about 24%) and rumen microbes, which are themselves digested for protein; cattle can also use urea, converted to ammonia to feed rumen microbes, a pathway unique to ruminants. Protein needs by purpose: for maintenance, forage at 7% crude protein is generally enough; for lactation, milk's high protein content is hard to supply from forage/straw alone, so part often comes from the cow's own muscle, causing loss of condition; during gestation, protein needs rise in the final month as the fetus grows fast, so concentrate, rice bran, or urea-treated straw (7–12% crude protein equivalent, vs. 2–4% for untreated straw) should be added; for growth, muscle is over 50% crude protein, so growing animals need substantial protein; for field work, forage alone cannot replace the energy and protein used during work, so supplementary concentrate is needed or the animal will lose condition."
+}

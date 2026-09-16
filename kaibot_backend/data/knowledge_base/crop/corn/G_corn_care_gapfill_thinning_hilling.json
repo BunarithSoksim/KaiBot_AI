@@ -1,0 +1,9 @@
+{
+  "source": "MAFF/partner document, \"ដំណំពោត\" (Corn Crop), Section VI: Care -- a. gap-filling, b. thinning, c. hilling/soil cultivation",
+  "category": "crop",
+  "product": "corn",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "corn_care_gapfilling_thinning_hilling",
+  "text": "a. Gap-filling (replanting failed hills): 2-3 days after planting, corn seed begins to germinate. If the failure rate (hills that did not germinate) is less than 10%, farmers do not need to replant. If more than 10% failed to germinate, farmers should promptly replant with fresh seed as soon as possible, to keep the intended plant count and secure a high yield.\n\nb. Thinning: 15 days after the seedlings have germinated, or once the plant has 3-4 leaves and is 10-15 cm tall, farmers should promptly thin the stand, keeping only 1-2 plants per hill, following the row and hill spacing given in the planting-spacing table. When thinning, keep the plants that look strongest, healthiest, and best-formed, and remove the rest.\n\nc. Soil cultivation/hilling: after thinning, remove the thinned-out plants from the field, then begin weeding and do the first hilling (loosening/mounding soil around the base), so the soil stays loose, retains more moisture or drains excess water, and lets air circulate well for corn growth.\n\nAt 40 days, or once the corn has grown 6-8 leaves, the field should receive its second fertilizer top-dress together with a second hilling, to encourage new root growth and support healthy plant growth. Overall, hilling/weeding can be done 3-4 times during the rainy season and 1-2 times during the dry season -- letting weeds grow too thick for too long reduces corn yield because weeds compete with the crop for soil nutrients."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "Young, J.R. 2012. 'FMD Vaccination Case Study' (Northern Laos 2009 outbreak + Cambodia Kandal Province financial-impact survey), ACIAR/USYD workshop slides (mekonglivestock.wordpress.com)",
+  "category": "livestock",
+  "product": "cattle",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "fmd_vaccination_schedule_and_strategy",
+  "text": "On the practical FMD vaccination schedule: use a trivalent vaccine (serotypes O, A, and Asia1), keep it cold-chain stored (3-8 degrees C), and it can be given alongside HS vaccine. For calves, give the first dose at 2.5 months old if the dam was vaccinated, or at 14 days old if she was not, with a booster one month later; adult cattle should be revaccinated every 4-6 months. Because FMD vaccines can produce a fairly rapid immune response, vaccinating even in the face of an active outbreak is worth considering. Wider strategy notes: with limited funding, 'ring' vaccination in roughly a 6km radius around a recently infected village can create a buffer of immunity; vaccinating along known livestock movement/trade routes is also a priority, since animal movement is the number-one FMD risk factor; herd immunity of at least 80% is the practical target, since even the best vaccines may only be 80-90% effective individually; and keeping an emergency vaccine stock is recommended in case of a sudden outbreak needing rapid response."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 6 (Cropping ecosystems and cultivation techniques), section 6.5.2 (Direct seeding methods). No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plant",
+  "province": "national",
+  "topic": "direct_seeding_methods_supplement_CARDI",
+  "text": "This source describes direct-seeding (broadcast or drill) as an alternative to transplanting, generally requiring less labor. For drill/row seeding, recommended row spacing is roughly 20-40cm with seed spacing of about 5-8cm within the row, adjusted based on soil fertility and expected tillering capacity - closer spacing on less fertile soil where fewer tillers are expected, wider spacing on more fertile soil. The source notes direct seeding needs good field leveling and water control since establishment is more vulnerable to uneven flooding depth than transplanted seedlings, and recommends seed treatment before sowing to protect against early pest damage.",
+  "caveat": "This substantially overlaps with the broadcasting and drum-seeder direct-seeding content already documented in this knowledge base from earlier batches - recommend a duplicate-check and likely merge rather than treating this as a standalone new topic. The specific row/seed-spacing figures may add useful detail if not already present in the existing entries."
+}

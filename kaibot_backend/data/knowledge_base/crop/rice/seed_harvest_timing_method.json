@@ -1,0 +1,12 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.27",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "harvest",
+    "province": "national",
+    "topic": "seed_harvest_maturity_criteria",
+    "text": "The APPP project trains seed-production farmer groups to harvest seed rice when grain maturity reaches about 80–85%. Four visual maturity stages are illustrated: still fully green/unripe (too early to harvest), 'milk' stage (still too early), the correct harvest window (mostly golden panicle with only slight green remaining), and over-ripe/fully dry (too late, risking shattering and quality loss). Practical criteria for judging the correct harvest time: (1) about 80–85% of panicles have turned golden/yellow at the base. (2) Grain moisture content should be in the range of about 20–25% at this stage. (3) For early-duration seed varieties, harvest maturity is reached roughly 100–120 days after sowing. (4) Counting from the date of flowering, maturity is reached roughly 28–35 days after flowering.",
+    "confidence": "moderate"
+  }
+]

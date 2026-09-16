@@ -1,0 +1,9 @@
+{
+  "source": "MAFF/GIZ, \"Guidelines for Banana Export from Cambodia to China\" (2022), section 3 and appendix 1 flowchart",
+  "category": "crop",
+  "product": "banana",
+  "lifecycle_stage": "sell",
+  "province": "national",
+  "topic": "orchard_registration_process_for_export",
+  "text": "To legally export fresh banana to China, the specific orchard (growing site) a farmer or company uses must be individually registered and traceable, not just the company as a whole. The registration and phytosanitary certification process described in this guide follows these general steps:\n\n1. The exporter submits an application to Cambodia's National Plant Protection Organization (NPPO, the plant protection unit within MAFF) requesting inspection of the fruit/orchard intended for export.\n2. A MAFF technical officer reviews the application and supporting documents (orchard records, previous inspection history) for completeness.\n3. If the application is complete, the officer proceeds to field/product inspection; if incomplete, the application is returned to the applicant with a note on what's missing and must be resubmitted.\n4. Once inspection is complete and the product/orchard is found compliant, MAFF issues a phytosanitary certificate for the shipment, and the orchard's registration record is updated in a shared database that is also accessible to GACC on the Chinese side, supporting full traceability back to the specific registered orchard.\n\nAll of this exists on top of, not instead of, the general market-access approval described elsewhere (see the trade agreements and market access entry) \u2014 an orchard can only be registered for a product that already has that broader approval in place."
+}

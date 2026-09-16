@@ -1,0 +1,10 @@
+{
+  "source": "CARDI (Cambodian Agricultural Research and Development Institute) presentation, \"Characteristics of 10 Rice Varieties\" (លក្ខណៈសំខាន់ៗរបស់ពូជស្រូវទាំង១០ប្រភេទ), by Seng Vang, 2012 — no elibrary URL visible in the source file.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "variety_car6_agronomic_profile",
+  "text": "CAR6 (ខា៦) was released in 1999. Flowering period falls around November 10–18. Plant height is 130–180 cm, reported yield around 3.50 t/ha. It produces 7–10 productive tillers per hill, panicle length 21–25 cm. Reported 100-grain weight is about 2.2 g, grain length ~6.6 mm, width ~2.2 mm. Shattering resistance is rated medium; it tolerates flooding/submergence for about 10 days. Market grade: Grade 1.",
+  "caveat": "Numeric agronomic figures (maturity, height, yield, grain dimensions) are read directly from a clean CARDI data table and are reasonably reliable. Qualitative field labels (grain shape/chalkiness/shattering and drought/flood-tolerance ratings) were translated from short Khmer table labels and carry lower confidence than the numbers; treat descriptive ratings as indicative, not precise. New variety not previously present in the KB."
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "category": "crop",
+    "product": "mustard_greens",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "watering_and_weeding",
+    "source": "MAFF Department of Agricultural Extension - បច្ចេកទេស ដាំដុះស្លឹកខ្ញែវ, 2018",
+    "text": "ក្រោយស្ទូងបានពី ៧-១០ថ្ងៃ ត្រូវធ្វើការជីកសំអាតស្មៅ ធ្វើឲ្យដីរលុង និងខ្យល់ចេញចូលបានល្អ ដែលជួយបន្ថយការដុះស្មៅ។ ការស្រោចទឹកគួរធ្វើនៅពេលកូនស្លឹកមានអាយុ ៦០-៧០ថ្ងៃចំពោះការសាបផ្ទាល់ ឬអាយុវិលទៅតាមអាកាសធាតុ។ ត្រូវប្រុងប្រយ័ត្នការស្រោចទឹកលើសកម្រិត ព្រោះអាចធ្វើឲ្យខូចឫសនិងបង្កជំងឺរលួយបស្ស។"
+  },
+  {
+    "category": "crop",
+    "product": "mustard_greens",
+    "lifecycle_stage": "pest_disease",
+    "province": "national",
+    "topic": "diseases",
+    "source": "MAFF Department of Agricultural Extension - បច្ចេកទេស ដាំដុះស្លឹកខ្ញែវ, 2018",
+    "text": "ជំងឺសំខាល់ៗលើស្លឹកខ្ញែវរួមមានជំងឺហ្ស៊ុយសារីយ៉ូម/ស្លឹកលឿង (Fusarium Yellow) និងជំងឺរលាកស្លឹក (Alternaria leaf spot)។ វិធានការការពារ៖ ជៀសវាងទឹកជោគ ការពារកម្តៅថ្ងៃខ្លាំងលើកូនស្លឹកទើបស្ទូង និងប្រើថ្នាំម៉ង់កូហ្សែប (Mancozeb) នៅពេលឃើញរោគសញ្ញាដំបូងលើស្លឹក។"
+  }
+]

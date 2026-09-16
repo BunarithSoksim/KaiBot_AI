@@ -1,0 +1,10 @@
+{
+  "source": "FAO Regional Office for Asia and the Pacific, Swine Health Management, Volume 2: Guide to Prevent and Control Porcine Reproductive and Respiratory Syndrome (RAP Publication 2012/27, Bangkok, 2012)",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "i_prrs_vaccination_overview",
+  "text": "Vaccination can help protect pigs from getting seriously sick with PRRS, but it does not stop them from being infected or from spreading the virus to other pigs — vaccinated animals can still shed the virus. Modified live virus (MLV) vaccines tend to work better than killed vaccines, but they should not be used in herds that are PRRS-free, in pregnant sows and gilts, or in breeding-age boars, because the vaccine virus itself can infect unborn piglets and cause stillbirths or weak piglets, and vaccinated boars can pass the vaccine virus through their semen. A vaccination plan should be designed for the specific farm's situation rather than following a generic schedule.",
+  "caveat": "Vaccine products, availability, and registration vary by country. Farmers should consult a licensed veterinarian or the local animal health authority before starting or changing a vaccination program, rather than self-administering vaccines based on this general description."
+}

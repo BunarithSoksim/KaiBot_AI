@@ -1,0 +1,10 @@
+{
+  "source": "FAO Regional Office for Asia and the Pacific, Swine Health Management, Volume 2: Guide to Prevent and Control Porcine Reproductive and Respiratory Syndrome (RAP Publication 2012/27, Bangkok, 2012)",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "i_prrs_treatment_sick_pigs",
+  "text": "There is no specific cure for PRRS itself. Care for sick adult pigs focuses on preventing secondary bacterial infections, which are usually what actually kills the animal, using broad-spectrum antibiotics such as tetracyclines, trimethoprim/sulpha, or synthetic penicillins for up to six weeks. Sick pigs must be separated from healthy ones immediately, ideally with the isolation area at least 100 meters away and positioned so runoff, wind, and foot traffic cannot carry the disease back to the healthy herd. Fever reducers (like aspirin) and appetite stimulants have shown only minimal benefit and are not a substitute for isolation and antibiotic support.",
+  "caveat": "Antibiotic choice and dosing should be confirmed with a local veterinarian or livestock extension officer — this source lists example antibiotic classes and dose ranges used in the region, but product availability, correct dosage, and withdrawal periods before slaughter vary and must be checked locally rather than assumed from this general reference."
+}

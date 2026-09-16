@@ -1,0 +1,12 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.25",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "first_topdress_urea_application_timing",
+    "text": "The first top-dress fertilizer application after transplanting uses urea (46-0-0) at a rate of one 50 kg sack per hectare, but its timing depends on the variety's duration class: for early/short-duration varieties (ស្រូវស្រាល), apply 15–20 days after transplanting; for medium-duration varieties (ស្រូវកណ្តាល), apply around 30 days after transplanting; for long-duration/photoperiod-sensitive varieties (ស្រូវធន់), apply 30–40 days after transplanting. Urea's declared nutrient content is N 46%, P 0%, K 0%.",
+    "confidence": "moderate"
+  }
+]

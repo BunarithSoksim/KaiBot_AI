@@ -1,0 +1,11 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.38",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "sell",
+    "province": "national",
+    "topic": "seed_quality_standards_table_registered_vs_certified",
+    "text": "Official seed quality standards for finished, bagged rice seed (section 5-3), given separately for Registered seed and Certified seed classes: Pure seed content: minimum 98% for both Registered and Certified. Broken/damaged grain: maximum 2% for both classes. Weed seed content: maximum 0.05% for Registered, maximum 0.1% for Certified. Other-crop seed content: maximum 0.1% for Registered, maximum 0.2% for Certified. Mixture with other rice varieties (off-type seed): maximum 0.1% for Registered, maximum 0.2% for Certified (note: see discrepancy flag — other pages of the source give 0.9% for this same figure). Germination rate: minimum 85% for both classes. Moisture content: maximum 13% for both classes. Full/sound grain ratio: minimum 95% for both classes. In general, Certified seed is allowed somewhat looser tolerances than Registered seed for weed-seed content, other-crop-seed content, and off-type mixture, while purity, germination, moisture and full-grain standards are identical across both classes."
+  }
+]

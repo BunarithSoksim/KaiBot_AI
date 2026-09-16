@@ -1,0 +1,10 @@
+{
+  "source": "TSTD/MAFF Pumpkin (ល្ពៅ) Cultivation Manual, PDF title \"10_Pumpkin_manual_body+covers\" (TSTD — TA 7305-CAM), 2012",
+  "category": "crop",
+  "product": "pumpkin",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "fertilizer",
+  "text": "A staged NPK fertilizer schedule for pumpkin is given as follows (amounts are per planting hole/hill unless noted): (1) Basal, 15 days before planting: well-decomposed manure or compost, about 1-2 kg per planting hole, buried at the center of the hole ahead of bed formation. (2) 7 days before transplanting: compound fertilizer 20-20-15 or 15-15-15, about 5 grams per hole, placed in the hole, mixed with soil, then watered and covered with roughly 5-10 cm of soil over the mix. (3) 14 days after transplanting: urea (46-0-0), about 2.5 grams per plant/hill (roughly half a small bottle-cap measure, per the source's informal unit), placed in a ring 8-15 cm from the plant base (applied twice per plant at this stage). (4) 28 days after transplanting: compound 20-20-15 or 15-15-15, about 5 grams per plant/hill, placed 18-25 cm from the plant base (applied once at this stage). (5) 42 days after transplanting: compound 16-20-0, about 5 grams per plant, plus potassium (0-0-60), about 10 grams per plant, placed 18-25 cm from the base. (6) 56 days after transplanting: same 16-20-0 and 0-0-60 rates and placement as the 42-day stage. (7) 70 days after transplanting: same pattern again. (8) 75/79 days after transplanting: a final application following the same 16-20-0 / 0-0-60 pattern, again placed 18-25 cm from the plant base.",
+  "caveat": "This schedule is transcribed from a table whose numeric columns were largely legible but whose surrounding descriptive Khmer text was heavily corrupted (CID/Limon font extraction issue). The 'half a bottle-cap' informal unit at the urea stage is the source's own approximation, not an independently verified metric equivalent. Recommend spot-checking the exact day intervals and gram amounts against a clean rasterized scan before using this as a farmer-facing dosage instruction."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "Somsak Wannasaree, \"Banana Orchards\" (Khmer translation, 1997), section 14 (diseases) \u2014 supplementary control details beyond the newer MAFF manual",
+  "category": "crop",
+  "product": "banana",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "disease_control_supplementary_details",
+  "text": "This source covers the same five banana diseases described in the newer 2019 MAFF manual (Fusarium wilt/Panama disease, Cercospora leaf spot/Sigatoka, Guignardia freckle disease, bacterial wilt, and bunchy top virus), with a few additional practical control details worth noting alongside those entries:\n\nFor Fusarium wilt, this source adds that visible yellowing symptoms tend to start appearing around 4-5 months after planting in an infected field, and recommends physically isolating an infected patch by digging an isolation trench roughly 75cm to 1m deep around it to help block the fungus from spreading through the soil to unaffected areas; it also recommends spacing drainage channels roughly every 4-5 fathoms (roughly 8-10m) apart to keep the root zone from staying waterlogged, since wet, poorly-drained soil favors this disease.\n\nFor Cercospora leaf spot and for Guignardia freckle disease, this source gives a specific home-made fungicide recipe: a Bordeaux-style copper mixture combining copper sulfate, lime, and water in a ratio of about 6:6:100, applied as a spray on a repeating schedule (roughly every 2-3 weeks) alongside the routine removal of heavily infected leaves.\n\nFor bacterial wilt, the added recommendation is to quarantine and inspect new planting material before introducing it to a clean field, since contaminated tools and insect vectors moving bacterial ooze between flowers are both significant spread pathways that simple field sanitation alone won't fully address."
+}

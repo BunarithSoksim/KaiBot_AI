@@ -1,0 +1,9 @@
+{
+  "source": "TSTD / ADB TA 7305-CAM technical manual, \"សណ្តែកត្រើង (សណ្តែកកួរ)\" [Yard-long bean cultivation manual]",
+  "category": "crop",
+  "product": "yard_long_bean",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "pest_management",
+  "text": "Pest coverage includes thrips (feeding on flowers and young pods, causing scarring and pod deformity), aphids (colonizing shoots and flower buds, weakening plants and vectoring viruses), and pod borer (larvae boring into developing pods, directly destroying marketable yield). For each, the manual recommends regular field inspection through the extended flowering/fruiting period (since new flowers and pods are continuously produced, pest pressure needs ongoing rather than one-time monitoring) and targeted insecticide application timed to pest presence rather than a fixed calendar."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "D",
+  "category": "crop",
+  "product": "muskmelon",
+  "lifecycle_stage": "food_safety",
+  "province": "national",
+  "topic": "d_relevance_to_fermented_product_quality",
+  "text": "Identifying which specific LAB strains dominate a spontaneous, naturally-occurring fermentation of young muskmelon (a traditional pickled product) is a first step toward eventually selecting or developing a reliable starter culture — which would make fermentation more consistent and predictable batch-to-batch for producers, rather than relying on whatever wild bacteria happen to be present. This is basic/applied food-microbiology research rather than a farmer-facing how-to guide, but is relevant background for any future post-harvest/food-safety advice KaiBot gives about pickling or fermenting cucurbit crops (cucumber, muskmelon) grown in the other three sources in this batch.",
+  "caveat": "This source does not give farmer-actionable dosage/recipe instructions for home fermentation — it is a scientific identification methodology, not a food-safety how-to. If a farmer asks how to safely ferment/pickle cucumbers or muskmelon at home, this entry should NOT be used to construct step-by-step fermentation instructions; it only supports background/context answers about why starter-culture research matters."
+}

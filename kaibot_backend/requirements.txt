@@ -10,3 +10,5 @@ python-multipart==0.0.9
 # anthropic                  # if using Claude for the LLM instead
 google-cloud-speech        # Khmer STT
 google-cloud-texttospeech  # Khmer TTS
+python-telegram-bot>=20
+httpx

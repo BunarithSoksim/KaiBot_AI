@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_growth_performance_calculation_adg_fcr",
+  "text": "Two indicators are key for tracking pig growth performance: ADG (Average Daily Gain) and FCR (Feed Conversion Rate). To calculate ADG: record weight at weaning (e.g. 8 kg) and at slaughter (e.g. 82 kg); weight gain is 82 − 8 = 74 kg (74,000 g); count the days from weaning to slaughter (e.g. weaned at 28 days, sold at 180 days = 152 days); ADG = 74,000 g ÷ 152 days ≈ 487 g/day. Rising ADG signals improving technique — for example, reaching 550 g/day would let the same pig reach 82 kg in 134 days instead of 152. To calculate FCR: using the same 74 kg gain, add up all feed distributed over the period (e.g. 260 kg); FCR = 260 ÷ 74 = 3.5. Improving management (breed, feed, health) to reach an FCR of 3.0 means only 222 kg of feed would be needed for the same 82 kg pig — more profit for the same output. Both calculations require weighing pigs and feed but are simple to apply. Typical small-scale crossbred pig benchmarks: weaning at 28 days/8 kg; 12 kg after the first post-weaning stage; 25 kg at about 2.5 months; 60 kg at about 4.5 months; 80 kg at around 6 months; fat thickness about 15 mm; mortality from post-weaning to slaughter around 5%."
+}

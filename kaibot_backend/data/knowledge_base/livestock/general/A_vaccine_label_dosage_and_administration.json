@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "general",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_vaccine_label_dosage_and_administration",
+  "text": "Vaccine labels are often in a foreign language, so farmers and VAHWs should ask the dealer for clear guidance; the label shows composition (which virus/strain, generally too technical to interpret directly) and the disease name (often only in international acronyms like CSF, FMD, HS). Dosage: vaccines, especially live ones, are usually labeled by number of doses (= number of animals) rather than ml per animal, so the per-animal dose must be calculated after mixing with the diluent. For mixing a poultry vaccine in drinking water: 1,000 doses go into 4 liters for 4-day-old chicks, 10 liters for 10-day-olds, or 21 liters for 21-day-olds; injectable ready-to-use vaccines show the injection dose directly — too low a dose means poor immunity, too high wastes money. A vial should be used for a maximum of 1,000 head. Administration route: cattle and swine vaccines are given intramuscularly or subcutaneously; poultry vaccines can be given by eye drop, IM, SC, orally, or in the wing web. Important cautions: never use disinfectant on syringes for live vaccines, since even trace amounts kill the vaccine microbes; when giving live vaccine in drinking water, make sure the water is not treated with chlorine or iodine; and bacterial-disease vaccines (e.g. Blackleg, Hemorrhagic Septicemia, Fowl Cholera) should not be given to animals currently on antibiotics. Expiry date matters only if the cold chain has been properly maintained the whole way from production to injection."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "Belfield, S. and Brown, C. (2010). Guidebook on Upland Crops in Cambodia: Corn (សៀវភៅណែនាំ ស្តីពីដំណាំតំបន់ខ្ពង់រាបនៅក្នុងប្រទេសកម្ពុជា៖ ដំណាំពោត). ACIAR Monograph 143, published by the Australian Centre for International Agricultural Research (ACIAR) in partnership with NSW Department of Primary Industries, the Cambodian Agricultural Research and Development Institute (CARDI), Murdoch University, University of Canberra, and MAFF, under ACIAR Project ASEM/2000/109. Uploaded PDF, 52 pages, image-only (Limon-font-era scan, read via page rasterization).",
+  "category": "crop",
+  "product": "corn",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "corn_nutrient_uptake_removal_reference",
+  "text": "Reference figures (Dierolf et al. 2001) for total nutrient uptake and the amount actually removed from the field in harvested grain, for a corn crop yielding about 4.5 t/ha:\n\n- Nitrogen (N): about 115 kg/ha taken up by the whole plant; about 16 kg removed per tonne of grain harvested.\n- Phosphorus (P): about 20 kg/ha taken up; about 3 kg removed per tonne of grain.\n- Potassium (K): about 75 kg/ha taken up; about 4 kg removed per tonne of grain.\n\nThe gap between total uptake and the amount removed in grain reflects the nutrients retained in stover (stalks, leaves, cob) rather than in the harvested kernels -- this is relevant to decisions about whether to remove or return crop residue to the field, since removing residue also removes a substantial share of taken-up nutrients (especially K) that would otherwise cycle back to the soil."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "\"Seed Production\" (ដំណាំកម្មពូជ) training deck, Provincial Department of Agriculture Kampong Thom (មន្ទីរកសិកម្មខេត្តកំពង់ធំ), compiled/presented by Tem Seng (temseng@yahoo.com). Explanatory Khmer narration is set in the legacy (non-Unicode) Limon font and could not be extracted; this entry draws on the deck's clean English-language slide (p. 87). No elibrary.maff.gov.kh URL visible in the document.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "harvest",
+  "province": "Kampong Thom",
+  "topic": "seed_crop_harvest_timing_crossreference",
+  "text": "For a rice crop grown specifically for seed, this source gives a recommended harvest maturity of 28-30 days after 75% of the plot has flowered.\n\nCross-reference note: this is a different timing rule, tied to a different reference point, than the general grain-harvest guidance already in this knowledge base's harvest_timing_and_grain_moisture_gap.json, which recommends harvesting when 80-85% of grains in the field have turned golden/mature-colored, roughly 30-35 days after flowering. The two are not necessarily in conflict — a seed-multiplication plot may reasonably be harvested a few days earlier than a plot grown purely for eating-grain, since seed vigor and germination can decline if the crop is left in the field past physiological maturity, whereas an eating-grain crop is judged more on grain fill and milling yield. But this source does not explain the gap directly, so the two figures should be treated as guidance for two different purposes (seed viability vs. grain yield/quality) rather than as competing answers to the same question."
+}

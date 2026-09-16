@@ -1,0 +1,20 @@
+[
+  {
+    "category": "crop",
+    "product": "cabbage",
+    "lifecycle_stage": "pest_disease",
+    "province": "national",
+    "topic": "ipm_general_practice",
+    "source": "MAFF Department of Agricultural Extension / ASPIRE - ដំណាំស្ពៃក្តោប, 2018",
+    "text": "កសិកររាំងស្ពៃក្តោបគួរអនុវត្តការគ្រប់គ្រងសត្វល្អិតបំផ្លាញបែបសមស្របតាមកម្មវិធី IPM (Integrated Pest Management) ដោយសហការជាមួយ East-West Seed International និងគម្រោង IPM ជាតិ ដើម្បីកាត់បន្ថយការប្រើប្រាស់ថ្នាំសម្លាប់សត្វល្អិតហួសកម្រិត និងបង្កើនគុណភាពផលិតផលសម្រាប់ទីផ្សារ។"
+  },
+  {
+    "category": "crop",
+    "product": "cabbage",
+    "lifecycle_stage": "harvest",
+    "province": "national",
+    "topic": "harvest_timing",
+    "source": "MAFF Department of Agricultural Extension / ASPIRE - ដំណាំស្ពៃក្តោប, 2018",
+    "text": "ស្ពៃក្តោបអាចប្រមូលផលបានក្នុងចន្លោះអាយុ ៥៨-៦៥ថ្ងៃបន្ទាប់ពីស្ទូង (អាស្រ័យលើប្រភេទពូជ)។ ត្រូវកាត់យកទាំងគល់ ឬកាត់ត្រឹមបណ្ដុំក្បាល នៅពេលក្បាលរឹង និងធំគ្រប់គ្រាន់តាមតម្រូវការទីផ្សារ។"
+  }
+]

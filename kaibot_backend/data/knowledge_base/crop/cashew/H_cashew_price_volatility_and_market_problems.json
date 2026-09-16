@@ -1,0 +1,10 @@
+{
+  "source": "MAFF / Boosting Food Production Program (PMO), Royal Government of Cambodia — ខ្សែសង្វាក់ផលិតកម្ម ដំណាំស្វាយចន្ទីនៅកម្ពុជា (Cashew Value Chain Study in Cambodia), field survey report (250 household respondents across major cashew-growing provinces), 2017, 57pp",
+  "category": "crop",
+  "product": "cashew",
+  "lifecycle_stage": "sell",
+  "province": "national",
+  "topic": "cashew_price_volatility_and_market_problems",
+  "text": "Cashew nut price behavior and market problems reported by farmers in the 2017 MAFF cashew value chain study.\n\nFarmers reported that fresh cashew nut prices fluctuate very quickly and unpredictably, sometimes changing two to three times within a single day, driven by demand from Vietnamese buyers, without a transparent or clearly understood basis that farmers could see.\n\nPrice levels cited in the report: prices are typically highest early in the season (around 8,500 riel/kg) and fall substantially by late season (down to around 4,000 riel/kg, with reports of prices crashing as low as roughly 2,000 riel/kg in poor periods). The average price farmers actually received across a season was cited at around 6,000 riel/kg (2017 figures).\n\nFarmers attributed some of this rapid, opaque price movement to the behavior of local brokers/middlemen ('kaon krao', a local term for small-scale collectors/brokers) rather than to transparent supply-and-demand signals they could plan around.\n\nBecause almost all fresh cashew is sold raw and unprocessed, and Vietnam is effectively the sole significant export market, individual Cambodian farmers and even local trader networks have limited bargaining power to negotiate price, leaving them as price-takers dependent on the Vietnamese market.",
+  "caveat": "Some specific figures in this source (percentages, price points, yield ranges) were transcribed from a scanned document at a resolution where certain digits were hard to confirm with full pixel-level certainty. Figures are reported as best-effort readings of the source; anyone using exact numbers for decisions should verify against the original report where possible."
+}

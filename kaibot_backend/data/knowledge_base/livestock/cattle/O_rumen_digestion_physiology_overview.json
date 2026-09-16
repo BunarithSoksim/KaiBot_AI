@@ -1,0 +1,10 @@
+{
+  "source": "Bush, R. 2010. 'Large Ruminant Nutrition Theory, Part 1: Revision and Physiology', University of Sydney (mekonglivestock.wordpress.com). NOTE: source PDF has a font/ligature encoding quirk (e.g. 'ti' rendered as '/', double letters rendered as 'A' or similar) -- text below has been decoded from this consistent, mechanical substitution pattern, not guessed.",
+  "category": "livestock",
+  "product": "cattle",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "rumen_digestion_physiology_overview",
+  "text": "This technical background explains that cattle are ruminants with a four-compartment stomach (rumen, reticulum, omasum, abomasum), distinct from monogastric animals (e.g. pigs, chickens) with a simple stomach. The rumen is a large anaerobic fermentation chamber (roughly 95-114 litres normal capacity in a 450kg cow) lined with papillae for nutrient absorption, housing huge microbial populations (around 100,000 protozoa and 100 million bacteria/fungi per gram of rumen fluid) that digest fibrous plant material into volatile fatty acids (VFAs -- mainly acetic, propionic, and butyric acid), the animal's main energy source, since ruminants cannot digest starches/sugars directly themselves. Maintaining a stable rumen pH (ideally 5.8-6.4) depends on factors farmers can influence: feeding order, particle size (forage pieces should mostly exceed 11mm), feeding frequency (more frequent feeding stimulates saliva production, which buffers rumen pH), and the balance of roughage versus concentrate in the ration (high-concentrate diets push rumen pH more acidic, which can damage the rumen wall and reduce nutrient absorption over time).",
+  "caveat": "This entry is veterinary/animal-science technical background (rumen physiology) rather than direct step-by-step farmer guidance; included for completeness since it explains the reasoning behind the batch's practical feeding recommendations."
+}

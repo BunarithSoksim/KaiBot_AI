@@ -1,0 +1,30 @@
+[
+  {
+    "source": "MAFF — សារៈប្រយោជន៍នៃដំណាំស្រូវ (Value of the Rice Crop) slide deck, presenter contact temseng@yahoo.com, p.8",
+    "category": "market",
+    "product": "rice",
+    "lifecycle_stage": "process",
+    "province": "national",
+    "topic": "rice_beverage_products",
+    "text": "Rice can be processed into beverage products, listed as its own value-added product category. The slide shows small bottled drinks in packaging similar to the sauce/seasoning bottle line, consistent with rice-based drinks such as rice wine or fermented rice beverages, though the exact beverage type is not specified in the source.",
+    "confidence": "low"
+  },
+  {
+    "source": "MAFF — សារៈប្រយោជន៍នៃដំណាំស្រូវ (Value of the Rice Crop) slide deck, presenter contact temseng@yahoo.com, p.8",
+    "category": "market",
+    "product": "rice",
+    "lifecycle_stage": "process",
+    "province": "national",
+    "topic": "rice_hull_byproduct_uses",
+    "text": "Rice hull/husk, a byproduct generated during rice milling, is presented as its own value-added product category ('Product from Hull') separate from the rice grain itself. This signals to farmers and millers that hull does not need to be treated purely as waste — it can be collected and processed into further products, as illustrated on the same slide by hull-based fuel briquettes."
+  },
+  {
+    "source": "MAFF — សារៈប្រយោជន៍នៃដំណាំស្រូវ (Value of the Rice Crop) slide deck, presenter contact temseng@yahoo.com, p.8",
+    "category": "market",
+    "product": "rice",
+    "lifecycle_stage": "process",
+    "province": "national",
+    "topic": "rice_hull_green_energy_briquettes",
+    "text": "Rice hull/husk can be compressed into solid fuel briquettes — shown as short cylindrical charcoal-like blocks with a hollow center, bundled together — marketed under a 'Green Energy' category. This represents a renewable/biomass fuel use for a rice-milling byproduct that would otherwise be discarded, giving farmers, millers, or cooperatives a potential additional income stream from rice hull by turning it into cooking or heating fuel briquettes instead of burning or dumping it as waste."
+  }
+]

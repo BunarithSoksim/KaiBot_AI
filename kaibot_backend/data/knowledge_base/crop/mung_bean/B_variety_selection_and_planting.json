@@ -1,0 +1,9 @@
+{
+  "source": "MAFF / ADB, \"សណ្តែកបាយ\" [Bean crop — mung bean and black gram], official cultivation manual, 2005 (mung bean sections)",
+  "category": "crop",
+  "product": "mung_bean",
+  "lifecycle_stage": "plant",
+  "province": "national",
+  "topic": "variety_selection_and_planting",
+  "text": "For mung bean specifically, the manual profiles named varieties in the \"KK\" series (KK1 through KK6, per the source), giving each variety's general characteristics as a basis for farmer selection. Sowing method guidance (row sowing and other methods covered jointly with black gram) and basal/top-dress fertilizer rates are given, distinguishing mung bean's rate recommendations from black gram's where the two differ."
+}

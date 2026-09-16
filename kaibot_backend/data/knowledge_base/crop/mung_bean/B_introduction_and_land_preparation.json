@@ -1,0 +1,9 @@
+{
+  "source": "MAFF / ADB, \"សណ្តែកបាយ\" [Bean crop — mung bean and black gram], official cultivation manual, 2005 (mung bean sections)",
+  "category": "crop",
+  "product": "mung_bean",
+  "lifecycle_stage": "land_prep",
+  "province": "national",
+  "topic": "introduction_and_land_preparation",
+  "text": "This 2005 MAFF/ADB manual, titled generically \"សណ្តែកបាយ\" (Bean crop), covers both mung bean (green gram, សណ្តែកផេះ in the source) and black gram (សណ្តែកប្រេង) together as two related but botanically distinct Vigna species, with a shared introduction covering their botanical classification and a combined nutritional-value comparison table for the two crops.\n\nClimate and land-preparation guidance (temperature/rainfall suitability, ploughing/harrowing to a fine seedbed) is given jointly for both crops, since their field requirements are similar, with the manual noting where the two species' needs diverge (covered separately in fertilizer and variety sections)."
+}

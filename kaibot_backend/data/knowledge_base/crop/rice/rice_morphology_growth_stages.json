@@ -1,0 +1,38 @@
+[
+  {
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "germination",
+    "province": "national",
+    "topic": "growth_stage_seed_to_seedling",
+    "source": "CARDI - លក្ខណៈរូបសាស្ត្រនៃដំណាំស្រូវ (Rice Morphology and Ecosystem)",
+    "text": "ដំណាំស្រូវចាប់ផ្តើមពីការដុះពន្លក (ភ្លក់ចេញពីគ្រាប់) បន្តទៅការសាំណាប (ដុះស្លឹកដំបូង) បន្ទាប់មកចូលដំណាក់កាលបែកគុម្ព ដែលដើមស្រូវនឹងបែកចេញជាច្រើនដើមចេញពីដើមមេ។ កសិករគួរតាមដានស្លឹកទី១ និងទី២ ដើម្បីវាយតម្លៃថាតើគ្រាប់ពូជមានអត្រាដុះល្អឬអត់មុននឹងសម្រេចចិត្តបន្ថែមគ្រាប់ពូជ។"
+  },
+  {
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "vegetative",
+    "province": "national",
+    "topic": "growth_stage_tillering_stem_elongation",
+    "source": "CARDI - លក្ខណៈរូបសាស្ត្រនៃដំណាំស្រូវ (Rice Morphology and Ecosystem)",
+    "text": "បន្ទាប់ពីបែកគុម្ពរួច ដើមស្រូវចូលដំណាក់កាលពន្លូតដើម ដែលផ្ការីកនិងគ្រាប់ចាប់ផ្តើមបង្កើតឡើងនៅចុងភ្លោក។ ថ្នាំង (nodes) ជាកន្លែងបង្កើតស្លឹកនិងពន្លកខ្នង ចន្លោះថ្នាំងជាផ្នែករបូតដែលភ្ជាប់ថ្នាំងម្តងទៅថ្នាំងមួយទៀត។ រយៈពេលនេះជាដំណាក់កាលសំខាន់ដែលត្រូវការទឹកនិងជីគ្រប់គ្រាន់ ដើម្បីធានាចំនួនគ្រាប់ក្នុងកួរនីមួយៗ។"
+  },
+  {
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "reproductive",
+    "province": "national",
+    "topic": "growth_stage_panicle_flowering",
+    "source": "CARDI - លក្ខណៈរូបសាស្ត្រនៃដំណាំស្រូវ (Rice Morphology and Ecosystem)",
+    "text": "កួរស្រូវ (panicle) គឺជាសរីរាង្គដែលផ្ទុកគ្រាប់ស្រូវទាំងអស់ បែកចេញជាមែកទី១ និងមែកទី២។ ដំណាក់កាលចេញផ្កា (ចេញកួរ) និងផាំង (aweme) ជាដំណាក់កាលងាយរងគ្រោះបំផុតចំពោះសត្វល្អិតនិងអាកាសធាតុមិនប្រក្រតី។ កសិករគួរជៀសវាងការបាញ់ថ្នាំពេលមានខ្យល់ខ្លាំង ព្រោះអាចធ្វើឲ្យផ្ការះខូច។"
+  },
+  {
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "maturity",
+    "province": "national",
+    "topic": "growth_stage_grain_filling_maturity",
+    "source": "CARDI - លក្ខណៈរូបសាស្ត្រនៃដំណាំស្រូវ (Rice Morphology and Ecosystem)",
+    "text": "គ្រាប់ស្រូវមានផ្នែកសំខាន់ពីរគឺ សំបក (rice hull) និងគ្រាប់អង្ករ។ ដំណាក់កាលចុងក្រោយគឺគ្រាប់ទុំពេញ ដែលមានពណ៌លឿងទាំងស្រុង។ កសិករគួរតាមដានភាគរយគ្រាប់ទុំ (គួរលើសពី ៨០-៨៥%) ដើម្បីកំណត់ពេលវេលាច្រូតកាត់ដ៏សមស្រប។"
+  }
+]

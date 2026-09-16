@@ -1,0 +1,10 @@
+{
+  "source": "បច្ចេកទេស ដាំដុះដំណាំដំឡូងជ្វា (Sweet Potato Cultivation Techniques), MAFF General Directorate of Agriculture, 2018",
+  "category": "crop",
+  "product": "sweet_potato",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "fertilization",
+  "text": "The source describes two fertilizer applications per hectare:\n\nFirst application (at 4-6 weeks after planting): Urea (N) 100 kg/ha, Phosphate (P) 90 kg/ha, and Potassium sulfate (K) 200 kg/ha.\n\nSecond application (at 10-12 weeks after planting): Ammonium sulfate (N) 50 kg/ha and Potassium 150 kg/ha, mixed into the soil.\n\nThe source also advises against applying fertilizer too close to the base of the vine (recommending roughly 20-30cm distance), and against deep cultivation near the root zone once the vine has grown past about 30cm, since this can expose or damage developing tubers; soil should instead be mounded up around the root zone to protect tubers from sun exposure.",
+  "caveat": "First-application phosphate rate was corrected to 90 kg/ha after a high-resolution re-check of the source image (an initial low-resolution read misread it as 50 kg/ha). See also the duplicate-check caveat on Source C's overview file."
+}

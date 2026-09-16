@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "cattle",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_feeding_requirements_overview",
+  "text": "Because of their rumen digestion, cattle feed must supply two things: nutrients for the rumen microbes (to produce protein and energy) and nutrients the cattle digest directly. Requirements vary by the animal's status (pregnancy, lactation, field work, or fattening) and by body weight (e.g. a 150 kg animal needs less feed than a 300 kg one). Feed intake volume matters as much as nutrient content: low quality, unpalatable forage means cattle eat too little to get enough nutrients even when full, since cattle have a limited capacity to ingest feed volume."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "MAFF Department of Agricultural Extension / ASPIRE Project, IFAD-funded - \"ដំណាំក្រូចថ្លុង\" (Pomelo Cultivation Guide), 2017, 90pp",
+  "category": "crop",
+  "product": "pomelo",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "disease_management_general_principles",
+  "text": "Beyond disease-specific advice, the source lays out general disease-management principles for a citrus orchard. Prevention is emphasized as more effective and cheaper than cure: choosing disease-tolerant rootstock (particularly for Phytophthora), planting on well-drained land, keeping appropriate tree spacing (the source cites roughly 400+ trees per hectare as an example depending on spacing chosen) for good airflow, and avoiding unnecessary wounds to bark and roots during cultivation and pruning.\n\nSanitation is stressed throughout: removing and destroying dead wood, fallen leaves, and infected fruit rather than leaving them in the orchard, since dead and infected plant material is the main source of fungal spores that reinfect healthy growth in the next wet season. Tools used for pruning or grafting should be disinfected between trees or between cuts on diseased material to avoid mechanically spreading infection.\n\nFor chemical control, the source lists specific fungicide/bactericide products and rates used against several of the diseases described above, including copper-based products (Bordeaux mixture, copper oxychloride at roughly 1 kg dissolved in 400 liters of water per hectare, and other copper formulations), Benomyl 50% and TMTD 80% (used against seedling/root diseases at specified gram-per-liter rates), and Carbathin 40% and similar products for disinfecting cut surfaces and pruning wounds. As with other chemical recommendations in this knowledge base, farmers should follow current label rates and local extension guidance, since older published rates can change as products are reformulated or reregistered."
+}

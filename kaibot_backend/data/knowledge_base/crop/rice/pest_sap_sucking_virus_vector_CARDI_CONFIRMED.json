@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 9 (Harmful factors and management), section 9.1.4 (Virus diseases, grassy stunt and ragged stunt subsections). No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "pest_sap_sucking_virus_vector_CARDI_CONFIRMED",
+  "text": "This entry resolves the identity question left open in Batch 8's flagged entry (pest_sap_sucking_virus_vector_FLAGGED.json, which described a sap-sucking, virus-transmitting pest resembling brown planthopper but without a confirmed species name). This CARDI source explicitly confirms the Brown planthopper (ព្រុងសមមាចផ្តោត in Khmer, scientific name Nilaparvata lugens) as the insect vector for BOTH of Cambodia's two confirmed planthopper-transmitted rice virus diseases: (1) Grassy stunt disease (ជម្ងឺទ្រើសៅ, confirmed in Batch 10) and (2) Ragged stunt disease (ជម្ងឺគៀវក្បាលស្លឹក, confirmed in Batch 10). The source notes that up to 20-40% of brown planthopper populations in some outbreaks can carry grassy stunt virus, and that the insect can acquire and transmit ragged stunt virus after as little as 24 hours of feeding on an infected plant, with ragged stunt symptoms appearing roughly 30-35 days after infection. Recommended integrated pest management (IPM) for brown planthopper includes: using resistant/tolerant varieties, avoiding excessive nitrogen application (which favors planthopper buildup), conserving natural enemies/beneficial insects in the field, and monitoring populations regularly so chemical control is only used when thresholds are exceeded.",
+  "caveat": "This confirms and should supersede/merge with Batch 8's pest_sap_sucking_virus_vector_FLAGGED.json - recommend removing the _FLAGGED suffix and updating that file's species identification to Nilaparvata lugens once repo access is available, cross-referencing this entry and the two confirmed virus disease entries from Batch 10."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "CARDI (Cambodian Agricultural Research and Development Institute) presentation, \"Characteristics of 10 Rice Varieties\" (លក្ខណៈសំខាន់ៗរបស់ពូជស្រូវទាំង១០ប្រភេទ), by Seng Vang, 2012 — no elibrary URL visible in the source file.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "variety_phka_rumdoul_agronomic_profile_CARDI_CONFIRMED",
+  "text": "Phka Rumdoul (Cambodia's well-known premium fragrant/jasmine rice, an internationally awarded variety) was released in 1999. Flowering period falls around October 10–25. Plant height is 110–170 cm, reported yield around 3.50 t/ha. It produces 5–10 productive tillers per hill, panicle length 18–28 cm. Reported 100-grain weight is about 3.0 g, grain length ~7.5 mm, width ~2.1 mm — slender grain, small chalkiness, translucent endosperm, and it is aromatic (ក្រអូប, fragrant) — its signature trait. It tolerates flooding/submergence for about 13 days. Market grade: premium (ប្រណិត).",
+  "caveat": "Numeric agronomic figures (maturity, height, yield, grain dimensions) are read directly from a clean CARDI data table and are reasonably reliable. Qualitative field labels (grain shape/chalkiness/shattering and drought/flood-tolerance ratings) were translated from short Khmer table labels and carry lower confidence than the numbers; treat descriptive ratings as indicative, not precise. CROSS-REFERENCE: this entry directly supersedes/fills the gap noted in the handover's open item 8 — the existing `variety_phka_rumdoul.json` from Batch 11 had no agronomic numbers (maturity, height, yield). This CARDI source provides the missing figures and should be merged into or used to replace that earlier numeric-gap entry."
+}

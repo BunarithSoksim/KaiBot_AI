@@ -1,0 +1,11 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.22, 25, 26",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "urea_nutrient_content_discrepancy_flag",
+    "text": "DISCREPANCY: On p.22, the basal fertilizer DAP (18-46-0) is correctly shown to deliver about N 9 kg, P2O5 23 kg, K2O 0 kg per hectare (consistent with DAP's N18%-P46%-K0% analysis at 50 kg/ha). However, the two top-dress fertilizer sections (p.25, first urea application, and p.26, second urea application) — which both explicitly state the fertilizer used is urea (46-0-0), i.e. pure nitrogen with 0% phosphorus — repeat the identical per-hectare nutrient figures 'N:9kg, P2O5:23kg, K2O:0kg'. A P2O5 content of 23 kg/ha is inconsistent with a fertilizer declared to be 0% P2O5; this figure appears to be copied over from the DAP basal-fertilizer box on p.22 without being corrected for urea's actual composition. The reliable figures are: DAP basal application (p.22) = N9/P2O5 23/K2O 0 kg per ha; urea top-dress applications (p.25–26) should deliver approximately N 23 kg per ha (from 50 kg of 46% N urea) and effectively 0 kg P2O5 and 0 kg K2O — but the source document itself states the P2O5 23kg figure for the urea applications, so this should be treated as a likely source error pending clarification rather than silently corrected."
+  }
+]

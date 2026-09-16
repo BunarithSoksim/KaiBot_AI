@@ -1,0 +1,10 @@
+{
+  "source": "CARDI (Cambodian Agricultural Research and Development Institute) presentation, \"Characteristics of 10 Rice Varieties\" (លក្ខណៈសំខាន់ៗរបស់ពូជស្រូវទាំង១០ប្រភេទ), by Seng Vang, 2012 — no elibrary URL visible in the source file.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "variety_ir66_agronomic_profile_CARDI_source",
+  "text": "IR66 was released in 1990. Maturity is about 105–115 days, plant height 80–118 cm, reported yield around 4.00 t/ha. It produces 12–18 productive tillers per hill, panicle length 25–26 cm. Reported 100-grain weight is about 2.2 g, grain length ~7.2 mm, width ~2.0 mm — slender grain, small chalkiness, translucent endosperm, not aromatic. It is rated not resistant to shattering, not drought tolerant, and not flood/submergence tolerant. Market grade: Grade 2 (standard).",
+  "caveat": "Numeric agronomic figures (maturity, height, yield, grain dimensions) are read directly from a clean CARDI data table and are reasonably reliable. Qualitative field labels (grain shape/chalkiness/shattering and drought/flood-tolerance ratings) were translated from short Khmer table labels and carry lower confidence than the numbers; treat descriptive ratings as indicative, not precise. This CARDI source gives a full clean numeric profile for IR66, which was previously only entered as a moderate-confidence variety profile in Batch 8 from a degraded scan — this entry should be treated as the more reliable numeric source and cross-checked against the Batch 8 entry before deciding which to keep as primary."
+}

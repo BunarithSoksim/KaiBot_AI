@@ -1,0 +1,9 @@
+{
+  "source": "MAFF / ADB, \"សណ្តែកបាយ\" [Bean crop — mung bean and black gram], official cultivation manual, 2005 (black gram sections)",
+  "category": "crop",
+  "product": "black_gram",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "introduction_and_cultivation",
+  "text": "This 2005 MAFF/ADB manual covers black gram (សណ្តែកប្រេង, Vigna mungo) alongside mung bean in a shared \"សណ្តែកបាយ\" (Bean crop) document — see the mung_bean product entry (Source B) for the shared botanical-classification, climate, and land-preparation content that applies to both crops jointly. Black gram-specific content within the shared chapters covers this species' distinct nutrition-table values and its own basal/top-dress fertilizer rate recommendations, which the manual notes differ somewhat from mung bean's."
+}

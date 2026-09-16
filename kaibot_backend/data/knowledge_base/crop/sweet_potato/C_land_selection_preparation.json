@@ -1,0 +1,10 @@
+{
+  "source": "បច្ចេកទេស ដាំដុះដំណាំដំឡូងជ្វា (Sweet Potato Cultivation Techniques), MAFF General Directorate of Agriculture, 2018",
+  "category": "crop",
+  "product": "sweet_potato",
+  "lifecycle_stage": "land_prep",
+  "province": "national",
+  "topic": "land_selection_and_preparation",
+  "text": "Land selection: Because sweet potato is a tuber crop, careful land selection matters. Suitable soils are moderately textured, well-drained soils such as red soil, sandy soil, or loose loamy soil. Heavy clay soil should be avoided where possible, as it can impede tuber growth; if clay soil must be used, extra care is needed, particularly around harvest. Sweet potato should be grown on raised ridges/mounds for the full growing period, in a location without waterlogging or flood risk — elevated land is preferred.\n\nLand preparation: For rice-paddy land recently harvested, the field should be plowed 2-3 times. About 10 days after the first plowing, animal manure should be applied (the source gives a rate of roughly one cart per 10 square meters), then the field harrowed and turned again immediately, and left to sit exposed to sun for a few days. Ridges are then formed using ridging equipment, with row spacing around 1 meter, adjusted to field conditions and soil type.",
+  "caveat": "The land-preparation paragraph contains dense numeric detail (plowing counts, timing intervals, manure rate) transcribed from a moderately legible scanned page; figures are reported as read but should be treated as approximate. See also the duplicate-check caveat on Source C's overview file."
+}

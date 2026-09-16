@@ -1,0 +1,9 @@
+{
+  "source": "MAFF Department of Agricultural Extension - Agricultural Extension Bulletin (ព្រឹត្តិបត្រផ្សព្វផ្សាយកសិកម្ម), Vol.01 Issue 01, January 2015 - farmer success story on banana chip processing",
+  "category": "crop",
+  "product": "banana",
+  "lifecycle_stage": "process",
+  "province": "Prey Veng",
+  "topic": "banana_chip_budget_and_economics",
+  "text": "The bulletin lists an example cost breakdown for one processing batch: banana (Namva variety) input costed at 75,000 riel; cooking oil at 30,000 riel; sugar and coconut milk at 18,000 riel; firewood at 7,000 riel; and packaging (plastic bags) at 20,000 riel, for a stated total cost of 150,000 riel. Total revenue from the batch is listed as 290,000 riel, with a stated profit of 60,000 riel.\n\nNote for future review: the stated profit of 60,000 riel does not reconcile with revenue (290,000) minus the printed total cost (150,000), which would be 140,000 riel; this is reported here exactly as printed in the source, per this knowledge base's convention of flagging rather than silently correcting arithmetic discrepancies in source documents - a future extraction pass with a clearer scan should re-check the original figures."
+}

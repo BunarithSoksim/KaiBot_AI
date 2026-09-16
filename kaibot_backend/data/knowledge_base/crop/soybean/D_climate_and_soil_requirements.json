@@ -1,0 +1,9 @@
+{
+  "source": "ACIAR Monograph No. 146a, \"ដំណាំសំណែកសៀង\" [Soybean Growers Manual], Belfield S., Brown C., Martin M. (eds.), New South Wales Department of Primary Industries / Murdoch University / CARDI / ACIAR, 2012",
+  "category": "crop",
+  "product": "soybean",
+  "lifecycle_stage": "land_prep",
+  "province": "national",
+  "topic": "climate_and_soil_requirements",
+  "text": "Climate: soybean needs warm temperatures for germination and growth and enough rainfall or irrigation across the season (a table gives approximate rainfall requirements by growth stage — planting, vegetative, flowering — around 340–480mm total depending on stage). Photoperiod sensitivity is discussed: soybean is a short-day plant for flowering in most varieties, so planting date interacts with daylength to determine when flowering starts, which the manual illustrates with day-length curves through the Cambodian calendar year.\n\nSoil: soybean grows best in well-drained loam soils with pH in the range of roughly 5.5–7.0; the manual gives a soil-analysis reference table showing organic matter %, available P, and pH/exchangeable cations for two example soil groups (Prey Khmer/Prateah Lang-type soils and Kampong Siem/Sihanouk-type soils) with associated ppm nutrient values, sourced to research data (Martin and Belfield). Waterlogging tolerance is poor — soybean is sensitive to both waterlogging and drought at germination and flowering, and the manual explains this in terms of root/nodule oxygen requirements."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "ដំណាំដំឡូងជ្វា (Sweet Potato), Department of Agronomy / General Directorate of Agriculture, Cambodia, published under the Asian Development Bank (ADB) loan-funded Agricultural Sector Development Program, Loan 1445-CAM(SF), Book 3, 2003",
+  "category": "crop",
+  "product": "sweet_potato",
+  "lifecycle_stage": "plant",
+  "province": "national",
+  "topic": "named_varieties",
+  "text": "ដំឡូងជ្វា មានពូជជាច្រើនប្រភេទ គេអាចបែងចែកពូជរបស់វាទៅតាម ទំរង់ស្លឹក ប្រវែងដើម ពណ៌របស់សំបក និងសាច់មើម ។ ពូជរបស់ដំឡូងជ្វាមានដូចតទៅ ៖\n\nក-ពូជល្អា ។ ពូជនេះ ស្លឹករបស់វា មានលក្ខណៈផែកប្រហោលស្លឹកល្ងខ្មែរ សំបកមើម និងសាច់មានពណ៌លឿងខ្លី ។\n\nខ-ពូជហារ៉ែ ។ មានស្លឹកពណ៌បៃតងមិនផែកខ្លាំង សំបកពណ៌ក្រហមភ្លារ និងសាច់មើមពណ៌លឿងខ្លី ។\n\nគ-ពូជត្រួយស្វាយ ។ មានស្លឹកផែក សំបកមើម ពណ៌ក្រហម និងសាច់មើមពណ៌ស ។\n\nង-ពូជតែនាង ៦៦ ។ មានស្លឹកពណ៌បៃតងទ្រវែង សំបកមើមក្រហមចាស់ សាច់ពណ៌ទឹកក្រូច ។",
+  "caveat": "Source pages 1-3 (section 2, ប្រភេទពូជ), each variety shown with a labeled photo of the harvested tubers. Variety names transcribed as printed in the photo captions: \"ល្អា\", \"ហារ៉ែ\", \"ត្រួយស្វាយ\", \"តែនាង ៦៦\". The decorative/stylized font makes some diacritics hard to verify with full certainty (especially in \"ហារ៉ែ\" and \"ត្រួយស្វាយ\"); recommend a visual spot-check against the source PDF if exact spelling matters downstream. Only 4 named varieties were found across the full 9-page booklet; no additional varieties appear on later pages."
+}

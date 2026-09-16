@@ -1,0 +1,9 @@
+{
+  "source": "ACIAR Monograph No. 146a, \"ដំណាំសំណែកសៀង\" [Soybean Growers Manual], Belfield S., Brown C., Martin M. (eds.), New South Wales Department of Primary Industries / Murdoch University / CARDI / ACIAR, 2012",
+  "category": "crop",
+  "product": "soybean",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "growth_stages_vegetative_and_reproductive",
+  "text": "The manual provides the standard soybean staging framework with a full reference table and diagrams for each stage:\n\nVegetative stages: VE (emergence), VC (cotyledon stage, unifoliate leaves unrolled), V1 (first trifoliate), V3 (third trifoliate), V5 (fifth trifoliate), through Vn (nth trifoliate, node count keeps rising as long as vegetative growth continues) — each stage given typical days-after-planting, node count, and a description of what to look for at the top of the plant.\n\nReproductive stages: R1 (beginning bloom — one open flower anywhere on the plant), R2 (full bloom — open flower at one of the two uppermost nodes with a fully unrolled leaf), R3 (beginning pod — a pod 5mm long at one of the four uppermost nodes), R4 (full pod — a pod 2cm long at one of the four uppermost nodes), R5 (beginning seed — seed 3mm long in a pod at one of the four uppermost nodes), R6 (full seed — pod containing a green seed that fills the pod cavity at one of the four uppermost nodes), R7 (beginning maturity — one normal pod on the plant has reached its mature pod color), R8 (full maturity — 95% of pods have reached mature pod color, harvest maturity). Each stage table also lists the days-after-planting range and the key management implications at that stage (e.g. R1–R4 is the most stress-sensitive window for yield loss from moisture stress or defoliation; R5–R6 is when seed weight is being determined and stress there directly cuts yield)."
+}

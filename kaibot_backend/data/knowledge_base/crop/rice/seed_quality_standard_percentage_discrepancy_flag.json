@@ -1,0 +1,12 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.32, 33, 38",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "sell",
+    "province": "national",
+    "topic": "other_variety_mixture_percentage_discrepancy_flag",
+    "text": "DISCREPANCY: The summary seed-quality standards table (p.38, section 5-3) states the maximum allowed mixture of other rice-variety seed in a finished seed lot as 0.1% for Registered seed and 0.2% for Certified seed. However, the Level-5 (final production-output) inspection summary boxes on p.32 (Registered) and p.33 (Certified) both instead state a maximum of '0.9%' for the same 'mixture with other varieties' criterion, while otherwise repeating the same pure-seed (98%), broken-grain (2%), and moisture (13%) figures as the p.38 table. This 0.9% figure may be a transcription/formatting artifact of '0.1%' or '0.9%' as printed in the source (image resolution made this ambiguous on re-check), but as stated the two sections of the document give different numbers for the same standard. Treat the p.38 table's 0.1%/0.2% figures as the more likely intended values (since they are given as an explicit side-by-side Registered-vs-Certified comparison table), but flag the p.32/p.33 boxes' 0.9% figure as a discrepancy pending clarification against the original document.",
+    "confidence": "moderate"
+  }
+]

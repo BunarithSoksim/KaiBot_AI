@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 4 (Physiology), sections on panicle development and flowering. No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "reproductive_stage_panicle_development_timeline_CARDI",
+  "text": "This source gives an approximate physiological timeline for rice's reproductive stage: from panicle initiation to booting takes roughly 25 days; the booting stage itself lasts roughly 16 days before heading (panicle emergence); and flowering typically proceeds over about 3 days per panicle branch order (upper branches first, then progressively lower branches), with each individual spikelet flowering (anther dehiscence and pollination) in the morning, roughly between 5:00 and 12:00. After fertilization, the ovary begins developing into the grain. This timeline is consistent with the flowering-window information already in this knowledge base's grain/panicle morphology content, and adds the specific day-counts for the panicle-initiation-to-booting and booting-to-heading intervals.",
+  "caveat": "This is physiological background/timeline content. Recommend a duplicate-check against any existing growth-stage-duration content once repo access is available, since these day-counts may already be documented under an existing 'growth stages' entry."
+}

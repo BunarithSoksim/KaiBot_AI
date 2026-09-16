@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "general",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_toxic_poisoning_and_treatment",
+  "text": "Poisoning risk is much higher for free-ranging animals. Urea poisoning: occurs when cattle find and lick a bag containing leftover urea; symptoms are severe bloat, muscle tremors progressing to incoordination (a drunk-like walk), and death within 2 hours if untreated. Treatment must start immediately once a farmer sees cattle licking the bag: give 2 to 5 liters of vinegar diluted with water to drink. Pesticide poisoning: from animals finding a bag with leftover chemicals; symptoms are excessive salivation (a very acute onset, distinguishing it from FMD), initial excitement followed by depression, and death if the ingested dose is large. Treatment is an intramuscular injection of Atropine. Photosensitive plant allergy: common in Cambodia — after eating certain plants and then staying in the sun, cattle can develop severe skin lesions; treatment is to move the animal into shade and inject Dexamethasone.",
+  "caveat": "These are the source's general first-response descriptions for farmer recognition and immediate action; exact dosing and confirmation of diagnosis should still involve a veterinarian or animal health worker where possible."
+}

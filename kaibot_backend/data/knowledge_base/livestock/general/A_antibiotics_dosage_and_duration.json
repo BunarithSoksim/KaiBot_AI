@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "general",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_antibiotics_dosage_and_duration",
+  "text": "Dosage should follow the label based on a careful weight estimate; for respiratory disease, doubling the dose for the first injection is recommended. Labels often give a lower 'preventive dosage' (for healthy, normally eating animals) and a higher 'curative dosage' (since sick animals eat less and need a higher concentration to absorb enough medicine) — this matters especially for feed-mixed antibiotics, since sick animals eat little. Rhythm: a minimum blood antibiotic level must be maintained throughout the day — feed-mixed antibiotics are naturally spread out as pigs/chickens eat through the day, while injected products must follow label timing exactly (e.g. Ampidexalone morning and afternoon, Septotryl once daily); 'LA' (Long Acting) products like Longamox (long-acting amoxicillin) need injection only every 2–3 days. Duration: 3 to 5 days is normal, sometimes 7 days for respiratory disease, but never less than 3 days. Do not switch antibiotics after just one day if there's no improvement; instead, re-examine the animal to confirm the diagnosis (symptoms often evolve after a day or two) and check that the antibiotic itself is genuine and good quality, since some very cheap products from unknown manufacturers contain little or no active ingredient."
+}

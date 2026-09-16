@@ -1,0 +1,12 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.44",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "rice_pest_identification_and_chemical_control_table",
+    "text": "Appendix reference table of major rice insect pests and chemicals reported usable against them (brand names as listed in the source): Rice Army Worm (ដង្កូវហ្នុង) — Nato 55EC, Vitasi 480EC, Action 5SC. Brown Planthopper (មមាចត្នោត) — Vitasi 480EC, Cyriphos 585EC, Secsaigon 10EC, Action 5SC, Nato 55EC, Secsaigon 25EC, Osin 50WP, Vino 200SC, Nafaza 350SC. Green Leafhopper (មមាចខ្យេវ) — Vitasi 480EC, Cyriphos 585EC, Osin 50WP, Vifone 200SL, Nafaza 350SC. Leaf Folder/Leaf Holder (ដង្កូវម្ជុលស្លឹក) — Vicare 36EC, Alphan 5EC, Vitasi 480EC, Cyriphos 585EC, Secsaigon 10EC, Secsaigon 25EC, Cypenran 10EC, Diazan 50EC, Vino 200SC, Vigo 500EC, Peran 50EC, Kinalux 25EC. Rice Bugs (ស្រុីងស្រូវ) — Cyriphos 585EC, Secsaigon 10EC, Secsaigon 25EC, Osin 50WP, Vino 200SC, Nafaza 350SC. Rice Case Worm (ដង្កូវបំពង់កាត់ស្លឹក) — Cypenran 10EC, Vitasi 480EC, Vigo 500EC, Kinalux 25EC. Yellow Stem Borer (ដង្កូវស្លឹងដើមពណ៌លឿង) — Nato 55EC, Golden Dragon 585EC, Cyriphos 585EC, Cypenran 10EC, Diazan 50EC, Diaphos 10H, Netoxin 18SL, Peran 50EC. Rice Thrips (ទ្រីបស្រូវ) — Diazan 50EC, Diaphos 10H. Product names/formulations are as of the 2014 manual and may not reflect currently registered or available agrochemical products.",
+    "confidence": "moderate"
+  }
+]

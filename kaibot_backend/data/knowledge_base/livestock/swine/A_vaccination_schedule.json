@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_vaccination_schedule",
+  "text": "Example vaccination schedules: CSF — piglets at 3 weeks (only if sows aren't regularly vaccinated), 7 weeks, and 11 weeks, to ensure maternal antibodies don't block the vaccine; gilts/sows from 6 months of age and again 1 month before farrowing, roughly twice a year. Parvovirus — gilts get 2 injections a month apart (e.g. 6.5 and 7.5 months old, timed so the second dose falls about 2 weeks before mating); sows are vaccinated 10 days before weaning. Aujeszky — gilts get 2 injections within 1 month, at ages 6 and 7 months; sows 1.5 months before farrowing; fattening pigs do not need this vaccine; recommended for medium-scale farms. FMD — needs regular boosters to stay protective, and fattening pigs (raised only about 6 months) can't build strong immunity, so the program targets breeding females: vaccinate selected gilts at 3 months with a second dose 1 month later, then boost every 4–6 months, and re-vaccinate immediately if there is a regional outbreak.",
+  "caveat": "These are example schedules from the source; actual programs should follow current national veterinary guidance and local disease risk."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 9 (Harmful factors and management), section 9.2.4 (Storage insect pests). No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "process",
+  "province": "national",
+  "topic": "storage_pests_species_supplement_CARDI",
+  "text": "This source names three specific stored-grain/paddy insect pests, which may overlap with the four stored-grain pests already given biological parameters in Batch 16's FAO/EU-sourced entry - treat as a cross-check/supplement rather than assumed-new content: (1) Angoumois grain moth (ដង្កូវអង្ករ, Sitotroga cerealella Olivier, Lepidoptera: Gelechiidae) - adult moths about 5-10mm, larvae bore into and hollow out individual grain kernels, life cycle roughly 30 days at optimum conditions, most damaging to paddy/milled rice stored around 20-30 degrees C. (2) Rice weevil (ខ្ទួតស្រូវក្នុងជង្រុក, Sitophilus oryzae Linnaeus, Coleoptera: Curculionidae) - adults 2.5-4mm, both larvae and adults feed inside kernels, development takes about 30-40 days, most active around 27-31 degrees C. (3) Lesser grain borer (ខ្ទួតគ្រាប់ស្រូវ, Rhizopertha dominica Fabricius, Coleoptera: Bostrichidae) - adults about 2.5mm, bores into kernels and consumes the endosperm, life cycle around 4-5 weeks, can fly and disperse between storage areas. General storage control principles given: keep storage containers/sacks clean and dry, avoid mixing new harvest with old infested stock, fumigate sealed stores when infestation is found (roughly one week fumigation period mentioned), and use resistant storage structures where possible.",
+  "caveat": "Recommend a duplicate-check against Batch 16's postharvest FAO/EU stored-grain-pest entry (storage_pest_biology_parameters_FAO_EU_MODERATE_CONFIDENCE.json) before adding this as a separate file - the three species named here may already be among the four documented there. No repo access this session to confirm."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "MAFF/GIZ, \"Guidelines for Banana Export from Cambodia to China\" (2022), appendix 6 (national MRL standard table) and section 1 footnote on GB 2763-2018",
+  "category": "crop",
+  "product": "banana",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "pesticide_maximum_residue_level_reference",
+  "text": "This guide includes a large general-purpose reference table (spanning several pages, organized alphabetically) giving China's maximum residue level (MRL) in mg/kg for well over a hundred individual pesticide active ingredients, covering produce generally rather than banana specifically \u2014 it is a regulatory reference table rather than banana-specific guidance, so it is summarized here rather than reproduced pesticide-by-pesticide; exporters needing an exact current limit for a specific product should consult the official published standard (China's national food safety standard GB 2763) directly, since MRL tables are periodically revised.\n\nOne specific, banana-relevant regulatory fact the guide does call out directly: as of June 2018, China's updated national food safety standard for maximum pesticide residue limits (GB 2763-2018) added a rule restricting Paraquat use on produce intended as fresh agricultural product for human consumption, alongside new or revised MRLs for a number of other chemicals. The guide separately lists several pesticides it identifies as having new or revised MRLs specifically relevant to banana growers under this update: Flutriafol, Fluopicolide, Mandipropamid, Trifloxystrobin, Spinetoram, Etoxazole, and Fenpyroximate. Banana growers supplying export-oriented buyers should treat this short list, plus Paraquat's restricted status, as the pesticide-related items most worth double-checking against their own spray program, rather than trying to cross-reference the full alphabetical MRL table for every product they use."
+}

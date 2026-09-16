@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 7 (Rice-based farming systems), sections on farm diversification beyond rice. No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "farm_diversification_beyond_rice_CARDI",
+  "text": "Building on the national farming-systems overview already in this knowledge base (Batch 20), this section discusses common ways Cambodian rice-farming households diversify income beyond the rice crop itself: home garden/orchard crops (fruit trees, vegetables) grown on higher, non-flooded land near the homestead; livestock and poultry raising, which both generates income and produces manure useful for soil fertility; and, in areas near waterbodies, fishing or small-scale aquaculture as a complementary income and food source. The source frames these combinations as a household risk-management strategy as much as an income strategy - if the rice harvest is poor in a given year (due to drought, flood, or pest pressure), a household with a diversified mix of income sources is less exposed than one relying on rice alone. It also notes capital/investment constraints (access to credit, labor availability, land tenure security) as the main practical limits on how much a given household can diversify.",
+  "caveat": "This is background farm-strategy content rather than a specific technique - recommend a duplicate-check against Batch 20's farming-systems overview entry, which this supplements, and against any existing livestock/poultry content in the knowledge base."
+}

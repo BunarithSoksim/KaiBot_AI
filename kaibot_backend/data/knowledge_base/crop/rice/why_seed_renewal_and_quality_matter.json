@@ -1,0 +1,20 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.4",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "plan",
+    "province": "national",
+    "topic": "why_seed_renewal_matters",
+    "text": "Farmers should not keep re-using harvested grain as seed indefinitely: yield and seed quality decline the longer a lot of seed is propagated without renewal from a pure source, because varietal purity degrades and off-types/mixtures accumulate with each successive generation. The manual notes that quality decline becomes noticeable from around the third generation after starting from original (breeder-derived) seed, which is why regular renewal from registered/certified seed sources rather than continuous farmer-saved seed is recommended."
+  },
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.4",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "plan",
+    "province": "national",
+    "topic": "why_seed_quality_matters",
+    "text": "Using seed of good, verified quality directly determines the yield and quality of the resulting harvest. If the seed used contains a mixture of varieties, this reduces the uniformity and quality of the harvested paddy, which in turn lowers its value and marketability. Producing and using pure, high-quality seed of a known variety is presented as the basis for improving both productivity and farmer income."
+  }
+]

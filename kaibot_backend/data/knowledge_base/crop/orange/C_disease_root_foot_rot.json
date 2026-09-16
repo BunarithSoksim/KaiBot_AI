@@ -1,0 +1,10 @@
+{
+  "source": "Dr. Thaveesak Sangudom, Dr. Theerawut Chutinanthakun, and Wirot Horasart, \"Off-season Production Techniques for Pursat Orange (ក្រូចពោធិ៍សាត់ / kroch poursat) in Cambodia,\" in The Guideline of Climate Change Adaptation in Cambodia (pp. 130-153), Project on Promoting Climate Resilience in Farming Communities of Cambodia, General Department of Agriculture (GDA) Cambodia, Thailand International Cooperation Agency (TICA), and Department of Agriculture (DOA) Thailand, 2017-2020.",
+  "category": "crop",
+  "product": "orange",
+  "lifecycle_stage": "grow",
+  "province": "Battambang",
+  "topic": "disease_root_foot_rot",
+  "text": "Root rot / foot rot is caused by Phytophthora parasitica, a pathogen present in soil and water. Infection usually enters through wounds on roots or lower trunk, or follows damage from soil-dwelling pests. Symptoms include yellowing along the leaf midrib and leaf drop; in severe cases the tree stops growing well and branches die back starting from the tips. Digging around affected roots shows rotten, discolored root tips and decayed bark/phloem tissue at the base of the trunk.\n\nControl measures given in the source:\n1) Apply Metalaxyl 25% WP fungicide directly onto the affected trunk/root-collar area.\n2) Spray leaves and trunk with Phosphonic acid at 50 ml per 20 L water.",
+  "caveat": "The mixing rate given for the Metalaxyl trunk treatment differs between two places in the same source: the narrative chapter states 80-100 g mixed with 20 L water, while the condensed production-calendar table states 80-100 g mixed with just 1 L water for the same trunk application. This is a 20-fold difference in concentration and was not resolved by cross-checking -- both figures are reported here as printed rather than silently picking one. A trunk-paint application would plausibly use a much more concentrated (lower-volume) mixture than a full-canopy spray, which may explain the difference, but this is not stated explicitly by the source. Recommend confirming the correct rate before advising farmers, ideally against the product label or a plant protection officer."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "cattle",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_vaccination_schedule",
+  "text": "Example vaccination schedules: FMD — first injection at 4 months old, booster 1 month later, then every 6 months; during a nearby outbreak, vaccinate all animals in the village, since protection can develop quickly, even after just one injection, within a few days. Blackleg — first injection 2 months after birth, boosters 1 month later, 1 year later, and 5 years later; strongly recommended in communes with a history of Blackleg cases, since the bacteria form spores that survive in soil for years and disease can reappear anytime. Hemorrhagic Septicemia (HS) — outbreaks typically start with the rainy season, so it is best to vaccinate just before the rainy season begins; in practice HS vaccination is usually done through organized campaigns, and access for individual farmers can be limited.",
+  "caveat": "These are example schedules from the source; actual programs should follow current national veterinary guidance and local disease risk."
+}

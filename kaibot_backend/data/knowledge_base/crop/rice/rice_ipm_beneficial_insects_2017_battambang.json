@@ -1,0 +1,9 @@
+{
+  "source": "វិធានការចម្រុះគ្រប់គ្រងដំណាំ លើដំណាំស្រូវ (Integrated Pest Management on Rice), training slide deck, Department of Agriculture, Forestry and Fisheries of Battambang province, presented by Ms. Yem Sophy, Oct 20, 2017 (contact: ysophy168@gmail.com, 012 558 312)",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "Battambang",
+  "topic": "ipm_beneficial_insects_predators_2017",
+  "text": "NOTE: this may duplicate an existing knowledge-base entry on the same subject (a file named beneficial_insects_predators.json already exists in the KB per the project's Code reference) -- check before adding, to avoid a duplicate/conflicting entry. This 2017 Battambang IPM training deck's own natural-enemy content: spiders named individually include the wolf spider (Lycosa pseudoannulata), lynx spiders, and the long-jawed spider (Tetragnatha spp.), all hunting insect pests directly on the rice canopy. Damselflies prey on adult moths and small insects above the canopy. A ground/foliage predatory beetle, Ophionea nigrofasciata, is shown feeding on a moth pupa. Mirid bug predators feed on planthopper and leafhopper eggs and nymphs. Parasitic wasp families named across the different pest sections include Telenomus, Tetrastichus, Trichogramma, mymarid wasps, platygasterid wasps, eupelmid wasps, pteromalid wasps, pipunculid flies, and dryinid wasps, each specializing in a different pest's egg or larval stage. The deck's summary point for farmers is that natural enemies keep pest levels down for free, and unnecessary or poorly timed insecticide spraying kills these predators and parasitoids too, which can trigger a secondary outbreak (most notably of brown planthopper) once natural control is removed."
+}

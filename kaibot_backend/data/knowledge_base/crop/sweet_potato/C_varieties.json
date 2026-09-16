@@ -1,0 +1,10 @@
+{
+  "source": "បច្ចេកទេស ដាំដុះដំណាំដំឡូងជ្វា (Sweet Potato Cultivation Techniques), MAFF General Directorate of Agriculture, 2018",
+  "category": "crop",
+  "product": "sweet_potato",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "varieties",
+  "text": "Sweet potato varieties in this source are classified by leaf shape, vine characteristics, tuber shape, and tuber flesh color. Four named varieties are described:\n\n1. Lnau (ល្នៅ) variety: Leaf shape resembles the local Khmer sweet potato leaf type, with vine and tuber flesh in a light/yellowish color range.\n\n2. Harae (ហារ៉ែ) variety: Leaves have a pale reddish tinge, unlike other varieties, with distinctive flesh coloring.\n\n3. Trouy Svay (ត្រួយស្វាយ) variety: Leaves have reddish coloring, with tuber flesh in a pinkish-red range.\n\n4. Te Neang 66 (តេនាង៦៦) variety: Leaves have a distinct color pattern, with vines showing a red-brown tint, and tuber flesh described as bright yellow/orange colored.",
+  "caveat": "Variety name transcription (particularly 'Lnau') was cross-checked at high resolution against both the table of contents and the section heading in this source. Batch 46's separate ADB-series sweet potato booklet (Source B) names a similar variety as 'Léav' (ល្អុវ) — this may be a spelling/dialect variant of the same cultivar or a genuinely distinct variety; not reconciled. See also the duplicate-check caveat on Source C's overview file."
+}

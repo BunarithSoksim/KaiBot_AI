@@ -1,0 +1,9 @@
+{
+  "source": "MAFF/partner document, \"ដំណំពោត\" (Corn Crop), Section IV.3: Land preparation",
+  "category": "crop",
+  "product": "corn",
+  "lifecycle_stage": "land_prep",
+  "province": "national",
+  "topic": "corn_land_preparation_by_season",
+  "text": "Dry season: plowing should be done deeply enough to help retain soil moisture over a longer period; the plowed soil can then be left to dry-fallow for 5-15 days before further preparation.\n\nRainy season: farmers do not need to plow the soil too deeply, because deep plowing in the wet season can cause the soil surface to crust and harden quickly after rainfall. The plow-fallow step during this season should be repeated 1-2 times, in order to kill weeds, pests, and disease organisms in the soil, and to improve soil aeration for better growing conditions."
+}

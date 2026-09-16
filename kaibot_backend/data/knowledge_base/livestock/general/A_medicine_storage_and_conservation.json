@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "general",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_medicine_storage_and_conservation",
+  "text": "Medicine quality depends on proper storage; key risk factors: heat — vaccines (especially live ones) are most heat-sensitive and need the cold chain kept at 2–8°C from manufacturer to farm; all medicines degrade faster above about 25–27°C. Light — store medicines in the dark (often boxed, in tinted glass bottles); vitamins are especially light-sensitive. Oxidation — each puncture of a rubber-capped vial lets in air, and the resulting oxygen exposure degrades the product over time (e.g. Tetracycline turns from light yellow to dark brown once a vial has been opened and used repeatedly) — try to finish an opened vial within a few days. Moisture — powders can absorb moisture and turn hard (especially if a bag isn't well sealed, particularly in the rainy season); hardened powder can still be used after grinding, but if it develops a green color, mould, or a bad smell, discard it; plastic packaging is better than paper for products that need to be stored for several weeks. Expiration — always try to use medicine before its expiry date; vitamins and vaccines lose potency quickly and expiry should be respected strictly, while some antibiotics can remain usable for months past expiry if storage has been good."
+}

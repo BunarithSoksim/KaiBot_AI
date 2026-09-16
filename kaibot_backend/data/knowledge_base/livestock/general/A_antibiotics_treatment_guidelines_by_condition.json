@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "general",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_antibiotics_treatment_guidelines_by_condition",
+  "text": "Example antibiotic choices by condition: skin infections — amoxicillin, lincomycin, or TMP/Sulfa. Respiratory disease (all species) — tetracyclines (often with a macrolide), florfenicol, or enrofloxacin. Endometritis — enrofloxacin or amoxicillin. Cystitis — enrofloxacin or TMP/Sulfa. Streptococcus in piglets — amoxicillin or penicillin. Diarrhea in piglets/calves — colistin or enrofloxacin. Diarrhea in fattening pigs — tylosin, or tylosin + gentamycin. Colibacillosis in chickens — amoxicillin or flumequine. Mastitis — TMP/Sulfa in sows, amoxicillin in cattle. Arthritis — amoxicillin or lincomycin. Erysipelas — amoxicillin or tylosin. Protection against secondary infection during viral disease — TMP/Sulfa or oxytetracycline (OTC).",
+  "caveat": "These are general example pairings from the source, not a substitute for veterinary diagnosis; local product availability and resistance patterns can also affect what actually works best."
+}

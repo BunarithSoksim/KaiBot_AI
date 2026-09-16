@@ -1,0 +1,10 @@
+{
+  "source": "MAFF Department of Agricultural Extension (នាយកដ្ឋានផ្សព្វផ្សាយកសិកម្ម), \"បច្ចេកទេសដាំដុះសណ្តែកបាយ\" (Mung Bean Cultivation Techniques handbook), Kingdom of Cambodia, MAFF, published by the Department of Agricultural Extension. Reference list on the closing page cites additional 2003-dated MAFF/agricultural-extension source booklets on mung bean varieties, seed production, and pest management, plus several international references (Plant Resources of South-East Asia Vol. I, 1992; Talekar & Skinner, Field Guide to Insect Pests of Tropical Asia, 1995; Nelson, Insect Pests of Vegetables, Philippines, 1969; Mung Bean Adaptation Trial, Kbalkoh Station 1996-2000, CLV Network; and a 1991 Bangkok workshop proceedings on Yellow Mosaic Virus). No elibrary.maff.gov.kh URL is visible on the scanned pages provided, so none is given here. Uploaded as a 38-page scanned PDF; no embedded text layer, all content read visually from page images. This is Source C for crop/mung_bean in this knowledge base (Sources A-B were processed in Batch 42).",
+  "category": "crop",
+  "product": "mung_bean",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "pest_bean_thrips",
+  "text": "Bean thrips (ទ្រីបផ្កាំសណ្តែក, Megalurothrips usitatus, family Thripidae, order Thysanoptera) females lay eggs inside flower-bud tissue, feeding on developing pods after hatching. Life-cycle length is estimated at roughly 2-4 days for one stage described in the source, with adult longevity around 20 days, and multiple generations possible under favorable conditions. Damage occurs through feeding on flower buds and young pods, which can cause bud/flower drop and pod deformation. Prevention: field sanitation, removal of alternate host weeds. Control: active ingredients named include Thiamethoxam, Buprofezin, Acetamiprid, Imidacloprid, Fipronil, Pymetrozine, and Fenobucarb.",
+  "caveat": "The precise stage-duration figures for this pest (which growth stage the '2-4 days' and '20 days' figures refer to) were not fully disambiguated from the source's phrasing; reported here in general terms rather than over-specified."
+}

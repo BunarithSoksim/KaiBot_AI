@@ -1,0 +1,10 @@
+{
+  "source": "Windsor, P.A. 2014. 'CSF Information for Trainers' -- ACIAR/USYD Mekong Livestock Research project resource (mekonglivestock.wordpress.com)",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "csf_background_for_trainers",
+  "text": "This trainer-level background note on Classical Swine Fever (CSF) explains it as a highly contagious, economically damaging viral disease (Pestivirus) affecting only pigs and wild boar, spread mainly via nose-to-mouth contact with secretions from sick or dead animals, and also indirectly via humans, equipment, vehicles, swill feeding, transplacental transfer, and contact with wild boar. The virus incubates 2-14 days before signs appear, during which infected pigs can already be shedding it, and the body may not produce antibodies for up to 3 weeks in some cases, letting the virus spread silently. Signs vary by age (young pigs worse-affected) and strain, but classically include fever, small skin haemorrhages, nervous-system signs, constipation followed by diarrhoea, and secondary infections from immune suppression; native pig breeds tend to show a more chronic course than introduced breeds (Large White, Landrace, Duroc), making them both more resilient individually and a more persistent silent source of infection in a herd. There is no treatment, so control depends on quarantining new pigs before mixing them with the herd, immediately reporting and isolating (or slaughtering and properly disposing of) suspected cases, and discouraging the common but disease-spreading practice of farmers trying to sell sick pigs before they die. Vaccination with the modified-live China (C-strain) vaccine can build protective antibody within about 5 days and is the most effective option, though it cannot distinguish vaccinated from infected animals on testing.",
+  "caveat": "This is trainer/technical background (laboratory diagnostics, virology) rather than direct farmer-facing guidance, and is the batch's only swine-specific source -- it does not cover everyday swine husbandry, feeding, or breeding."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "MAFF Department of Agricultural Extension / Directorate General of Agriculture, \"បច្ចេកទេសដាំដុះសណ្តែកសៀង\" [Soybean cultivation techniques], official extension manual, 2018",
+  "category": "crop",
+  "product": "soybean",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "fertilizer_application",
+  "text": "Fertilizer guidance recommends roughly 3,000 kg of compost/organic matter per hectare as a base dressing, plus specific mineral-fertilizer guidance broken down by nutrient:\n- Nitrogen (N): total requirement cited around 40 kg/ha, of which roughly 40% can be supplied by Rhizobium-driven biological fixation and the remaining roughly 60% supplied as fertilizer.\n- Phosphorus (P): roughly 40–50 kg/ha.\n- Potassium (K): roughly 75–84 kg/ha, which the manual notes can be supplied to match local soil type and cropping history.\n\nA pictured commercial blended product, NPK 15-15-15+2TE (with trace elements), is used as a worked example: the manual gives an application-rate example converting the blend's %N-%P-%K content into an actual per-hectare/per-plot dose, and separately discusses a second urea-type product (also 15-15-15 blend cited) at differing rates for comparison, with the arithmetic shown so farmers can adapt the calculation to whatever fertilizer blend they have available."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "cattle",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_pneumonia_and_lungworms",
+  "text": "Pneumonia: all cattle are susceptible, but it typically starts when an animal is stressed (temperature swings, exhausting work, insufficient feed/water, dry/dusty conditions). Pasteurella is the most common cause — it normally lives harmlessly in the upper respiratory tract, kept in check by macrophages and antibodies, but stress weakens these defenses and lets it invade the lungs (dust irritation also helps it along). Pasteurella type B causes the rapid-death form, Hemorrhagic Septicemia (see separate entry); other types cause a less acute but still always-serious pneumonia, affecting calves and adults alike: increased breathing rate, fever over 40°C, appetite loss, coughing, and nasal discharge. Necropsy shows severe, non-elastic, fibrinous (cheesy) pneumonia. Treatment: antibiotics (Tetracyclines, Florfenicol) combined with anti-inflammatory medicine (Paracetamol, Tolfedine, Ketofen). Lung worms (Dictyocaulus): cause a lung disease with signs similar to microbial pneumonia — mature worms live in the bronchi and lay eggs there. Signs: coughing, temperature up to 40°C in severe infestations, nasal discharge, grunting, generally with poor body condition and a rough coat. Treatment (one-time dose): Albendazole (10 ml/100 kg) or Ivermectin (1 ml/50 kg); in severe cases (high temperature, depression), combine deworming with antibiotics as for pneumonia."
+}

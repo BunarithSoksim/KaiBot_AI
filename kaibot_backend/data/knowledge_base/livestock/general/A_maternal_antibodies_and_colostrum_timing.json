@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "general",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_maternal_antibodies_and_colostrum_timing",
+  "text": "Animals carry antibodies either from having recovered from a past infection, or from vaccination (with regular boosters). For example, sows often have high CSF antibody levels from regular vaccination (or from mild exposure on the farm). After farrowing, sows produce colostrum for a few hours — rich in energy and, crucially, antibodies. If the sow was vaccinated against CSF a few weeks before farrowing, her colostrum is rich in CSF antibodies, which the piglet absorbs and is thereby protected within hours of birth. These maternal antibodies stay high until about 7 weeks of age, then drop off quickly — so piglets should not be vaccinated before 7 weeks, since the maternal antibodies would simply neutralize the vaccine. Recommendations: vaccinate sows during gestation so antibody levels are high at delivery and colostrum is antibody-rich; ensure every piglet drinks colostrum as soon as possible after birth, helping weak piglets reach the teats if needed; time piglet CSF vaccination for when maternal antibodies have dropped — normally a first injection at 7 weeks and a second at 11 weeks (vaccinating at 2 weeks is ineffective if the sow was vaccinated). If it isn't known whether the sow was recently vaccinated, start the piglet vaccination program earlier, at 3, 7, and 11 weeks."
+}

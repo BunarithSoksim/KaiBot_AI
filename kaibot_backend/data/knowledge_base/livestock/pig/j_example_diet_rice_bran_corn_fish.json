@@ -1,0 +1,10 @@
+{
+  "source": "Morais O., Cargill C., Parke K. and Barnes T. 2020. Smallholder Pig Production Technicians' Manual. Timor-Leste Ministry of Agriculture and Fisheries, University of Queensland, ACIAR and the TOMAK Program (Australian Aid), Dili.",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "feeding",
+  "province": null,
+  "topic": "example_diet_rice_bran_corn_fish",
+  "text": "A well-tested growing-pig diet combines rice bran (45%), milled corn (20%), dried fish (5%), and fresh leaves such as leucaena, sesbania, or moringa (30%) — providing roughly 13.6 MJ/kg energy and 16% protein. The rice bran, corn, and dried fish can be pre-mixed and stored as a 'dry mix' so ingredients don't need weighing separately at each feeding; fresh leaves are fed ad-lib alongside. Approximate total feed per pig per feeding (fed twice daily): a 10kg pig needs about 250g total (175g dry mix); a 30kg pig needs about 750g total (525g dry mix); a 60kg pig needs about 1,500g total (1,050g dry mix), with rice bran, corn, and dried fish scaling proportionally within the dry-mix portion.",
+  "caveat": "This guidance comes from a Timor-Leste smallholder pig manual, not a Cambodia-specific source. Feed ingredients and general husbandry practices transfer well to Cambodia's tropical smallholder conditions, but local breed weights/ages and disease-context details may differ; confirm specifics with a local vet or extension officer where precision matters."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "MAFF/JICA APPP (Agricultural Productivity Promotion Project in West Tonle Sap) Farmer Field School Technical Manual for Extension Officers, December 2014 -- no elibrary URL visible on this scan.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plant",
+  "province": "Battambang, Pursat, Kampong Chhnang (APPP project area)",
+  "topic": "wet_seedbed_preparation_and_seed_rate",
+  "text": "For farmers using the traditional wet-seedbed (\u1790\u17d2\u1793\u17b6\u179b\u179f\u17c6\u178e\u17b6\u1794) method rather than direct seeding, prepare the seedbed 2-3 days before sowing so the soil has time to settle. Build the bed as a raised strip about 5-10 cm high, with good drainage and an accessible water source nearby, since the bed needs to stay evenly moist without becoming waterlogged. Mix compost and carbonized rice husk (\u1792\u17d2\u1799\u17bc\u1784\u17a2\u1784\u17d2\u1780\u17b6\u1798) into the topsoil to loosen it, help seedlings root more easily, and reduce root damage when seedlings are later pulled for transplanting. Apply a basal DAP fertilizer application (roughly 10 kg per 1,000 sq m of seedbed, i.e. about 5 kg for a 500 sq m seedbed) before sowing. Sow pre-treated, lightly sprouted seed evenly across the bed at a density of about 80-100 g of seed per square meter, then cover with a thin layer of carbonized rice husk to help retain moisture and reduce birds picking at the seed. Seedlings are normally ready for transplanting at around 21 days old (3 weeks), once they have 3-4 leaves.",
+  "caveat": "The source includes a worked sizing example (roughly 1 hectare of transplanted field supplied by about a 500 sq m seedbed, using roughly 40 kg of seed / ~80 g per sq m), based on an assumed germination/quality allowance of about 70% and a rough 1,000-grain weight reference of about 3 g, which the source itself credits to CARDI data. Treat this as a planning example, not a fixed formula -- actual seed rate should be adjusted to the real germination rate of the seed lot being used. Duplicate-check recommended against existing seedbed-preparation entries from prior batches before adding to the live KB."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 5 (Genetics), by Men Sarom and Kit Khunhel, section 5.1.1 (Origin). No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "genetics_rice_origin_and_domestication_region_CARDI",
+  "text": "Background on rice's geographic origin (context rather than a farming technique). This source places rice's origin in the foothill region spanning from the Himalayas (Assam, India) to the Deccan Plateau, extending across Myanmar, Vietnam, Cambodia, Laos, Thailand, and Yunnan (China) (Chaudhary, 1982; Chaudhary and Tran, 2001). A secondary center of rice genetic diversity was identified by Hill (1976) in Orissa and Bihar, India. The source also briefly references the classic Vavilov framework of seven world centers of crop-plant genetic diversity (Central Asian, Near East/Western Asian, Mediterranean, Abyssinian, Central American, and South American centers) as general plant-breeding background, though these centers relate mainly to other crops (wheat, barley, chickpea) rather than rice specifically.",
+  "caveat": "This is background genetics/history content rather than a farming technique, included for context on where rice as a crop originated. The Vavilov centers discussion is general crop-science background not specific to rice and is only briefly summarized here rather than detailed. Recommend a duplicate-check against Batch 18's history/origin content, which covers similar ground from a different chapter of this same book."
+}

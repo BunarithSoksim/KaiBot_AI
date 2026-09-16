@@ -1,0 +1,10 @@
+{
+  "source": "កូនសៀវភៅស្តីពី បច្ចេកទេសដាំដុះដំណាំដំឡូងមី ដែលធន់នឹងការប្រែប្រួលអាកាសធាតុ / Climate Resilient Cassava Growing Technique, ASPIRE project, funded by IFAD, Ministry of Agriculture, Forestry and Fisheries (MAFF), Cambodia, November 2018",
+  "category": "crop",
+  "product": "cassava",
+  "lifecycle_stage": "market",
+  "province": "national",
+  "topic": "planting_calendar_market_timing",
+  "text": "ប្រតិទិនដាំដុះ និងតម្រូវការទីផ្សារ៖ ឯកសារបង្ហាញតារាងកាលវិភាគប្រចាំខែ (ជានិមិត្តរូបប្រតិទិន Gantt) សម្រាប់សកម្មភាពផលិតកម្ម និងសម្រាប់និន្នាការតម្លៃទីផ្សារ។\n\nផលិតកម្ម៖ ការរៀបចំដីធ្វើនៅចន្លោះខែកុម្ភៈដល់ឧសភា។ ការដាំដុះធ្វើនៅចន្លោះខែមីនាដល់មិថុនា។ ការធ្វើស្មៅធ្វើនៅចន្លោះខែមីនាដល់មិថុនា។ ការប្រមូលផលធ្វើនៅចន្លោះខែតុលាដល់ធ្នូ។\n\nតម្រូវការទីផ្សារ៖ ដំឡូងមីមានតម្លៃថ្លៃ ក្នុងខែវិច្ឆិកា និងធ្នូ (ដែលជាចន្លោះពេលប្រមូលផលថ្មី)។ ដំឡូងមីចុះថ្លៃ ក្នុងខែមករា ដល់ខែមេសា។",
+  "caveat": "Month-by-month cell shading in the source Gantt table was read by aligning highlighted cells to the month-header row at high resolution; exact cell boundaries (e.g. whether a highlighted period starts precisely at the beginning or end of a given month) could not be verified with full pixel-level certainty, so month ranges here should be read as approximate windows rather than exact start/end dates."
+}

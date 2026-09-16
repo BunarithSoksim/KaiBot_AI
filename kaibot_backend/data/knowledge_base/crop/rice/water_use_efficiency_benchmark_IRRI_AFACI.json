@@ -1,0 +1,10 @@
+{
+  "source": "\"12 Steps for Successful Rice Production\" (ដើម្បីផលិតស្រូវបានជោគជ័យ), by Joe Rickman, Khmer adaptation by Mas Piseth, published by CARDI / IRRI / AFACI, March 2013 — no elibrary URL visible in the scanned document.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "water_use_efficiency_benchmark",
+  "text": "The booklet states that in an efficient irrigation and field-water-management system, producing 1 kg of paddy rice takes at least about 2,000 liters (2 cubic meters) of water. To use water efficiently, it recommends: leveling fields well, transplanting on time, draining the field before pesticide spraying where possible, following crop-stage-specific water needs, choosing varieties suited to available water, and harvesting on time so water isn't wasted holding a mature crop in the field.",
+  "caveat": "This 2,000 L (2 m³) per kg figure is presented as a general efficiency benchmark, not a Cambodia-specific field measurement — treat it as illustrative. Duplicate-check recommended against the repo's existing water management entries; the surrounding water-saving tips (field leveling, timely transplanting, pre-spray drainage) are likely already covered elsewhere and are included here only for context, not as new content in their own right."
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.41-42",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "plan",
+    "province": "national",
+    "topic": "field_inspection_record_forms_reference",
+    "text": "The manual's appendix includes four standardized blank field-inspection record forms (Field Inspection Level 1 through Level 4), one page per pair of forms. Each form is a fill-in template for inspectors to record: the producer group name, producer's name and ID, inspection date, the names and signatures of the two inspecting officers, and a checklist of that inspection level's specific pass/fail criteria (isolation, uniform growth percentage, disease/pest damage level, off-type presence, weed presence, etc., matching the criteria listed in the field-inspection-criteria records for registered and certified seed) with a pass (ជាប់) / fail (ធ្លាក់) checkbox for each criterion, plus a comments/remarks line. These are blank administrative templates with no filled-in example data in the source document, so no example values are extracted here — only their structure and purpose are noted."
+  }
+]

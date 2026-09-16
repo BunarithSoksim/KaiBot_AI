@@ -1,0 +1,11 @@
+[
+  {
+    "source": "MAFF — សារៈប្រយោជន៍នៃដំណាំស្រូវ (Value of the Rice Crop) slide deck, presenter contact temseng@yahoo.com, p.11 and p.18",
+    "category": "market",
+    "product": "rice",
+    "lifecycle_stage": "process",
+    "province": "national",
+    "topic": "rice_bran_oil_slide_source_anomalies_flag",
+    "text": "Two anomalies were observed on individual slides that suggest some images in this deck may have been copied in from a different, unrelated source document rather than authored fresh for this presentation: (1) the slide showing the 'ARROZA Rice Bran Oil' product (this deck's page 11) has a corrupted/garbled title rendered as unreadable characters (approximately 'eRbgqaplitBlk...ksuT§'), so the presenter's original Khmer heading for that slide could not be transcribed with confidence — only the legible product label content (rice bran oil claims) could be extracted reliably. That same slide also shows a stray page number '8' printed in its bottom-right corner, which does not match its actual position (11th page) in this deck. (2) A plain rice-field photo slide (this deck's page 18) similarly shows a stray page number '76' in its corner, again inconsistent with this deck's own pagination. These stray numbers most likely carried over from the page numbering of whatever original source document/report these particular images were copied from, rather than reflecting an error in this extraction. No rice-bran-oil product information was lost as a result — it has been captured in a separate chunk — but readers should be aware the exact original slide title for that page is unrecoverable from this copy."
+  }
+]

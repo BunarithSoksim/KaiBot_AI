@@ -1,0 +1,9 @@
+{
+  "source": "MAFF General Directorate of Agriculture, banana cultivation techniques manual, 2019, section V.1.4 (bacterial wilt)",
+  "category": "crop",
+  "product": "banana",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "disease_bacterial_wilt",
+  "text": "This disease is caused by the bacterium cited in the source as Pseudomonas solanacearum (an older name for what is now generally classified as Ralstonia solanacearum), a pathogen known to cause wilting in a wide range of crops, not just banana. It can spread rapidly through a planting, causing sudden wilting, especially of young shoots and suckers. The bacterium survives in soil and can move to healthy plants nearby; it can also rot fruit flesh internally, discoloring the pulp. Spread happens through insects that visit flowers (particularly flying insects that move bacteria-laden ooze between flowers), through contaminated irrigation water, and through cutting tools that have not been cleaned and disinfected between plants \u2014 for example during de-budding or harvesting operations.\n\nPrevention and control: dig up and destroy infected plants completely by burning; disinfect all tools used on or near infected plants; use disease-free planting material; keep the base of plants clear of weeds that could otherwise harbor insect vectors; and where an area has had confirmed infections, avoid replanting susceptible varieties immediately and consider a period of fallow or rotation with a non-host crop."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "crop",
+  "product": "radish",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "a_climate_temperature_requirements",
+  "text": "Season/climate requirements (អាកាសធាតុ, រឍូវកាល). Radish is a cool-season crop. The source indicates an optimal average growing temperature of roughly 20-25°C. When temperatures rise into the 25-30°C range and above, root quality and yield are negatively affected — consistent with radish's general sensitivity to heat stress (bolting, pithiness, reduced root quality).",
+  "caveat": "The precise wording of the temperature-effect relationship was only moderately legible in the source scan; the general cool-season preference is clear, but the exact threshold effects should be cross-checked against a clearer scan."
+}

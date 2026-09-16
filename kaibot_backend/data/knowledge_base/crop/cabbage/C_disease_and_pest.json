@@ -1,0 +1,20 @@
+[
+  {
+    "category": "crop",
+    "product": "cabbage",
+    "lifecycle_stage": "pest_disease",
+    "province": "national",
+    "topic": "diseases",
+    "source": "MAFF Department of Agricultural Extension - និយមដាំពូជឈ្មោះ Rareball",
+    "text": "ជំងឺពកបស្ស (clubroot-like) ធ្វើឲ្យស្លឹកលឿង និងស្លាបស្លឹកខាងក្រោម ធ្វើឱ្យស្ពៃដុះលូតលាស់ថយចុះពីដើមមួយទៅដើមមួយដោយសារទឹកយ៉ាងឆាប់រហ័ស។ ជំងឺរលួយបស្ស ធ្វើឱ្យលឿងស្លឹកក្រោយមកដើមធ្លាក់ស្រពោនក្រោយមកបស្សឡើងប្រែពណ៌ជាខ្មៅ ស្ពៃក្តោបមិនអាចលូតលាស់បានទៀត។ ក្រុមជំងឺបាក់តេរី (Bacterial Diseases) មាន Soft rot/Black rot បណ្ដាលមកពីមេរោគ Xanthomonas ធ្វើឱ្យរលួយបណ្ដុំស្ពៃ។ ការការពារ៖ ជ្រើសរើសពូជធន់ សម្អាតឧបករណ៍កាត់ និងប្រើថ្នាំផ្សិតដូចជា Orthocide, Zineb, Mancozeb កម្រិត ២០-២៥ក្រាមលាយទឹក ១៥លីត្រ។"
+  },
+  {
+    "category": "crop",
+    "product": "cabbage",
+    "lifecycle_stage": "pest_disease",
+    "province": "national",
+    "topic": "insect_pests",
+    "source": "MAFF Department of Agricultural Extension - និយមដាំពូជឈ្មោះ Rareball",
+    "text": "សត្វល្អិតសំខាន់ៗលើស្ពៃក្តោបមាន ៤ប្រភេទ៖ ដង្កូវយោលទោង (Diamondback moth larva) ដែលចាប់ផ្តើមបំផ្លាញពីខែ ១០-១១ រហូតដល់ខែ ១២ គឺជារដូវដែលដង្កូវនេះបំផ្លាញធ្ងន់ធ្ងរបំផុត។ ដង្កូវហ្ស៊ុងឈ្មោះ (Spodoptera SP) ធ្វើឲ្យស្លឹកខូចខាតជាបន្ទះធំៗ។ ដង្កូវសីុកំពូលស្ពៃឈ្មោះ Cabbage Webworm ដែលសីុតែកំពូលខ្ចីៗ។ សត្វទាកូ (Striped flea beetle) ដែលចាក់ទម្លុះស្លឹកឲ្យធ្លុះៗ។ ការគ្រប់គ្រងអាចប្រើប្រាស់ថ្នាំ B.T (Bacillus Thuringiensis) សម្រាប់ដង្កូវយោលទោង និងថ្នាំគីមីដូចជា Sumicidine, Sumithion, Viphos, Pegasus, Atobron Vertimex សម្រាប់សត្វល្អិតឯទៀត។ ការគ្រប់គ្រងតាមបែបកសិកម្មសាស្ត្រ (ការជ្រើសរើសរដូវ ការដាំដុះលាយ ការប្រើពូជធន់) ក៏អាចជួយកាត់បន្ថយការវាយប្រហារបានផងដែរ។"
+  }
+]

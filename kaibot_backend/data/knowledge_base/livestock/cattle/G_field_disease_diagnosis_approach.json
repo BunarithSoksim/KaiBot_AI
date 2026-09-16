@@ -1,0 +1,10 @@
+{
+  "source": "Rast, L. 2008. 'Disease Diagnosis', ACIAR AH 2005/086 workshop slides, University of Sydney (mekonglivestock.wordpress.com)",
+  "category": "livestock",
+  "product": "cattle",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "field_disease_diagnosis_approach",
+  "text": "This short trainer-facing outline sets out the basic approach to diagnosing why cattle are sick or dying in the field, since different diseases need different control measures. It lists the inputs that feed into a diagnosis: taking a history (what signs, when they started, how many animals affected/dead, any recently introduced animals, whether other species are also sick, nutrition, and any treatment already given); field observation of the animal in its normal environment including its food, water, and other animals; direct clinical examination, which requires knowing what 'normal' looks like; necropsy (post-mortem) for abnormalities and sample collection -- explicitly NOT to be done if anthrax is suspected; and laboratory samples (blood, faeces, skin scrapings, and photos from a live animal; fresh or formalin-fixed tissue and body fluids from a dead one), noting that different diseases require different sample types, correct containers/preservatives/temperature, and prompt transport to the lab.",
+  "caveat": "This source is a short trainer-facing slide outline rather than a full document; content is thin but consistent with other sources in this batch."
+}

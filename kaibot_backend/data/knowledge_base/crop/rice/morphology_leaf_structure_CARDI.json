@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 3 (Morphological characteristics of rice), by Ouk Makara, Kin Phearra and Lao Ponna, section 3.1.4 (Leaf). No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "morphology_leaf_structure_CARDI",
+  "text": "A rice plant typically produces about 10-20 leaves per main stem over its lifetime, with roughly 5-10 leaves active/green at any one time as older lower leaves senesce while new upper leaves emerge - this pattern is part of how the plant continuously supports photosynthesis for grain development throughout the growth cycle. The last leaf to emerge, just below the panicle, is called the flag leaf, and is particularly important because it contributes heavily to filling the grain during the reproductive stage. Each leaf consists of two main parts: the leaf sheath, which wraps around the stem and provides structural support, and the leaf blade, which extends outward and is the main photosynthetic surface, with a visible midrib running along its length. At the junction between sheath and blade are three small but diagnostically useful structures used to help identify rice varieties and distinguish rice from grassy weeds: the collar (a pale band at the junction), the ligule (a thin membranous flap on the inner side of the junction), and the auricles (small claw-like projections wrapping partway around the stem at the junction).",
+  "caveat": "This is detailed anatomical reference content that likely overlaps with any existing general 'plant morphology' entry in the knowledge base - recommend a duplicate-check once repo access is available. The collar/ligule/auricle detail may be a useful addition for weed-identification content (distinguishing rice seedlings from grassy weeds) if not already covered there."
+}

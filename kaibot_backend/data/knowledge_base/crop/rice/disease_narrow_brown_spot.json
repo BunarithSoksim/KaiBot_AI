@@ -1,0 +1,10 @@
+{
+  "source": "MAFF training slide deck, \"ជំងឺលើដំណំស្រូវ (Diseases on Rice crop)\" — no elibrary URL visible on the uploaded scan; publisher/date not stated in the source material.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "disease_narrow_brown_spot",
+  "text": "Narrow brown spot (ជំងឺឆុតតារតោាត) is a fungal leaf disease caused by Cercospora oryzae. It shows up as narrow, short, linear brown streaks running parallel to the leaf veins, on both the leaf blade and the leaf sheath. In severe cases these streaks can widen, with a grayish center and a darker brown-to-reddish-brown edge. The disease is most commonly seen once the rice plant has reached the flowering stage. The fungus enters through the leaf's stomata (natural leaf pores) and develops in the mesophyll tissue just under the leaf surface.",
+  "caveat": "This source did not give a separate control/management section specifically for narrow brown spot (unlike blast and brown spot, which had explicit fungicide and sanitation recommendations listed). Farmers should follow the general fungal leaf-disease practices already documented elsewhere in the KB (resistant varieties, field sanitation, balanced fertilization) rather than a disease-specific protocol, since none was given in this source."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "FAO Regional Office for Asia and the Pacific, Swine Health Management, Volume 2: Guide to Prevent and Control Porcine Reproductive and Respiratory Syndrome (RAP Publication 2012/27, Bangkok, 2012)",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "i_prrs_disease_overview",
+  "text": "Porcine reproductive and respiratory syndrome (PRRS) is a highly contagious viral disease of pigs. It is also known as mystery swine disease, blue ear disease, or swine infertility respiratory syndrome. PRRS weakens a pig's immune system, making it more likely to catch other diseases like classical swine fever (CSF) and porcine circovirus type 2 (PCV-2) at the same time, which makes the illness worse. There is no specific cure for PRRS. Southeast Asian countries including Cambodia reported outbreaks of a more severe, highly virulent strain of PRRS starting around 2010, in which many adult pigs and pregnant sows died. PRRS only infects pigs; it does not infect people. However, sick or dead pigs should never be slaughtered or eaten, and their meat or scraps should never be fed to other animals — dispose of them properly.",
+  "caveat": "Clinical signs of PRRS look similar to other pig diseases, so a confirmed diagnosis requires laboratory testing through a veterinary service, not just visual observation."
+}

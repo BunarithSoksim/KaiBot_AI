@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "general",
+  "lifecycle_stage": "general",
+  "province": "national",
+  "topic": "a_immune_system_and_antibodies",
+  "text": "The immune system is the body's defense against infectious organisms, using two main systems: macrophages, cells that engulf microbes (especially those entering through the lungs), and lymphocytes (white blood cells) that circulate the body and, on detecting a virus, bacteria, or toxin, produce antibodies to neutralize it. Antibodies are proteins made by white blood cells that lock onto a virus, bacteria, or toxin (together called an antigen). Antibodies are specific — antibodies made against FMD virus have no effect on CSF virus, which is why an FMD vaccine only protects against FMD. Once antibodies tag an antigen, 'killer cells' destroy it. Depending on the virus, antibodies can stay active from several weeks to several years, protecting the animal against a repeat attack by the same microbe."
+}

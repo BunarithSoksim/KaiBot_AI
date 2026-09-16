@@ -1,0 +1,10 @@
+{
+  "source": "CARDI (2011), \"Series on: Rice Cultivation Environment Status in Cambodia / Soil Group Classification / Key Characteristics of 10 Rice Varieties / Simple Seed Purification Method\" (Khmer, 25pp, funded by CAVAC/ACIAR, 1st printing 2011)",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "rice_variety_sen_pidor_characteristics",
+  "text": "Sen Pidor (សែនពិទូរ) is a CARDI-released rice variety (released to farmers in 2002). Duration: broadcast 110 / transplant 120 days. Plant height: 95–110 cm. Average yield: 3.5 t/ha. Productive tillers: 5–20 productive tillers/plant. Panicle length: 20–30 cm. 100-grain weight: 2.2 g. Grain length: 7.0 mm. Grain length/width slenderness index: 2.0. Grain shape: round/plump. Chalkiness: small. Translucence: translucent. Aroma: fragrant. Blast resistance: not tolerant. Drought tolerance: not tolerant. Flood/submergence tolerance: not tolerant. Market milled-rice grade: premium/fine milled rice. Recommended growing zone: irrigated dry-season, early-wet-season, upper terrace (rainfed lowland, water ≤20 cm), and flood-recession/pre-flood fields.",
+  "caveat": "One of CARDI's 10 government-prioritized rice varieties named in the 17 August 2010 national rice-production/export policy. Variety data (duration, height, yield, grain metrics, resistance ratings) transcribed from a per-variety data sheet in a scanned, encrypted PDF; Khmer spelling of the variety name may need checking (OCR of a non-standard font), and this variety's identity/spelling should be duplicate-checked against any existing KB variety entry with a similar or matching name before merging, especially given the project's standing open item on an unresolved 'Cholmol/Chulsa' identity question and the three-way transplanting-spacing discrepancy that also involves several of these named varieties. Flood-tolerance and other resistance ratings are as printed in the source and were not independently re-verified against IRRI or other literature."
+}

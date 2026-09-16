@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "poultry",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_fecal_signs_and_urinary_system",
+  "text": "The color and texture of chicken droppings is an important disease sign. Normal chicken feces are dark with a coating of white uric acid. Changes to watch for: droppings with blood can signal coccidiosis; greenish droppings can signal worms (which may also be visible directly); watery green droppings can signal Newcastle disease; brown watery droppings can signal E. coli infection. Chickens have no urinary bladder — the ureters carry urinary waste from the two kidneys to the cloaca, where uric acid is discharged and excreted with the feces; the white pasty material in droppings is this urinary excretion.",
+  "caveat": "These fecal-sign associations are presented in the source as general diagnostic indicators, not a definitive diagnosis; multiple diseases can produce overlapping signs and confirmation may need veterinary input."
+}

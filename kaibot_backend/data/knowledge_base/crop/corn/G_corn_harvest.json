@@ -1,0 +1,9 @@
+{
+  "source": "MAFF/partner document, \"ដំណំពោត\" (Corn Crop), Section V(closing): Harvest",
+  "category": "crop",
+  "product": "corn",
+  "lifecycle_stage": "harvest",
+  "province": "national",
+  "topic": "corn_harvest_maturity_signs",
+  "text": "Harvest timing varies depending on the variety planted. Farmers can judge that corn is mature/ready for harvest by observing that the plant has turned yellow, the leaves have turned yellow and dried, the husk covering the ear is dry and loose enough to peel back easily, the kernel is firm, and the moisture content inside the kernel is below 25% at the time of harvest."
+}

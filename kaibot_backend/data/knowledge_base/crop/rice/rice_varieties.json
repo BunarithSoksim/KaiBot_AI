@@ -1,0 +1,38 @@
+[
+  {
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "planning",
+    "province": "national",
+    "topic": "variety_selection_riang_chey",
+    "source": "CARDI - ពូជស្រូវល្បីៗ (Famous Rice Varieties)",
+    "text": "ពូជ Riang Chey ជាពូជស្រូវរដូវវស្សា មានអាយុកាល ១៦០-១៨០ថ្ងៃ (ប្រភេទទំពែក/ធ្ងន់)។ កសិកររកម្ចាស់ដីទំនាបគួរប្រើពូជនេះនៅដីស្រែដែលអាចទប់ទឹកបានយូរ។ ចំណាំ៖ ជាពូជផ្តល់ទិន្នផលមធ្យមទៅខ្ពស់ ដំណាំធន់ទ្រនឹងទឹកជន់កម្រិតខ្លះ សមស្របសម្រាប់តំបន់ទំនាបទឹកជន់តាមរដូវ។"
+  },
+  {
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "planning",
+    "province": "national",
+    "topic": "variety_selection_sen_pidao",
+    "source": "CARDI - ពូជស្រូវល្បីៗ (Famous Rice Varieties)",
+    "text": "ពូជ Sen Pidao ជាពូជស្រូវមិនប្រកាន់រដូវ អាចដាំបានទាំងរដូវប្រាំង និងរដូវវស្សា។ អាយុកាល ១១០-១២០ថ្ងៃ កំពស់ដើម ៩៥-១១០សម។ ទិន្នផលប្រមាណ ៣.៥-៥.៥តោនក្នុងមួយហិកតា គុណភាពគ្រាប់ស្រូវទន់ឆ្ងាញ់។ ធ្វើឡើងចេញឆ្នាំ ២០០២។ សមស្របសម្រាប់កសិករចង់បានទិន្នផលខ្ពស់ក្នុងរយៈពេលខ្លី។"
+  },
+  {
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "planning",
+    "province": "national",
+    "topic": "variety_selection_ir66",
+    "source": "CARDI - ពូជស្រូវល្បីៗ (Famous Rice Varieties)",
+    "text": "ពូជ IR 66 ជាពូជស្រូវរាបស្រាល មិនប្រកាន់រដូវ អាចដាំបានទាំងរដូវប្រាំង និងវស្សា។ អាយុកាល ១០៥-១១៥ថ្ងៃ កំពស់ដើម ៨០-១១៨សម។ ទិន្នផល ៤.០-៦.៥តោនក្នុងមួយហិកតា គុណភាពគ្រាប់ស្រូវឆ្ងាញ់ល្អ។ ជាពូជចាស់ដែលបានទទួលការទុកចិត្តពីកសិករជាច្រើនតំបន់ ព្រោះមានទិន្នផលខ្ពស់និងធន់ទ្រ។"
+  },
+  {
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "planning",
+    "province": "national",
+    "topic": "variety_selection_phka_rumduol",
+    "source": "CARDI - ពូជស្រូវល្បីៗ (Famous Rice Varieties)",
+    "text": "ពូជ Phka Rumduol ជាពូជស្រូវក្រអូបល្បីល្បាញរបស់កម្ពុជា គុណភាពគ្រាប់ខ្ពស់ សមស្របសម្រាប់ទីផ្សារនាំចេញ។ កសិករគួរពិចារណាដាំពូជនេះនៅតំបន់ដីមានជីជាតិល្អ ព្រោះជាពូជស្រូវក្រអូបដែលអាចលក់បានតម្លៃខ្ពស់ជាងស្រូវធម្មតា។"
+  }
+]

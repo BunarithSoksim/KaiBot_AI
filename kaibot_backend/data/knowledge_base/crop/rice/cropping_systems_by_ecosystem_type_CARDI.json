@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 6 (Cropping ecosystems and cultivation techniques), by Sao Suchati, Sang Lai Hong, Leng Layhok and Chen Vuthy, section 6.2. No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plant",
+  "province": "national",
+  "topic": "cropping_systems_by_ecosystem_type_CARDI",
+  "text": "This source organizes Cambodia's rice cropping systems by four ecosystem types (consistent with the ecosystem-type framework already in this knowledge base from earlier batches): dry-season/irrigated ecosystem, rainfed lowland ecosystem, deepwater ecosystem, and upland ecosystem. Two specific systems are described in additional detail: (1) Irrigated (dry-season) rice - grown where irrigation infrastructure or residual soil moisture is available, mainly along the Tonle Sap and Mekong systems, in provinces such as Kandal, Prey Veng, Kampong Cham, Svay Rieng, and Takeo; because irrigation controls water timing, farmers in these areas can plant and harvest on a controlled schedule rather than depending on rainfall, and dry-season rice often uses shorter-duration, photoperiod-insensitive varieties. (2) Flood-recession rice - planted as floodwaters recede after the wet season, relying on residual soil moisture from the retreating flood rather than active irrigation; this system is closely associated with areas around the Tonle Sap lake and along the Mekong floodplain, and depends heavily on accurately timing planting to the local flood-recession pattern.",
+  "caveat": "This content substantially overlaps with the ecosystem-type classification already documented in this knowledge base from earlier batches (pre-dating this book) - recommend a duplicate-check and likely merge rather than treating this as a standalone new topic. The province examples and irrigation-scheme details may add useful specificity if not already present in the existing ecosystem-type entry."
+}

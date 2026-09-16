@@ -1,0 +1,10 @@
+{
+  "source": "MAFF / Boosting Food Production Program (PMO), Royal Government of Cambodia — ខ្សែសង្វាក់ផលិតកម្ម ដំណាំស្វាយចន្ទីនៅកម្ពុជា (Cashew Value Chain Study in Cambodia), field survey report (250 household respondents across major cashew-growing provinces), 2017, 57pp",
+  "category": "crop",
+  "product": "cashew",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "cambodia_cashew_growing_areas_by_province",
+  "text": "Provincial distribution of cashew growing area in Cambodia, based on National Institute of Statistics (NIS) 2015 data cited in the 2017 MAFF cashew value chain study.\n\nSeven provinces were identified as the main cashew-growing areas: Ratanakiri (largest, roughly 18,000 ha), Kampong Thom (roughly 14,000 ha), Kampong Cham (roughly 10,000-10,500 ha), Kratie (roughly 8,000-8,500 ha), Tbong Khmum and Stung Treng (roughly 2,000-2,500 ha each), and Koh Kong (smallest, roughly 1,500 ha).\n\nBy 2005, Cambodia's national cashew area was about 60,894 ha producing roughly 50,000 tons, representing about 1.3% of world raw cashew production at the time (Chan, 2007). The area more than tripled by the mid-2010s.\n\nThe report notes that much of Cambodia's cashew expansion took place on land that was previously degraded, sandy, or otherwise poorly suited to other crops, consistent with cashew's role as a resilient, low-input crop for marginal land.",
+  "caveat": "Some specific figures in this source (percentages, price points, yield ranges) were transcribed from a scanned document at a resolution where certain digits were hard to confirm with full pixel-level certainty. Figures are reported as best-effort readings of the source; anyone using exact numbers for decisions should verify against the original report where possible."
+}

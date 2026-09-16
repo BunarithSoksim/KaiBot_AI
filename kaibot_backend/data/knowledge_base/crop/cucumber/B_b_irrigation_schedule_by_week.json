@@ -1,0 +1,9 @@
+{
+  "source": "B",
+  "category": "crop",
+  "product": "cucumber",
+  "lifecycle_stage": "irrigation",
+  "province": "kaoh_kong",
+  "topic": "b_irrigation_schedule_by_week",
+  "text": "A week-by-week irrigation program is given: 2 days before transplanting, run water 1h30m to check the line/pressure; transplant day, water 2h30m; weeks 1-2 (days 1-14), water daily (roughly 1h, adjusted by hand-check of soil moisture, watching young plants don't wilt); week 3 (days 15-21), water every 2 days for ~1h45m, check for pests/disease twice weekly; week 4 (days 22-28), every 2 days ~2h30m; week 5 (days 29-35), decide daily by moisture check, target ~3h30m every 2 days, checking pests/disease twice weekly; weeks 6-7 (days 36-49), every 2 days ~3h15-3h30m; week 8 (days 50-56, harvest stage), reduce to ~3h every 2 days."
+}

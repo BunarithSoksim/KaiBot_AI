@@ -1,0 +1,9 @@
+{
+  "source": "Belfield, S. and Brown, C. (2010). Guidebook on Upland Crops in Cambodia: Corn (សៀវភៅណែនាំ ស្តីពីដំណាំតំបន់ខ្ពង់រាបនៅក្នុងប្រទេសកម្ពុជា៖ ដំណាំពោត). ACIAR Monograph 143, published by the Australian Centre for International Agricultural Research (ACIAR) in partnership with NSW Department of Primary Industries, the Cambodian Agricultural Research and Development Institute (CARDI), Murdoch University, University of Canberra, and MAFF, under ACIAR Project ASEM/2000/109. Uploaded PDF, 52 pages, image-only (Limon-font-era scan, read via page rasterization).",
+  "category": "crop",
+  "product": "corn",
+  "lifecycle_stage": "sell",
+  "province": "Battambang, Pailin",
+  "topic": "corn_profitability_by_district",
+  "text": "Average corn profitability by district in Cambodia's upland growing region, based on an illustrative budget in this source (yield, price, revenue, and cost figures per hectare):\n\n- Ratanak Mondol district: yield approximately 4.0-4.3 t/ha, price $80/tonne, revenue $344/ha, production cost $199/ha, gross profit approximately $145/ha.\n- Kamrieng district: yield 4.30 t/ha, price $80/tonne, revenue $344/ha, production cost $203/ha, gross profit $141/ha.\n- Sampov Loun district: yield 4.30 t/ha, price $80/tonne, revenue $344/ha, production cost $234/ha, gross profit $110/ha.\n\nNote: the Ratanak Mondol row's printed yield figure doesn't multiply out exactly to its stated revenue figure the way the other two districts' figures do (which are internally consistent at 4.30 t/ha x $80/t = $344), suggesting either a minor rounding/typing difference in the source or that the yield figure for this district should also be read as approximately 4.30 t/ha; reported here as printed rather than corrected. These figures are illustrative for the period and location covered by this source and should not be read as current prices."
+}

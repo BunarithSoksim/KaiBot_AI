@@ -1,0 +1,9 @@
+{
+  "source": "MAFF / ADB, \"សណ្តែកបាយ\" [Bean crop — mung bean and black gram], official cultivation manual, 2005 (mung bean sections)",
+  "category": "crop",
+  "product": "mung_bean",
+  "lifecycle_stage": "harvest",
+  "province": "national",
+  "topic": "harvest_and_yield_data",
+  "text": "Harvest guidance is given jointly with black gram (see the black_gram product entry for the parallel content), and the manual reports mung bean yield data from Cambodian growing conditions in the range of roughly 560–1,500 kg/ha, with an average cited around 800–1,050 kg/ha depending on variety and management level described in the source."
+}

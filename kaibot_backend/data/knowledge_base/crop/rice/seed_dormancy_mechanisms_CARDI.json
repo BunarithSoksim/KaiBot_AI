@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 4 (Physiology), section on seed dormancy factors. No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plant",
+  "province": "national",
+  "topic": "seed_dormancy_mechanisms_CARDI",
+  "text": "Freshly-harvested rice seed commonly shows a period of dormancy before it will germinate well, caused partly by the hull and pericarp physically restricting oxygen from reaching the embryo, and partly by natural germination-inhibiting compounds in the seed coat (Matsuo et al., 1995). Wild rice species (such as Oryza rufipogon, discussed elsewhere in this knowledge base) generally have thicker seed coats and stronger, longer-lasting dormancy than cultivated Oryza sativa varieties - an evolutionary adaptation that spreads a wild population's germination out over time rather than germinating all at once (Takahashi, 1961). For seed-testing purposes, dormancy can be artificially broken in the laboratory using dilute nitric acid (0.05-0.4%) or hydrochloric acid soaks, which thin or damage the seed coat enough to let oxygen and water through more easily; this is a laboratory/seed-testing technique rather than a farm-level practice.",
+  "caveat": "The acid-treatment dormancy-breaking technique described here is a laboratory seed-testing method (used by researchers to assess germination potential of freshly-harvested seed), not a farmer-facing practical technique, and should not be presented to farmers as something to do at home. Recommend a duplicate-check against any existing seed-selection/storage content once repo access is available - natural dormancy-breaking through simple sun-drying and storage time is likely already covered there."
+}

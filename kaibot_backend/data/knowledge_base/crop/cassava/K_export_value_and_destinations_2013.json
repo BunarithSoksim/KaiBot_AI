@@ -1,0 +1,10 @@
+{
+  "source": "សៀវភៅស្ដីពីដំណាំដំឡូងមី (Book on Cassava), Part 2, UNDP-supported capacity-building programme for cassava, March 2015 (citing Men Sarom, 2015)",
+  "category": "crop",
+  "product": "cassava",
+  "lifecycle_stage": "market",
+  "province": "national",
+  "topic": "export_value_and_destinations_2013",
+  "text": "By 2013, cassava had become a strategically important economic crop for a number of Cambodian provinces, particularly those bordering Thailand and Vietnam, with dried chip as the dominant export product. The source reproduces a national export estimate table (citing Men Sarom, 2015) for dried cassava chip exported in 2013:\n\nChip exported via paved/main roads: approximately 7,632,997 tons, valued at approximately USD 538 million.\nChip exported via unpaved/village roads: approximately 300,388 tons, valued at approximately USD 22 million.\nTotal: approximately 7,933,381 tons, valued at approximately USD 556 million.\n\nThe source also cites reference domestic prices around this period of roughly 300-400 riel/kg for fresh cassava root and roughly 700 riel/kg (about USD 175/ton) for dried chip, though it notes prices fluctuate with buyer demand and season.",
+  "caveat": "The large chip-export tonnage figures were transcribed from a moderately dense table; the total-row figures (7,933,381 tons; USD 556 million) are internally consistent with the sum of the two rows (538+22=560, close to 556 allowing for rounding in the source), which supports reasonable confidence, but a repo-side or source-page re-check is recommended before treating these as authoritative trade statistics."
+}

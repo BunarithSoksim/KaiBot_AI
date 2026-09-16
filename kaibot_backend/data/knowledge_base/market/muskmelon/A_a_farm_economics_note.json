@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "market",
+  "product": "muskmelon",
+  "lifecycle_stage": "general",
+  "province": "national",
+  "topic": "a_farm_economics_note",
+  "text": "The source includes a cost/input table for a standard growing area, covering trellis materials, plastic mulch, fertilizer, and labor, intended to help a farmer estimate input cost against expected sale price per kilogram for the K2122/T778 varieties.",
+  "caveat": "The specific cost figures in the table were not reliably legible in this scan (numerals in this section were affected by the same degradation as the pest/disease section). This entry should be treated as a placeholder noting that a farm-economics table exists in the source, not as a source of verified numbers — do not quote specific costs from this entry to a farmer."
+}

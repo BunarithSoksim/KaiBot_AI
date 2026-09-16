@@ -1,0 +1,11 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.31",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "plan",
+    "province": "national",
+    "topic": "field_registration_and_signage_requirements",
+    "text": "Administrative requirements for registering a seed-production field for inspection: a member of a farmer seed-production group may only register one crop cycle of seed field at a time (they must not have an unresolved/overlapping registration), and this is meant to help enforce field isolation and traceability requirements. Field inspectors are required to be impartial and must not favor relatives or personal connections among the farmers being inspected. Each registered seed field must display a signboard in the field itself, recording: the seed-production group's name, the member's number within the group, the rice variety name, the seed class being produced (e.g. foundation/registered/certified seed), the sowing date, and the transplanting date."
+  }
+]

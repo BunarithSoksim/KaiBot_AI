@@ -1,0 +1,12 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.39",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "post_harvest",
+    "province": "national",
+    "topic": "germination_testing_method_and_calculation",
+    "text": "Standard method for testing seed germination rate: (1) Take a representative seed sample from the lot/sack and soak it in water for 24 hours. (2) Place a piece of damp paper towel/absorbent cloth into a petri dish as the germination substrate. (3) Place the soaked seed sample onto the damp substrate — 100 seeds per dish is the standard sample size — cover, and label the dish (date, sample ID). (4) Incubate and periodically check the dishes, counting how many of the 100 seeds have germinated. (5) The seed's germination rate is calculated as (number of seeds germinated ÷ total seeds tested) × 100%. Worked example given in the manual: if 95 out of 100 tested grains germinate, then 95/100 = 0.95, i.e. a 95% germination rate. The minimum acceptable germination rate for both Registered and Certified seed classes is 85% (see seed quality standards table, p.38).",
+    "confidence": "moderate"
+  }
+]

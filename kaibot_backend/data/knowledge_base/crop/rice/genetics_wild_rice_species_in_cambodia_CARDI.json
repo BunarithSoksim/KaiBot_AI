@@ -1,0 +1,10 @@
+{
+  "source": "CARDI book \"ដំណាំស្រូវនៅកម្ពុជា\" (Rice Cultivation in Cambodia), by Men Sarom, Thuy Lina and Pheng Thimuny, published by CARDI, 2007, Chapter 5 (Genetics), by Men Sarom and Kit Khunhel, section on genus Oryza species found in Cambodia. No elibrary URL visible.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "genetics_wild_rice_species_in_cambodia_CARDI",
+  "text": "Of the roughly 21-22 species recognized worldwide in the genus Oryza (see also the Batch 20 Oryza classification entry), this source identifies 11 species as occurring in Cambodia, of which 5 are wild (non-cultivated) species growing alongside farmed rice, in ricefields, roadside ditches, and seasonally-flooded areas across most provinces. One highlighted example is Oryza nivara: an annual, self-pollinating wild species closely related to both the cultivated Oryza sativa and the perennial wild species Oryza rufipogon. O. nivara is diploid (2n=24, same chromosome number as cultivated rice) and is considered by some researchers to represent an intermediate stage between the wild perennial O. rufipogon and domesticated O. sativa, since it shares habitat and can hybridize with both. These wild relatives are a genetic resource of interest for breeding programs (for traits like disease/pest resistance or stress tolerance) and their continued presence in the landscape is noted as ecologically and scientifically valuable.",
+  "caveat": "This is background genetic-diversity/germplasm-conservation content rather than a direct farming technique - useful context for understanding the source material used in variety breeding covered in the companion breeding-methods entry from this same batch. The source's full genus Oryza species table was not exhaustively transcribed here since it substantially duplicates the Oryza classification entry already delivered in Batch 20."
+}

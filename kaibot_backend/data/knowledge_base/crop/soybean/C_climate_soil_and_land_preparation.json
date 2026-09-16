@@ -1,0 +1,9 @@
+{
+  "source": "MAFF / ADB, \"ដំណាំសណ្តែកសៀង\" [Soybean crop], official cultivation manual, 2005",
+  "category": "crop",
+  "product": "soybean",
+  "lifecycle_stage": "land_prep",
+  "province": "national",
+  "topic": "climate_soil_and_land_preparation",
+  "text": "Climate requirements are covered (temperature and rainfall ranges suited to soybean), followed by soil requirements including the value of liming acid soils. Land preparation instructions describe ploughing and harrowing to a fine tilth, with the manual noting that a well-prepared seedbed is critical since soybean germination is sensitive to soil crusting and compaction."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "សៀវភៅស្ដីពីដំណាំដំឡូងមី (Book on Cassava), Part 2, UNDP-supported capacity-building programme for cassava, March 2015",
+  "category": "crop",
+  "product": "cassava",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "nutrient_management_and_soil_ph",
+  "text": "Cassava absorbs substantial amounts of soil nutrients, particularly nitrogen and potassium, because it produces large amounts of root/tuber biomass. If nutrients removed at harvest are not replenished, soil fertility declines with continuous cropping. The source recommends Integrated Nutrient Management (INM): a combined approach using both organic sources (compost, animal manure, crop residue) and mineral/chemical fertilizer to sustain soil fertility, improve soil structure and water-holding capacity, and support beneficial soil microbial activity.\n\nPractical recommendations given: incorporate cassava stem and leaf residue back into the soil after harvest rather than removing or burning it; apply organic matter (compost/manure) regularly; and where soil is acidic, consider planting a leguminous cover crop between seasons or between rows to add nitrogen through biological fixation.\n\nSuitable soil pH for cassava is given as approximately 5 to 6.5. Where pH is below about 5, the source recommends applying agricultural lime (e.g., calcium carbonate or dolomite lime) to raise pH into the suitable range and improve nutrient availability; where pH exceeds roughly 6.5, the source notes this can also reduce availability of certain micronutrients.\n\nFor mineral fertilizer, the source gives an approximate N:P:K ratio of 1:1:1, with an example application rate of 50-80 kg N, 50-80 kg P, and 80-160 kg K per hectare.",
+  "caveat": "The N:P:K rate was cross-checked against a 300dpi crop of the source page and is reported with reasonable confidence. This general nutrient-management guidance may complement, rather than duplicate, more detailed fertilizer-timing content already documented in cassava Source D (Batch 46)."
+}

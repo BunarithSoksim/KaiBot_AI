@@ -1,0 +1,10 @@
+{
+  "source": "Morais O., Cargill C., Parke K. and Barnes T. 2020. Smallholder Pig Production Technicians' Manual. Timor-Leste Ministry of Agriculture and Fisheries, University of Queensland, ACIAR and the TOMAK Program (Australian Aid), Dili.",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "housing",
+  "province": null,
+  "topic": "stocking_rates",
+  "text": "Minimum pen space needed per pig increases with weight: about 0.17m² up to 11kg, 0.22m² up to 18kg, 0.27m² up to 27kg, 0.38m² up to 35kg, 0.49m² up to 50kg, 0.60m² up to 70kg, and 0.80m² up to 100kg — based on the individual pig's weight, not its age or breed. These are minimums; adding 10–20% more space improves hygiene and growth rates. To calculate how many pigs a pen can hold: multiply the pen's length by its width, then divide by the stocking rate for that weight class (example: a 1m × 2m pen = 2m², divided by 0.27m²/pig for 27kg pigs = 7 pigs). Overcrowding increases ammonia buildup and airborne bacteria, which can cause respiratory disease and reduce growth.",
+  "caveat": "This guidance comes from a Timor-Leste smallholder pig manual, not a Cambodia-specific source. Feed ingredients and general husbandry practices transfer well to Cambodia's tropical smallholder conditions, but local breed weights/ages and disease-context details may differ; confirm specifics with a local vet or extension officer where precision matters."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "general",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_vaccine_cold_chain_and_types",
+  "text": "Vaccines contain modified or killed microbes and must be kept cold (2–8°C) all the way from production to administration — this is the 'cold chain'; only bring the vaccine to normal temperature for 2–3 minutes right before use, since breaking the cold chain makes the vaccine ineffective. There are two vaccine types: killed vaccines (pre-diluted and ready to use; unused portions can be kept cold and used over following days — e.g. the Blackleg vaccine) and live vaccines (freeze-dried into a white powder lozenge that must be reconstituted with sterile water before use — e.g. the CSF vaccine — and must be used immediately after mixing, since any leftover reconstituted vaccine cannot be kept for the next day and will be ineffective)."
+}

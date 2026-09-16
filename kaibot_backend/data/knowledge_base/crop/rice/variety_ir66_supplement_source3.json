@@ -1,0 +1,10 @@
+{
+  "source": "MAFF General Directorate of Agriculture / CAVAC rice variety catalog for production and export (elibrary source; no clear URL visible on the scanned pages provided)",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "plan",
+  "province": "national",
+  "topic": "variety_ir66_supplement_source3",
+  "text": "A third independent source (a MAFF/CAVAC catalog of Cambodia's principal rice varieties for production and export) describes IR66 (\u0189\u1785\u200b\u1780\u1780\u200b) as an early-maturing, non-photoperiod-sensitive variety. Reported figures: maturity roughly 105-115 days from sowing to harvest, plant height roughly 80-118 cm, 7-9 productive tillers per hill, panicle length roughly 21-25 cm, around 100-120+ grains per panicle, and yield roughly 3.5-5.8 tonnes/hectare. This is broadly consistent in direction (short duration, non-photoperiod-sensitive, moderate-to-good yield) with IR66 as already described in the KB, and is offered here as a supplementary data point rather than a replacement.",
+  "caveat": "The source scan had font/encoding corruption similar to other MAFF booklets processed for this KB. Numbers are a best-effort reading and should be treated as illustrative ranges, not exact lookup values."
+}

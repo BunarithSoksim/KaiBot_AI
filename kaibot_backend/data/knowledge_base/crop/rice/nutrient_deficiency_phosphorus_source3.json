@@ -1,0 +1,9 @@
+{
+  "source": "Sievphov Nenam Bochchekទesa Ampi Phalitkam Puch Sraw (Technical Guidebook on Rice Seed Production), General Directorate of Agriculture, MAFF, in collaboration with SNV Netherlands Development Organisation under the PADEE project (Project for Agricultural Development and Economic Empowerment), 2014. No elibrary URL is visible on the scanned pages; this is the descriptive source citation.",
+  "category": "crop",
+  "product": "rice",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "nutrient_deficiency_phosphorus_source3",
+  "text": "Phosphorus deficiency (ជំងឺខ្វះសារធាតុផូស្វ័រ) as described in this source: plants show stunted, upright/narrow growth habit; few leaves, with a dark, old-green color; lower and older leaves turn a distinctive yellow-orange to reddish-purple; and tillering is poor. Recommended response: apply a balanced N-P-K basal fertilizer at planting, then topdress after the tillering stage, roughly 15 days after transplanting. Cross-reference note: this is now the third independently observed MAFF-line source describing a phosphorus-titled deficiency, after the original flagged entry (`phosphorus_deficiency_FLAGGED.json`) and a second source in Batch 9 that showed a phosphorus-heading/potassium-body mismatch (`nutrient_deficiency_phosphorus_potassium_title_mismatch_FLAGGED.json`). Unlike those two, this source's symptom description - reddish-purple/orange discoloration of lower leaves, stunted upright growth, and poor tillering - matches the classic phosphorus deficiency pattern found in general agronomic reference material, without the earlier title/body mismatch. It has not been marked FLAGGED because its own internal description is consistent, but it is worth comparing side-by-side against the two flagged entries before the open phosphorus/potassium question is formally closed, since it's possible this third source is simply a cleaner restatement of the same underlying reference material."
+}

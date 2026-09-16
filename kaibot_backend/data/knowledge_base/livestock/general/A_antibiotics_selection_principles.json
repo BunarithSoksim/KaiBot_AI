@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "general",
+  "lifecycle_stage": "raise",
+  "province": "national",
+  "topic": "a_antibiotics_selection_principles",
+  "text": "Selecting the right antibiotic starts with confirming the disease is actually bacterial — antibiotics cannot help against viral, parasitic, or nutritional-deficiency disease. Identifying the specific bacteria matters too: for example, coughing in fattening pigs treated with Amoxicillin may improve briefly (it's effective against Pasteurella) but relapse, because Pasteurella is often a secondary infection following damage from Mycoplasma, a bacterium with no cell wall that Amoxicillin (and the whole Betalactamine family) cannot touch — an antibiotic effective against both, like Tetracycline or Florfenicol, is more successful. Secondary infections are also common with viral disease: a virus-sick animal is weak, eats/drinks little, and this opens the door for bacteria — e.g. pigs with CSF often develop Salmonella-caused diarrhea and Pasteurella-caused coughing after a few days, so broad-spectrum antibiotics like TMP+Sulfa are recommended to limit secondary infection."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "TSTD, comprehensive mung bean cultivation manual, \"សណ្តែកបាយ\" [Mung bean], 2013",
+  "category": "crop",
+  "product": "mung_bean",
+  "lifecycle_stage": "land_prep",
+  "province": "national",
+  "topic": "land_preparation_and_sowing_methods",
+  "text": "Three direct-seeding methods are described and compared: broadcast sowing (fast but less uniform stand and harder to weed between rows), drilling (seed placed along furrows/rows, giving a more even stand and easier mechanical/inter-row weeding), and row/dibbling (seed placed in individual holes at fixed spacing, most labor-intensive but most precise on seed rate and spacing). The manual discusses trade-offs between speed of planting and resulting stand uniformity/ease of later management for each method, letting farmers choose based on labor availability and field scale.\n\nThinning is covered for broadcast and drilled stands to remove excess seedlings and reach the target plant population, and weeding guidance follows, timed to before weeds compete seriously with the young crop."
+}

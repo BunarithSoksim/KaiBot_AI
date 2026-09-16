@@ -1,0 +1,12 @@
+[
+  {
+    "source": "APPP / MAFF-JICA — Rice Seed Production Manual (សៀវភៅមគ្គទេសក៍ផលិតកម្មពូជស្រូវ), 2014, Agricultural Productivity Promotion Project in West Tonle Sap, p.43",
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "grow",
+    "province": "national",
+    "topic": "rice_disease_identification_and_chemical_control_table",
+    "text": "Appendix reference table of major rice diseases and chemicals reported usable against them (brand names as listed in the source; active ingredients where given): Rice Blast (ជំងឺផ្លាស់) — usable products: Sawant 400EC, Carbenzim 500FL, Sanasa 100SC, Tanaxa 700WP, Flash 75WP. Bacterial Leaf Blight (ជំងឺលោកស្លឹកបង្កដោយបាក់តេរី) — the source lists 'not identified' / no specific chemical control confirmed. Sheath Blight (ជំងឺលោកស្រទាប់ស្លឹក) — usable products: Sakata 500SC, Validan 5SL. Rice Stripe Virus (ជំងឺផ្ដុះស្រូវ, a virus) — there is no chemical that directly controls the virus; control instead targets its insect vector, the Brown Planthopper, first. Chemicals usable against the vector: Action 5SC, Nato 55EC, Secsaigon 25EC, Osin 50WP. Product names/formulations are as of the 2014 manual and may not reflect currently registered or available agrochemical products.",
+    "confidence": "moderate"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "source": "VVOB (Vlaamse Vereniging voor Ontwikkelingssamenwerking en Technische Bijstand), Kandal Provincial Department of Agriculture extension officer booklet \"ដំណាំល្ហុង\" (Papaya), 2010",
+  "category": "crop",
+  "product": "papaya",
+  "lifecycle_stage": "land_prep",
+  "province": "Kandal",
+  "topic": "general_growing_conditions",
+  "text": "The booklet's cultivation section opens by stating that papaya needs good, fertile soil with reliable drainage, and specifically warns that the crop does not tolerate standing/waterlogged conditions at the roots.",
+  "caveat": "This source's second page (covering detailed planting technique, spacing, fertilizing schedule, and pest/disease management) was too fragmented and garbled in the scanned image to transcribe reliably — short disconnected words and numbers rather than readable sentences, similar to the Limon-font corruption issue seen in earlier MAFF batches. Per the honesty-over-reconstruction rule, that page's content was not reconstructed or guessed at and is omitted from this batch. If a cleaner copy of this VVOB booklet is obtained later, its page 2 (planting technique, disease/pest control, and harvest sections) should be revisited."
+}

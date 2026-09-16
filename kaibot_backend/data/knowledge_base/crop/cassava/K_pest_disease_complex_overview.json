@@ -1,0 +1,10 @@
+{
+  "source": "សៀវភៅស្ដីពីដំណាំដំឡូងមី (Book on Cassava), Part 2, UNDP-supported capacity-building programme for cassava, March 2015",
+  "category": "crop",
+  "product": "cassava",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "pest_and_disease_complex_overview",
+  "text": "This source includes a chapter-length pest and disease complex section covering mealybugs (including natural predators such as Anagyrus lopezi, an introduced parasitoid wasp used for biological control originating from the pest's native range), scale insects (including Parasaissetia nigra), whitefly (vector of viral disease, associated with leaf curling and chlorosis symptoms), Phytophthora root rot (associated with waterlogged soil and poor drainage, with biological control using Trichoderma viride mentioned as a soil-applied option), and viral diseases including Cassava Mosaic Disease (CMD) and Cassava Brown Streak Disease (CBSD), the latter associated with brown streaking symptoms and root necrosis and noted as a serious emerging concern warranting monitoring for clean planting material and vector (whitefly) control.",
+  "caveat": "This pest/disease content substantially overlaps with material already documented in cassava Sources E, G, H, and I (Batch 46), which cover whitefly/CMD, mealybug, mite, and several named diseases in more detail. This entry is intentionally condensed to avoid duplicating that content; the one addition worth flagging is this source's explicit mention of Cassava Brown Streak Disease (CBSD) by name alongside CMD, which should be cross-checked against Source G's disease list to confirm whether CBSD was already captured there or is a genuinely new addition to the knowledge base."
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "plant",
+    "province": "national",
+    "topic": "seed_quality_standard_rice_department_english_table",
+    "source": "MAFF (Department of Rice Crop) - Rice Seed Standard of Rice Department (English table), សិក្ខាសាលាថ្នាក់ជាតិ ០១ តុលា ២០១៤",
+    "text": "តារាងស្តង់ដារត្រាប់ពូជស្រូវរបស់នាយកដ្ឋានដំណាំស្រូវ (Rice Seed Standard of Rice Department), ជាភាសាអង់គ្លេសក្នុងឯកសារដើម៖ Pure seed (min) 98% ចំពោះគ្រប់ថ្នាក់ (Breeder/Foundation/Registered/Certified). Other variety (max): Breeder=None, Foundation=1 in 1000g, Registered=15 in 500g, Certified=20 in 500g. Red rice (max): Breeder=None, Foundation=None, Registered=5 in 500g, Certified=10 in 500g. Inert matter (max)=2% ចំពោះគ្រប់ថ្នាក់។ Germination (min)=85% ចំពោះគ្រប់ថ្នាក់។ Moisture (max)=14% ចំពោះគ្រប់ថ្នាក់។"
+  },
+  {
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "plant",
+    "province": "national",
+    "topic": "seed_quality_standard_khmer_national_table",
+    "source": "MAFF (Department of Rice Crop) - ២.២ ស្តង់ដារគុណភាពត្រាប់ពូជ (តារាងខ្មែរ), សិក្ខាសាលាថ្នាក់ជាតិ ០១ តុលា ២០១៤",
+    "text": "តារាងស្តង់ដារគុណភាពត្រាប់ពូជជាភាសាខ្មែរ (២.២ ស្តង់ដារគុណភាពត្រាប់ពូជ) ប្រៀបធៀបគ្រាប់ពូជទទួលស្គាល់ (Registered), ត្រាប់ពូជអនុញ្ញាត (Certified), និងត្រាប់ពូជល្អ (Good)៖ ពូជសុទ្ធ (អប្បបរិមា)=៩៨% ចំពោះគ្រប់ថ្នាក់។ ពូជផ្សេងៗ (អតិបរិមា): ទទួលស្គាល់=១គ្រាប់/គ.ក្រ, អនុញ្ញាត=១៥គ្រាប់/០.៥គ.ក្រ, ល្អ=២០គ្រាប់/០.៥គ.ក្រ។ ស្រូវក្រហម (អតិបរិមា): ទទួលស្គាល់=គ្មាន, អនុញ្ញាត=៥គ្រាប់/០.៥គ.ក្រ, ល្អ=១០គ្រាប់/០.៥គ.ក្រ។ ចំនួនគ្រាប់ស្មៅ (អតិបរិមា): ទទួលស្គាល់=១០គ្រាប់/គ.ក្រ, អនុញ្ញាត=១០គ្រាប់/០.៥គ.ក្រ, ល្អ=១៥គ្រាប់/០.៥គ.ក្រ។ កំទេចកំទី (អតិបរិមា)=២% ចំពោះគ្រប់ថ្នាក់។ ដុះគ្រាប់ (អប្បបរិមា)=៨០% ចំពោះគ្រប់ថ្នាក់។ សំណើមគ្រាប់ (អតិបរិមា)=១៤% ចំពោះគ្រប់ថ្នាក់។",
+    "caveat": "ក្នុងឯកសារដដែលមានតារាងជាភាសាខ្មែរដដែលបានធ្វើម្តងទៀត ដោយដាក់ចំណងជើងថា '(Kompong Thom)' ដោយប្រើលេខដដែលទាំងស្រុង (ប្រហែលជាឧទាហរណ៍ថ្នាក់ខេត្ត ប្រើតម្លៃស្តង់ដារជាតិដដែល) — មិនមានទិន្នន័យជាក់លាក់ខុសពីតារាងជាតិឡើយ។"
+  },
+  {
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "plant",
+    "province": "national",
+    "topic": "seed_quality_standard_germination_discrepancy_flag",
+    "source": "cross-check within MAFF - សិក្ខាសាលាពិគ្រោះយោបល់ថ្នាក់ជាតិ ស្តីពីពូជដំណាំ, ០១ តុលា ២០១៤",
+    "text": "រកឃើញភាពខុសគ្នារវាងតារាងទាំងពីរនៅក្នុងឯកសារតែមួយ៖ តារាងអង់គ្លេស 'Rice Seed Standard of Rice Department' កំណត់ Germination (min) = 85% សម្រាប់គ្រប់ថ្នាក់ត្រាប់ពូជ (Breeder/Foundation/Registered/Certified)។ ប៉ុន្តែតារាងខ្មែរ '២.២ ស្តង់ដារគុណភាពត្រាប់ពូជ' (សម្រាប់ត្រាប់ពូជទទួលស្គាល់/អនុញ្ញាត/ល្អ) កំណត់ ដុះគ្រាប់ (អប្បបរិមា) = ៨០% ប៉ុណ្ណោះ។ ប្រភពមិនបានពន្យល់ពីមូលហេតុនៃភាពខុសគ្នានេះទេ — អាចជាតម្រូវការខុសគ្នារវាងថ្នាក់ Breeder/Foundation (85%) និងថ្នាក់ខាងក្រោម Registered/Certified/Good (80%) ក៏ថាបាន ឬក៏ជាកំហុសក្នុងការបោះពុម្ព។ ត្រូវផ្ទៀងផ្ទាត់ជាមួយស្តង់ដារផ្លូវការចុងក្រោយបំផុតរបស់នាយកដ្ឋានដំណាំស្រូវ។"
+  }
+]

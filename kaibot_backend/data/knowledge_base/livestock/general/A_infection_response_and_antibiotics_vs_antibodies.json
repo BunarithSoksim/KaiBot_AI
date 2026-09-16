@@ -1,0 +1,9 @@
+{
+  "source": "A",
+  "category": "livestock",
+  "product": "general",
+  "lifecycle_stage": "general",
+  "province": "national",
+  "topic": "a_infection_response_and_antibiotics_vs_antibodies",
+  "text": "Symptoms of infection depend on which organ the microbes target — e.g. E. coli multiplying in the intestine causes diarrhea, Pasteurella multiplying in the lungs causes pneumonia (coughing, rapid breathing, nasal discharge); when harmful microbes spread through the bloodstream throughout the body, it is called septicemia, with severe symptoms (high temperature, depression) and potential rapid death. The body's first response is macrophages engulfing microbes, especially in the lungs — but this defense weakens when the animal is already weak or sick (e.g. PRRS destroys macrophages, opening the door to Pasteurella; Mycoplasma damages the respiratory lining, letting microbes multiply more easily); healthy animals in good condition fight infection better. The second response is antibody production, but this takes several days — a highly pathogenic microbe can multiply and invade organs/bloodstream faster than the body can respond, seriously sickening or killing the animal, whereas a healthy animal can resist longer while antibodies build up. Antibiotics can kill or stop bacteria but have no effect on viruses, where antibody production is the only real defense; vets often still give antibiotics to virus-infected animals because the resulting weakness lets secondary bacterial infections take hold (e.g. fattening pigs with CSF commonly develop secondary Pasteurella or Salmonella infection)."
+}

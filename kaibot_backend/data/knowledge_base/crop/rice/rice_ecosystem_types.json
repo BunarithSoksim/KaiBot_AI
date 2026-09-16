@@ -1,0 +1,29 @@
+[
+  {
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "planning",
+    "province": "national",
+    "topic": "ecosystem_rainfed_upland",
+    "source": "CARDI - ប្រព័ន្ធអេកូឡូស៊ីនៃដំណាំស្រូវ (Rice Ecosystem)",
+    "text": "ស្រូវចំការ (Rainfed upland rice) ដាំនៅតំបន់ខ្ពស់ដែលមិនមានទឹកជន់ អាស្រ័យតែលើទឹកភ្លៀងទាំងស្រុង។ សមស្របសម្រាប់ដីជម្រាលឬតំបន់ភ្នំដែលមិនអាចស្តុកទឹកបាន។ ត្រូវជ្រើសរើសពូជធន់ទ្រនឹងភាពរាំងស្ងួត ព្រោះទឹកមិនអាចគ្រប់គ្រងបាន។"
+  },
+  {
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "planning",
+    "province": "national",
+    "topic": "ecosystem_rainfed_lowland",
+    "source": "CARDI - ប្រព័ន្ធអេកូឡូស៊ីនៃដំណាំស្រូវ (Rice Ecosystem)",
+    "text": "ស្រូវទំនាបទឹកភ្លៀង (Rainfed lowland rice) ជាប្រភេទដែលដាំច្រើនបំផុតនៅកម្ពុជា ដាំក្នុងស្រែទំនាបដែលអាចផ្ទុកទឹកភ្លៀងបានកម្រិតមួយ។ បែងចែកជាបីក្រុមតាមអាយុកាល៖ ស្រូវស្រាល (Early) ស្រូវកណ្តាល (Medium) និងស្រូវធ្ងន់ (Late)។ កសិករគួរជ្រើសរើសប្រភេទអាយុកាលអោយសមស្របទៅនឹងកាលបរិច្ឆេទចាប់ផ្តើមភ្លៀងក្នុងតំបន់របស់ខ្លួន។"
+  },
+  {
+    "category": "crop",
+    "product": "rice",
+    "lifecycle_stage": "planning",
+    "province": "national",
+    "topic": "ecosystem_deepwater_floating",
+    "source": "CARDI - ប្រព័ន្ធអេកូឡូស៊ីនៃដំណាំស្រូវ (Rice Ecosystem)",
+    "text": "ស្រូវជម្រៅឬស្រូវលើងទឹក (Deepwater and Floating Rice) ដាំនៅតំបន់ទំនាបទឹកជន់ជ្រៅជិតទន្លេ ដែលដើមស្រូវអាចលូតលាស់វែងតាមកម្រិតទឹកកើនឡើង។ ត្រូវប្រើពូជពិសេសដែលមានលក្ខណៈលូតលាស់លឿននិងវែង។ ការគ្រប់គ្រងទឹកមិនអាចធ្វើបានទេ ព្រោះស្រូវប្រភេទនេះពឹងផ្អែកលើទឹកជំនន់ធម្មជាតិ។"
+  }
+]

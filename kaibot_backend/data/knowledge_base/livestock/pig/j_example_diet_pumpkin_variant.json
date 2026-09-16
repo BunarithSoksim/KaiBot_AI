@@ -1,0 +1,10 @@
+{
+  "source": "Morais O., Cargill C., Parke K. and Barnes T. 2020. Smallholder Pig Production Technicians' Manual. Timor-Leste Ministry of Agriculture and Fisheries, University of Queensland, ACIAR and the TOMAK Program (Australian Aid), Dili.",
+  "category": "livestock",
+  "product": "pig",
+  "lifecycle_stage": "feeding",
+  "province": null,
+  "topic": "example_diet_pumpkin_variant",
+  "text": "When pumpkin is available it can replace part of the rice bran: one tested ration uses rice bran (35%), milled corn (20%), dried fish (5%), pumpkin (10%), and fresh leaves (30%), giving about 12.1 MJ/kg energy and 16.6% protein. A further variant adds coconut: rice bran (40%), milled corn (15%), dried fish (5%), pumpkin (10%), coconut (10%), and fresh leaves (20%), giving about 13.6 MJ/kg energy and 15.6% protein. Both diets follow the same twice-a-day feeding pattern, with quantities scaled to the pig's weight the same way as the rice-bran/corn/fish diet.",
+  "caveat": "This guidance comes from a Timor-Leste smallholder pig manual, not a Cambodia-specific source. Feed ingredients and general husbandry practices transfer well to Cambodia's tropical smallholder conditions, but local breed weights/ages and disease-context details may differ; confirm specifics with a local vet or extension officer where precision matters."
+}

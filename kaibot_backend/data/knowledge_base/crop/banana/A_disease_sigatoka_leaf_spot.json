@@ -1,0 +1,9 @@
+{
+  "source": "MAFF General Directorate of Agriculture, banana cultivation techniques manual, 2019, section V.1.2 (Sigatoka leaf spot)",
+  "category": "crop",
+  "product": "banana",
+  "lifecycle_stage": "grow",
+  "province": "national",
+  "topic": "disease_sigatoka_leaf_spot",
+  "text": "This leaf spot disease is caused by the fungus Cercospora musae (cited in the source as Crcospora musae) and is described as very common on banana. Small yellow spots first appear on the leaf, usually visible on the underside first, then enlarge and turn brown with a yellow halo around each lesion. As the disease develops, the affected leaf tissue dies, the leaf dries and curls, and neighboring spots merge into larger dead patches. Older leaves are affected first. Because damaged leaf tissue can no longer photosynthesize effectively, heavy infection reduces overall plant vigor, fruit yield, and the number of usable hands per bunch.\n\nPrevention and control: promptly remove and destroy heavily infected leaves to reduce the amount of fungal inoculum in the field; apply copper oxychloride fungicide roughly once every 2-3 weeks during high-risk periods, and rotate with fungicides such as Mancozeb or Benomyl to reduce the chance of the fungus developing resistance to any single product."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "B",
+  "category": "crop",
+  "product": "cucumber",
+  "lifecycle_stage": "irrigation",
+  "province": "kaoh_kong",
+  "topic": "b_drip_irrigation_setup",
+  "text": "Drip irrigation is the recommended watering method for commercial cucumber: it saves labor, delivers water precisely to the root zone, allows fertilizer to be fed through the same line (fertigation), avoids wasting water on non-root areas, and creates conditions less favorable to some diseases compared to overhead watering. A standard drip line (P1) has 16mm outer diameter, drip emitters spaced 20cm apart each delivering about 2.1 liters/hour at 1 bar pressure, with one roll covering about 1,000 m². Two setup options exist: (1) pressurized delivery direct from a water pump, or (2) gravity-fed from an elevated water tank/drum."
+}

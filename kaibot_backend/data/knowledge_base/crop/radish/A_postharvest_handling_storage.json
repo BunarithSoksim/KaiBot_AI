@@ -1,0 +1,10 @@
+{
+  "source": "A",
+  "category": "crop",
+  "product": "radish",
+  "lifecycle_stage": "process",
+  "province": "national",
+  "topic": "a_postharvest_handling_storage",
+  "text": "Post-harvest handling and storage (ការរក្សាទុក). Harvest method: pull the roots and set them near the field for initial sorting, then trim off the leaves and move the roots to a cool, shaded area — do not leave harvested roots exposed to direct sunlight. Washing before storage or transport is generally discouraged, since washing shortens shelf life and makes roots more prone to damage in transit; keeping roots clean but unwashed is preferred for storage. For longer-term storage, roots can be kept in cold storage, with temperature lowered to around -4°C, which helps control the microbes that cause the roots to rot. Reported average national yield for this crop in Cambodia is roughly 28-32 tons per hectare, varying with growing season.",
+  "caveat": "The source mentions a related short-duration figure (around 40 hours) in the same storage passage, which may refer to a specific pre-cooling or handling step rather than total shelf life; this detail was not clear enough to confidently place in context and was left out rather than guessed."
+}
