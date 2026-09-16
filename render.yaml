@@ -1,0 +1,61 @@
+# Render Blueprint: deploys all three pieces of Mit Chomkar / SmartKasekor
+# together. Push this repo to GitHub, then in Render: New -> Blueprint,
+# point it at the repo, and Render creates these three services from this
+# file. Env vars marked `sync: false` are secrets -- Render will prompt you
+# to fill them in via its dashboard rather than reading them from this file
+# (never commit real key values here).
+services:
+  # --- FastAPI backend (chat + tts endpoints) ---
+  - type: web
+    name: smartkasekor-api
+    runtime: docker
+    dockerfilePath: ./kaibot_backend/Dockerfile
+    dockerContext: ./kaibot_backend
+    healthCheckPath: /health
+    disk:
+      # Persists the Chroma vector store across deploys/restarts. Without
+      # this, every restart starts with an empty index until you re-run
+      # the ingest job below, which costs real Gemini embedding-API calls.
+      name: chroma-store
+      mountPath: /app/chroma_store
+      sizeGB: 1
+    envVars:
+      - key: KAIBOT_LLM_PROVIDER
+        value: gemini
+      - key: KAIBOT_LLM_MODEL
+        value: gemini-3.6-flash
+      - key: KAIBOT_EMBEDDING_PROVIDER
+        value: gemini
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: KAIBOT_STT_PROVIDER
+        value: mock # set to "google" once GOOGLE_APPLICATION_CREDENTIALS is wired up (see notes)
+      - key: KAIBOT_TTS_PROVIDER
+        value: mock
+      - key: KAIBOT_MIN_SIMILARITY_SCORE
+        value: "0.665"
+      - key: KAIBOT_MIN_SIMILARITY_SCORE_PRODUCT_MATCH
+        value: "0.5"
+
+  # --- Telegram bot (long-running poller, calls the API above over HTTP) ---
+  - type: worker
+    name: smartkasekor-telegram-bot
+    runtime: docker
+    dockerfilePath: ./kaibot_backend/Dockerfile
+    dockerContext: ./kaibot_backend
+    dockerCommand: python src/telegram_bot/bot.py
+    envVars:
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: KAIBOT_API_BASE_URL
+        # Fill in with the smartkasekor-api service's Render URL once it's
+        # deployed (e.g. https://smartkasekor-api.onrender.com) -- Render
+        # can't self-reference another service's URL in this file.
+        sync: false
+
+  # --- Static chat frontend (chat.html / index.html) ---
+  - type: web
+    name: smartkasekor-frontend
+    runtime: static
+    staticPublishPath: ./
+    buildCommand: "true" # no build step; plain static HTML/JS

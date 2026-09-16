@@ -1,0 +1,10 @@
+# Never bake secrets or local-only state into the image.
+.env
+gcp_service_account.json
+chroma_store/
+
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+tests/
