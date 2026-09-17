@@ -29,9 +29,16 @@ services:
       - key: GEMINI_API_KEY
         sync: false
       - key: KAIBOT_STT_PROVIDER
-        value: mock # set to "google" once GOOGLE_APPLICATION_CREDENTIALS is wired up (see notes)
+        value: google
       - key: KAIBOT_TTS_PROVIDER
-        value: mock
+        value: google
+      - key: GOOGLE_APPLICATION_CREDENTIALS_JSON
+        # Paste the *entire contents* of your GCP service account JSON key
+        # file as this variable's value in the Render dashboard (not a file
+        # path -- Render Blueprints can't upload file content). config.py
+        # writes it to disk at startup and points
+        # GOOGLE_APPLICATION_CREDENTIALS at that path automatically.
+        sync: false
       - key: KAIBOT_MIN_SIMILARITY_SCORE
         value: "0.665"
       - key: KAIBOT_MIN_SIMILARITY_SCORE_PRODUCT_MATCH

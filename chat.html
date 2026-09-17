@@ -381,13 +381,15 @@
     else window.addEventListener('load', hide);
   })();
 
-  // Points at localhost for local dev. When this file is deployed as its
-  // own static site (see render.yaml), it's served from a different origin
-  // than the FastAPI backend, so this must be the backend's public URL
-  // (e.g. "https://smartkasekor-api.onrender.com") -- edit before deploying.
+  // Local dev talks to uvicorn directly. In production, Caddy (see
+  // Caddyfile) reverse-proxies /chat, /chat/voice, /tts, and /health to the
+  // API container on the *same* domain as this static file, so "" (relative
+  // paths) just works and avoids CORS entirely. If you instead deploy the
+  // frontend and backend as separate origins (e.g. the render.yaml path,
+  // two different service URLs), replace "" with the backend's full URL.
   const API_BASE = location.hostname === "127.0.0.1" || location.hostname === "localhost"
     ? "http://127.0.0.1:8000"
-    : "https://smartkasekor-api.onrender.com";
+    : "";
 
   const ICON_VOLUME = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>`;
   const ICON_MUTE = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><line x1="23" y1="9" x2="17" y2="15"/><line x1="17" y1="9" x2="23" y2="15"/></svg>`;

@@ -1,0 +1,57 @@
+# For self-hosting on a free-tier VM (e.g. Oracle Cloud "Always Free"),
+# where you get a real persistent disk and can run long-lived processes --
+# unlike most PaaS free tiers, which gate persistent disks and background
+# workers behind a paid plan. Runs all three pieces (API, Telegram bot,
+# HTTPS reverse proxy) as one stack.
+#
+# Usage on the VM:
+#   1. git clone the repo, cd into it
+#   2. put real secrets in kaibot_backend/.env (never commit it)
+#   3. edit Caddyfile: replace "your-domain.com" with your real domain
+#   4. point your domain's DNS A record at the VM's public IP first --
+#      Caddy needs that to succeed before it can get a Let's Encrypt cert
+#   5. docker compose up -d --build
+#   6. one-time: docker compose exec api python -m rag.ingest
+services:
+  api:
+    build:
+      context: ./kaibot_backend
+    restart: unless-stopped
+    env_file:
+      - ./kaibot_backend/.env
+    volumes:
+      # Named volume, not a bind mount: survives `docker compose down` and
+      # rebuilds, so the vector index doesn't need re-embedding (real
+      # Gemini API calls, several minutes) every time the stack restarts.
+      - chroma_store:/app/chroma_store
+    expose:
+      - "8000"
+
+  telegram-bot:
+    build:
+      context: ./kaibot_backend
+    restart: unless-stopped
+    env_file:
+      - ./kaibot_backend/.env
+    command: python src/telegram_bot/bot.py
+    depends_on:
+      - api
+
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile
+      - ./:/srv/frontend:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - api
+
+volumes:
+  chroma_store:
+  caddy_data:
+  caddy_config:

@@ -14,6 +14,30 @@ CHROMA_PERSIST_DIR = BASE_DIR / "chroma_store"
 KNOWLEDGE_BASE_DIR = BASE_DIR / "data" / "knowledge_base"
 
 
+def _materialize_gcp_credentials() -> None:
+    """
+    Most hosts (Render included) have no clean way to upload a real file
+    with secret *content* via a blueprint/IaC config -- only secret env
+    vars. So GOOGLE_APPLICATION_CREDENTIALS_JSON carries the whole service
+    account key as one env var, and this writes it to disk once at startup
+    and points GOOGLE_APPLICATION_CREDENTIALS at that path, which is what
+    google-cloud-speech/texttospeech actually read. Local dev is
+    unaffected: it already sets GOOGLE_APPLICATION_CREDENTIALS directly to
+    a file on disk, so this is a no-op there.
+    """
+    if os.getenv("GOOGLE_APPLICATION_CREDENTIALS"):
+        return
+    raw_json = os.getenv("GOOGLE_APPLICATION_CREDENTIALS_JSON")
+    if not raw_json:
+        return
+    cred_path = BASE_DIR / "gcp_service_account.runtime.json"
+    cred_path.write_text(raw_json, encoding="utf-8")
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = str(cred_path)
+
+
+_materialize_gcp_credentials()
+
+
 @dataclass
 class Settings:
     # --- LLM ---

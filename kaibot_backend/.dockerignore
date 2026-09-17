@@ -1,6 +1,7 @@
 # Never bake secrets or local-only state into the image.
 .env
 gcp_service_account.json
+gcp_service_account.runtime.json
 chroma_store/
 
 .venv/
