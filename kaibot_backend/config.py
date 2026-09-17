@@ -43,7 +43,12 @@ class Settings:
     # --- LLM ---
     llm_provider: str = os.getenv("KAIBOT_LLM_PROVIDER", "mock")
     llm_model: str = os.getenv("KAIBOT_LLM_MODEL", "gemini-3.6-flash")
-    max_output_tokens: int = 1000
+    # 1000 was too tight: gemini-3.6-flash appears to write an internal
+    # formatting self-check ("no Markdown", "simple English", etc.) before
+    # its actual answer, and 1000 tokens was sometimes exhausted before it
+    # ever reached the real content -- observed both a response that was
+    # only the self-check notes, and one cut off mid-sentence.
+    max_output_tokens: int = int(os.getenv("KAIBOT_MAX_OUTPUT_TOKENS", "4000"))
     # Without this, a stalled network call to the Gemini API blocks forever
     # (observed: a single hung request stuck a process for 1h49m with the
     # client never timing out or raising). Applies to both the LLM and
