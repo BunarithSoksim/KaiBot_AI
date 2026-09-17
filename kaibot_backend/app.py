@@ -43,6 +43,12 @@ class ChatRequest(BaseModel):
     province: str | None = None
     category: str | None = None  # "crop" | "livestock" | "market"
     language: str = "km"  # "km" | "en"
+    # Set by other intern projects embedding this API to also get "how do I
+    # use this app" answers scoped to their own project only -- see
+    # docs/PROJECT_INTEGRATION.md. Omit entirely for farming-only callers
+    # (the web UI, the Telegram bot); a caller that provides this can never
+    # see another project's docs, only its own plus general farming content.
+    project_id: str | None = None
 
 
 class TTSRequest(BaseModel):
@@ -65,9 +71,16 @@ def chat(req: ChatRequest) -> ChatResponse:
         return ChatResponse(answer=answer_smalltalk(req.question, language=language), low_confidence=False, sources=[])
 
     try:
-        result = retriever.retrieve(req.question, province_filter=req.province, category_filter=req.category)
+        result = retriever.retrieve(
+            req.question, province_filter=req.province, category_filter=req.category, project_id=req.project_id
+        )
 
-        if result.low_confidence and is_offtopic(req.question):
+        # The offtopic classifier only knows "farming vs. not" -- it has no
+        # notion of an arbitrary intern project's domain, so a poorly-
+        # matched project question would get wrongly told "that's not a
+        # farming question" instead of the honest low-confidence message.
+        # Skip it whenever a project context is in play.
+        if result.low_confidence and req.project_id is None and is_offtopic(req.question):
             return ChatResponse(answer=_offtopic_message(language), low_confidence=False, sources=[])
 
         response = answer_question(req.question, result.chunks, result.low_confidence, language=language)
@@ -91,6 +104,7 @@ async def chat_voice(
     province: str | None = Form(None),
     category: str | None = Form(None),
     language: str | None = Form(None),
+    project_id: str | None = Form(None),
 ) -> ChatResponse:
     from voice.stt_tts import get_stt  # local import keeps startup light
 
@@ -107,9 +121,11 @@ async def chat_voice(
         )
 
     try:
-        result = retriever.retrieve(transcription.text, province_filter=province, category_filter=category)
+        result = retriever.retrieve(
+            transcription.text, province_filter=province, category_filter=category, project_id=project_id
+        )
 
-        if result.low_confidence and is_offtopic(transcription.text):
+        if result.low_confidence and project_id is None and is_offtopic(transcription.text):
             return ChatResponse(
                 answer=_offtopic_message(lang),
                 low_confidence=False,

@@ -116,7 +116,8 @@ class Retriever:
 
     def retrieve(self, query: str, top_k: int | None = None,
                  province_filter: str | None = None,
-                 category_filter: str | None = None) -> RetrievalResult:
+                 category_filter: str | None = None,
+                 project_id: str | None = None) -> RetrievalResult:
         top_k = top_k or settings.top_k
         query_embedding = self._embedder.embed([query], task_type="RETRIEVAL_QUERY")[0]
 
@@ -130,6 +131,23 @@ class Retriever:
             # once the UI lets a farmer say "this is about my chickens" vs.
             # "this is about my rice" vs. "where do I sell this".
             base_conditions.append({"category": {"$eq": category_filter}})
+
+        # Multi-tenant isolation for "how do I use this app" docs (category
+        # "project_help", product = the owning project's id). A caller with
+        # no project_id (the farming web UI, the Telegram bot) must never
+        # see ANY project's internal docs. A caller WITH a project_id may
+        # see general farming content plus only that one project's own
+        # docs -- never another intern's project, even though they all live
+        # in the same collection.
+        if project_id:
+            base_conditions.append({
+                "$or": [
+                    {"category": {"$ne": "project_help"}},
+                    {"$and": [{"category": {"$eq": "project_help"}}, {"product": {"$eq": project_id}}]},
+                ]
+            })
+        else:
+            base_conditions.append({"category": {"$ne": "project_help"}})
 
         # If the query names a known crop/livestock product, restrict to it
         # first -- an exact keyword match beats embedding similarity here

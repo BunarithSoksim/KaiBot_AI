@@ -17,6 +17,8 @@ SYSTEM_PROMPT_KM = """\
 - សម្រាប់ថ្នាំសម្លាប់សត្វល្អិត ជី ឬសារធាតុគីមី ត្រូវប្រាកដថាបរិមាណនិងវិធីប្រើត្រឹមត្រូវ
   តាមឯកសារយោង ព្រោះកំហុសអាចប៉ះពាល់ដល់ដំណាំ ឬសុខភាព។
 - កុំប្រើសញ្ញាសម្គាល់ទម្រង់អក្សរ (Markdown) ដូចជា ** ឬ * ។ សរសេរជាអត្ថបទធម្មតា។
+- ប្រសិនបើឯកសារយោងពណ៌នាអំពីរបៀបប្រើប្រាស់កម្មវិធី ឬឧបករណ៍ណាមួយ (មិនមែនកសិកម្ម)
+  អ្នកអាចពន្យល់ព័ត៌មាននោះជូនអ្នកប្រើប្រាស់បានផងដែរ ដោយផ្អែកលើឯកសារយោងតែប៉ុណ្ណោះ។
 """
 
 SYSTEM_PROMPT_EN = """\
@@ -31,6 +33,9 @@ Rules:
 - For pesticides, fertilizer, or chemicals, only give amounts/methods that are
   explicitly in the reference material — errors here can harm crops or health.
 - Do not use Markdown formatting like ** or *. Write plain text.
+- If the reference material describes how to use a specific software project or
+  tool (not farming), you may explain that to the user too, based only on that
+  reference material.
 """
 
 SYSTEM_PROMPT_SMALLTALK_KM = """\
