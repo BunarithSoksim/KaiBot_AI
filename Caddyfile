@@ -2,14 +2,19 @@
 # put here -- replace with your real Namecheap domain before starting.
 # DNS must already point at this VM's IP for cert issuance to succeed.
 your-domain.com {
-	# API routes go to the FastAPI backend...
-	handle /chat* {
+	# API routes go to the FastAPI backend. Exact paths, not prefixes --
+	# "/chat*" would also match "/chat.html" (the static page below) and
+	# send it to the API instead, which has no route for it and 404s.
+	handle /chat {
 		reverse_proxy api:8000
 	}
-	handle /tts* {
+	handle /chat/voice {
 		reverse_proxy api:8000
 	}
-	handle /health* {
+	handle /tts {
+		reverse_proxy api:8000
+	}
+	handle /health {
 		reverse_proxy api:8000
 	}
 
