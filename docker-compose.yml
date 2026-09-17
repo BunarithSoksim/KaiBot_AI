@@ -33,7 +33,12 @@ services:
     restart: unless-stopped
     env_file:
       - ./kaibot_backend/.env
-    command: python src/telegram_bot/bot.py
+    # -m, not a direct file path: bot.py uses relative imports
+    # (`from .config import ...`), which only resolve when Python treats it
+    # as part of the src.telegram_bot package -- running it as a bare
+    # script path fails with "attempted relative import with no known
+    # parent package".
+    command: python -m src.telegram_bot.bot
     depends_on:
       - api
 
