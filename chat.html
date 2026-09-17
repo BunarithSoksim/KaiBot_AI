@@ -262,7 +262,14 @@
   @media (max-width: 480px) {
     header { padding-top: 12px; padding-bottom: 12px; gap: 6px; }
     header { padding-left: max(14px, env(safe-area-inset-left)); padding-right: max(14px, env(safe-area-inset-right)); }
-    .logo { font-size: 1rem; }
+    /* Side clusters (back arrow + logo + KM/EN toggle + dark mode + speaker)
+       get wide enough at phone widths that absolute-centering the logo
+       collides with the header-actions cluster -- observed as the logo
+       text and KM/EN toggle overlapping on real devices in the ~390-430px
+       range. Fall back to normal flex flow so nothing overlaps. */
+    .logo { position: static; transform: none; order: 0; font-size: 1rem; }
+    header a.back { order: -1; }
+    .header-actions { order: 1; margin-left: auto; }
     .logo-icon { width: 23px; height: 23px; }
     .lang-toggle button { padding: 5px 9px; font-size: 0.66rem; }
     .icon-btn { width: 34px; height: 34px; }
@@ -277,14 +284,6 @@
     button.send { padding: 13px 16px; font-size: 0.86rem; }
     button.mic-btn { width: 46px; height: 46px; }
     button.mic-btn svg { width: 19px; height: 19px; }
-  }
-
-  @media (max-width: 420px) {
-    /* Side clusters get wide enough here that absolute centering can
-       collide with them -- fall back to flex order so nothing overlaps. */
-    .logo { position: static; transform: none; order: 0; }
-    header a.back { order: -1; }
-    .header-actions { order: 1; }
   }
 
   @media (max-width: 340px) {
