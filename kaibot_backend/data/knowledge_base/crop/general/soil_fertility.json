@@ -1,0 +1,92 @@
+[
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "soil_testing",
+    "text": "Soil testing helps identify acidity, nutrient levels, and other constraints so fertilizer and soil amendments can be used more efficiently. It is better than applying nutrients only by guesswork. Use local soil-test or extension recommendations for rates."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "organic_matter",
+    "text": "Return suitable crop residues, use well-managed compost or manure, grow cover crops where practical, and reduce unnecessary soil disturbance. Organic matter improves structure and water-holding capacity over time. Use local soil-test or extension recommendations for rates."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "compost",
+    "text": "Mix suitable plant materials with nitrogen-rich material, keep the pile moist but not waterlogged, provide airflow, and turn it periodically. Mature compost should be dark, crumbly, and not strongly foul-smelling. Use local soil-test or extension recommendations for rates."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "manure",
+    "text": "Use properly composted or well-managed manure and apply according to crop and soil needs. Fresh manure can burn plants, carry pathogens, or create food-safety problems if used improperly. Use local soil-test or extension recommendations for rates."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "nitrogen",
+    "text": "Nitrogen supports leaf growth, chlorophyll formation, and yield. Too little causes poor growth; too much can produce weak, overly vegetative plants and increase some pest or disease risks. Use local soil-test or extension recommendations for rates."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "phosphorus",
+    "text": "Phosphorus supports roots, energy transfer, flowering, and seed development. Deficiency symptoms can be confused with other stresses, so soil testing is useful before applying large amounts. Use local soil-test or extension recommendations for rates."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "potassium",
+    "text": "Potassium helps water regulation, enzyme activity, plant strength, and stress tolerance. Deficiency can cause leaf-edge scorching or poor quality, but diagnosis should consider other causes. Use local soil-test or extension recommendations for rates."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "soil_acidity",
+    "text": "A soil test is the best method to check acidity. Acid soils can restrict nutrient availability and sometimes increase aluminum or manganese problems. Liming, when recommended by a soil test, can help. Use local soil-test or extension recommendations for rates."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "erosion",
+    "text": "Keep soil covered, use contour or other appropriate field layouts on slopes, maintain vegetation strips, and reduce unnecessary bare-soil periods. Slow water movement rather than allowing concentrated runoff. Use local soil-test or extension recommendations for rates."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "fertilizer_timing",
+    "text": "Timing should match crop nutrient demand, soil type, rainfall, and fertilizer type. Splitting nitrogen applications can reduce losses compared with applying all nitrogen at once. Use local soil-test or extension recommendations for rates."
+  }
+]

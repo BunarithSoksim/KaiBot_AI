@@ -30,6 +30,7 @@ KNOWN_PRODUCTS = [
     "peanut", "pig", "pineapple", "pomelo", "poultry", "pumpkin", "radish",
     "rice", "round_luffa", "soybean", "sweet_potato", "taro", "tomato",
     "watermelon", "wax_gourd", "wild_orchid", "yard_long_bean",
+    "fish",
 ]
 
 

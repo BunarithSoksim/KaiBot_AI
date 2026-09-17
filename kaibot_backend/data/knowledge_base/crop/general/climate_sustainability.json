@@ -1,0 +1,92 @@
+[
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "rainfall_planting_planning",
+    "text": "Track local rainfall forecasts and historical patterns, then match crop duration and planting date to expected water availability. Keep a backup plan for delayed or excessive rain. Plan around Cambodia's wet and dry seasons and local weather risks."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "drought_resilience",
+    "text": "To become more drought resilient, improve soil organic matter, use water-efficient irrigation, choose suitable varieties, mulch where appropriate, diversify crops, and maintain water storage where feasible. Plan around Cambodia's wet and dry seasons and local weather risks."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "flood_resilience",
+    "text": "To become more flood resilient, improve drainage, avoid planting sensitive crops in known flood-prone periods, protect seed and livestock areas, maintain safe raised storage, and plan emergency livestock movement. Plan around Cambodia's wet and dry seasons and local weather risks."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "heat_stress_crops",
+    "text": "Extreme heat can reduce flowering, pollination, fruit set, grain filling, and water-use efficiency in crops. Irrigation timing, shade where appropriate, mulch, and heat-tolerant varieties can reduce stress. Plan around Cambodia's wet and dry seasons and local weather risks."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "wind_damage_crops",
+    "text": "Strong wind can break stems, increase evaporation, cause lodging, and damage fruit. Windbreaks, suitable staking, crop selection, and soil moisture management can help protect crops from wind damage. Plan around Cambodia's wet and dry seasons and local weather risks."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "agroforestry",
+    "text": "Agroforestry combines trees with crops or livestock. It can diversify farm income, improve habitat, protect soil, and sometimes moderate heat and wind, but species and spacing must fit the farm. Plan around Cambodia's wet and dry seasons and local weather risks."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "soil_carbon",
+    "text": "To improve soil carbon, keep living roots or residues in the system, add suitable organic matter, reduce unnecessary disturbance, and maintain diverse rotations where practical. Plan around Cambodia's wet and dry seasons and local weather risks."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "farm_biodiversity",
+    "text": "A farm can support biodiversity by maintaining field margins, flowering plants, trees, ponds or habitat areas where practical, reducing unnecessary pesticide use, and protecting natural vegetation and waterways. Plan around Cambodia's wet and dry seasons and local weather risks."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "farm_waste_management",
+    "text": "Separate organic waste, recyclable materials, chemical containers, and other hazardous waste. Compost suitable organic materials and follow local rules for pesticide containers and other hazardous items. Plan around Cambodia's wet and dry seasons and local weather risks."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "solar_power_farm",
+    "text": "Solar power can support water pumps, lighting, refrigeration, monitoring equipment, or small processing systems where the economics and sunlight are suitable. Compare installation, maintenance, storage, and electricity savings before investing. Plan around Cambodia's wet and dry seasons and local weather risks."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "irrigation_water_source",
+    "text": "Prefer a reliable irrigation water source with suitable quantity and acceptable quality. Consider salinity, contamination, seasonal availability, and distance to the field. Test questionable water before using it for sensitive crops. Water availability varies greatly by season and location in Cambodia."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "water_quality_crops",
+    "text": "Poor water quality can hurt crops: high salinity, extreme pH, suspended solids, or contaminants can reduce growth or clog irrigation equipment. Water testing is useful when crop performance is unexpectedly poor. Water availability varies greatly by season and location in Cambodia."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "drip_irrigation",
+    "text": "Drip irrigation systems deliver water near the root zone and can reduce evaporation and wetting of foliage. They require filtration, maintenance, and good water management. Water availability varies greatly by season and location in Cambodia."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "rainwater_harvesting",
+    "text": "Farmers can collect rainwater: roofs, lined ponds, tanks, and other systems can capture rainwater where safe and legal. Keep storage clean and size it according to rainfall, catchment area, and demand. Water availability varies greatly by season and location in Cambodia."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "drought_water_shortage",
+    "text": "When there is not enough water, prioritize high-value or most vulnerable crops, reduce evaporation with mulch, repair leaks, improve irrigation timing, and avoid unnecessary water use. Plan future planting around expected water availability. Water availability varies greatly by season and location in Cambodia."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "flooded_field_recovery",
+    "text": "After a field is flooded, drain safely when possible, inspect roots and plant damage, remove contaminated produce, and monitor for disease. Food crops exposed to potentially contaminated floodwater may not be safe to harvest for consumption. Water availability varies greatly by season and location in Cambodia."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "farm_pond_health",
+    "text": "To keep a farm pond healthy, control erosion, keep excessive nutrients and waste out, maintain stable banks, remove unwanted debris, and monitor water color, odor, and aquatic life. Avoid contaminating ponds with pesticides or animal waste. Water availability varies greatly by season and location in Cambodia."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "unhealthy_pond_water_signs",
+    "text": "Warning signs that pond water is unhealthy for fish include foul odor, sudden fish gasping, unusual deaths, extreme color changes, or excessive algae. Check dissolved oxygen, temperature, pH, and ammonia when possible. Water availability varies greatly by season and location in Cambodia."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "aquatic_biodiversity_protection",
+    "text": "Healthy ponds, streams, and wetlands support fish, insects, natural food webs, and ecosystem services. Farmers should avoid unnecessary pollution, destructive fishing, and pesticide drift into water to protect aquatic life. Water availability varies greatly by season and location in Cambodia."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "irrigation_water_saving",
+    "text": "The simplest ways to save irrigation water: fix leaks, irrigate at appropriate times, improve field leveling, mulch where suitable, and monitor soil moisture. Apply water to the root zone instead of wetting unnecessary areas. Water availability varies greatly by season and location in Cambodia."
+  }
+]

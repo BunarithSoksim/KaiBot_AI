@@ -1,0 +1,92 @@
+[
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "pest_scouting_frequency",
+    "text": "Inspect crops for pests regularly, especially during vulnerable growth stages and after weather changes. Check both the crop and nearby weeds, and record what you see so trends can be detected early. Use only legally registered products and follow Cambodian label requirements."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "integrated_pest_management",
+    "text": "Integrated pest management (IPM) combines prevention, monitoring, biological control, cultural practices, physical control, and carefully selected pesticides when necessary. The goal is effective control with lower unnecessary pesticide use. Use only legally registered products and follow Cambodian label requirements."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "beneficial_insects",
+    "text": "Predatory insects, parasitoids, and pollinators can reduce pest populations or support crop production. Avoid unnecessary broad-spectrum pesticide use that can kill these helpful organisms. Use only legally registered products and follow Cambodian label requirements."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "aphid_management",
+    "text": "To manage aphids, monitor young shoots and leaf undersides, encourage natural enemies, remove heavily infested plant parts when practical, and use an approved control only when needed and according to its label. Use only legally registered products and follow Cambodian label requirements."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "whitefly_recognition",
+    "text": "Whitefly adults are tiny white insects that fly when foliage is disturbed; immature stages occur on leaf undersides. They can cause sap-feeding damage and transmit plant viruses. Use only legally registered products and follow Cambodian label requirements."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "caterpillar_control",
+    "text": "For caterpillars, inspect leaves and growing points, remove small infestations by hand where practical, encourage natural enemies, and use an approved control when necessary. Identify the caterpillar before treatment. Use only legally registered products and follow Cambodian label requirements."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "fungal_disease_causes",
+    "text": "Warm, humid conditions, prolonged leaf wetness, poor airflow, infected residues, and plant stress can favor many fungal diseases in crops. Sanitation, spacing, resistant varieties, and good water management help. Use only legally registered products and follow Cambodian label requirements."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "plant_virus_management",
+    "text": "There is usually no curative spray for a virus-infected plant. Use healthy planting material, control insect vectors, remove severely infected plants where appropriate, and manage weeds that may host vectors or viruses. Use only legally registered products and follow Cambodian label requirements."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "pesticide_safety",
+    "text": "To use pesticides safely, read and follow the product label, wear required protective equipment, keep pesticides away from food and children, observe re-entry and pre-harvest intervals, and never mix products unless the label permits it. Use only legally registered products and follow Cambodian label requirements."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "crop",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "sprayer_calibration",
+    "text": "Calibrating a sprayer helps apply the intended amount uniformly and reduces under- or over-application. Check nozzle condition, walking or driving speed, pressure, and output before spraying. Use only legally registered products and follow Cambodian label requirements."
+  }
+]

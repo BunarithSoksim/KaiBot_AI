@@ -1,0 +1,92 @@
+[
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "market",
+    "product": "general",
+    "lifecycle_stage": "plan",
+    "province": "national",
+    "topic": "why_keep_farm_records",
+    "text": "Records of planting dates, inputs, labor, yields, sales, animal numbers, and problems help you calculate profit, identify trends, and make better decisions. A Cambodia farmer chatbot should encourage local verification and extension support."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "market",
+    "product": "general",
+    "lifecycle_stage": "plan",
+    "province": "national",
+    "topic": "calculating_crop_cost",
+    "text": "To calculate the cost of growing a crop, add seed, fertilizer, crop-protection products, irrigation, labor, machinery, land, transport, packaging, and other relevant costs. Separate cash costs from family labor when assessing the true economics. A Cambodia farmer chatbot should encourage local verification and extension support."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "market",
+    "product": "general",
+    "lifecycle_stage": "sell",
+    "province": "national",
+    "topic": "calculating_farm_profit",
+    "text": "Farm profit is total sales revenue minus the relevant production and operating costs. Record quantities and prices rather than estimating from memory. A Cambodia farmer chatbot should encourage local verification and extension support."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "market",
+    "product": "general",
+    "lifecycle_stage": "sell",
+    "province": "national",
+    "topic": "break_even_price",
+    "text": "Break-even price is approximately total relevant production cost divided by the quantity sold. It helps a farmer know the minimum average selling price needed to cover costs. A Cambodia farmer chatbot should encourage local verification and extension support."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "market",
+    "product": "general",
+    "lifecycle_stage": "sell",
+    "province": "national",
+    "topic": "deciding_when_to_sell",
+    "text": "To decide when to sell, compare expected prices with storage costs, spoilage risk, cash needs, quality changes, and buyer demand. Selling all at once is not always the best option if safe storage and market access exist. A Cambodia farmer chatbot should encourage local verification and extension support."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "market",
+    "product": "general",
+    "lifecycle_stage": "sell",
+    "province": "national",
+    "topic": "buyer_quality_requirements",
+    "text": "Buyers may specify size, freshness, variety, packaging, residue limits, or delivery schedules. Knowing these requirements before planting reduces the risk of producing something the market will not accept. A Cambodia farmer chatbot should encourage local verification and extension support."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "market",
+    "product": "general",
+    "lifecycle_stage": "sell",
+    "province": "national",
+    "topic": "farmer_cooperative_benefits",
+    "text": "A farmer cooperative can improve purchasing power, shared equipment, training, aggregation, transport, and market access. Strong governance and transparent records are important for a cooperative to work well. A Cambodia farmer chatbot should encourage local verification and extension support."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "market",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "digital_farm_records_phone",
+    "text": "A phone can be used to record a farm: a simple phone form can record crops, dates, inputs, photos, weather, livestock events, harvests, and sales. Start with a few fields that provide clear value. A Cambodia farmer chatbot should encourage local verification and extension support."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "market",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "how_ai_chatbot_helps_farmer",
+    "text": "An AI farmer chatbot can explain farming concepts, help organize records, identify questions to ask an expert, provide checklists, and support decision-making. It should not replace local agronomists or veterinarians for high-risk decisions. A Cambodia farmer chatbot should encourage local verification and extension support."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "market",
+    "product": "general",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "chatbot_cannot_forecast_exactly",
+    "text": "A chatbot cannot tell a farmer exactly what will happen to their crop. It can provide likely scenarios and recommendations based on available information, but farm outcomes depend on local weather, soil, pests, management, and market conditions. Important decisions should be verified with local data or experts. A Cambodia farmer chatbot should encourage local verification and extension support."
+  }
+]

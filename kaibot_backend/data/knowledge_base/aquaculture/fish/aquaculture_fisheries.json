@@ -1,0 +1,92 @@
+[
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "aquaculture",
+    "product": "fish",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "suitable_fish_species",
+    "text": "Species choice for small farms depends on water availability, climate, market demand, feed availability, and local regulations. Commonly farmed freshwater fish in Southeast Asia include tilapia, carp, and several catfish species. Follow local fisheries and aquaculture regulations."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "aquaculture",
+    "product": "fish",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "choosing_healthy_fingerlings",
+    "text": "Choose active, uniform fish fingerlings from a reliable hatchery. Avoid fish that are lethargic, injured, excessively thin, or showing abnormal swimming or lesions. Follow local fisheries and aquaculture regulations."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "aquaculture",
+    "product": "fish",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "pond_stocking_density",
+    "text": "Stocking density for fish depends on pond size, species, water quality, aeration, feed, and management. Overstocking increases oxygen demand and disease risk, so follow a locally tested production plan. Follow local fisheries and aquaculture regulations."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "aquaculture",
+    "product": "fish",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "feeding_pond_fish",
+    "text": "Use a suitable feed and feed pond fish according to fish size, biomass, water temperature, and observed consumption. Remove practices that create excessive uneaten feed because it can degrade water quality. Follow local fisheries and aquaculture regulations."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "aquaculture",
+    "product": "fish",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "dissolved_oxygen_importance",
+    "text": "Fish need dissolved oxygen for respiration. Low oxygen can cause fish to gather at the surface, reduce feeding, and eventually die. Aeration and reducing organic loading can help prevent problems. Follow local fisheries and aquaculture regulations."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "aquaculture",
+    "product": "fish",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "green_pond_water_algae",
+    "text": "Green pond water is not necessarily bad: moderate algae can contribute oxygen during daylight, but dense blooms can cause large oxygen swings and nighttime depletion. Sudden color or odor changes should be investigated. Follow local fisheries and aquaculture regulations."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "aquaculture",
+    "product": "fish",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "fish_disease_signs",
+    "text": "Common signs of fish disease include abnormal swimming, loss of appetite, skin lesions, fin damage, unusual color, gasping, or sudden deaths. Check water quality first and seek aquatic animal health advice. Follow local fisheries and aquaculture regulations."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "aquaculture",
+    "product": "fish",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "fish_harvest_timing",
+    "text": "Harvest pond fish when they reach the target market size and the economics are favorable. Sample fish regularly rather than relying only on calendar age. Follow local fisheries and aquaculture regulations."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "aquaculture",
+    "product": "fish",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "pond_preparation_before_stocking",
+    "text": "Before stocking a pond, repair banks, remove harmful debris, ensure water control structures work, check water quality, and follow a suitable pond preparation protocol for the species. Follow local fisheries and aquaculture regulations."
+  },
+  {
+    "source": "AI-assisted content generation (ChatGPT), general agricultural best practice -- no Cambodia-specific citation, pending verification",
+    "category": "aquaculture",
+    "product": "fish",
+    "lifecycle_stage": "general",
+    "province": "national",
+    "topic": "integrated_fish_crop_farming",
+    "text": "Fish farming can be combined with crops in integrated systems that recycle nutrients and diversify income, but they need careful water-quality and food-safety management. Avoid contaminating fish water with agricultural chemicals or animal waste. Follow local fisheries and aquaculture regulations."
+  }
+]
